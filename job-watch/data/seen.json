@@ -31,10 +31,10 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-track-field-cross-country-306995",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-306984",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-women-s-rowing-141113-306989",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-for-compliance-248008",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-for-creative-video-men-s-basketball-306981",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-wrestling-coach-307010",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-306993",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/associate-sr-associate-athletic-trainer-men-s-basketball-307006",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-ticketing-sales-creative-intern-307025",
@@ -53,11 +53,7 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2188366",
   "TeamWork Online (all sports, newest)::2190455",
-  "TeamWork Online (all sports, newest)::2190931",
-  "TeamWork Online (all sports, newest)::2190932",
   "TeamWork Online (all sports, newest)::2190933",
-  "TeamWork Online (all sports, newest)::2190934",
-  "TeamWork Online (all sports, newest)::2190935",
   "TeamWork Online (all sports, newest)::2190936",
   "TeamWork Online (all sports, newest)::2190937",
   "TeamWork Online (all sports, newest)::2190938",
@@ -250,7 +246,11 @@
   "TeamWork Online (all sports, newest)::2191156",
   "TeamWork Online (all sports, newest)::2191157",
   "TeamWork Online (all sports, newest)::2191158",
-  "TeamWork Online (all sports, newest)::2191159"
+  "TeamWork Online (all sports, newest)::2191159",
+  "TeamWork Online (all sports, newest)::2191160",
+  "TeamWork Online (all sports, newest)::2191161",
+  "TeamWork Online (all sports, newest)::2191162",
+  "TeamWork Online (all sports, newest)::2191163"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130243",
@@ -768,7 +768,8 @@
   "San Diego Padres::2699852",
   "San Diego Padres::2706790",
   "San Diego Padres::2813576",
-  "San Diego Padres::2859226"
+  "San Diego Padres::2859226",
+  "San Diego Padres::2881948"
  ],
  "lever:sfgiants": [
   "San Francisco Giants::27d83d3c-a790-401e-8ce1-9ac3f32426f0",
@@ -1343,9 +1344,9 @@
   "Mariners Church::change-48101b2e438d"
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07c5da337017c9998a2cb1623": [
-  "PAYCOR board career::8a78839f9b1376bd019b28c59f4f412e",
-  "PAYCOR board career::8a78839fa064212401a090a88d745494",
-  "PAYCOR board career::8a78839fa064212401a090ae9a1f56b4"
+  "Cincinnati Reds::8a78839f9b1376bd019b28c59f4f412e",
+  "Cincinnati Reds::8a78839fa064212401a090a88d745494",
+  "Cincinnati Reds::8a78839fa064212401a090ae9a1f56b4"
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08b729b3e018b72dc67f6007f": [],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c662cbb4070162d48197a73653": [],
