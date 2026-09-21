@@ -17,9 +17,11 @@ companies:
     id: teamworks
 
   - name: FanGraphs Job Postings
-    type: page
-    url: https://www.fangraphs.com/blog-roll?blog=fg&category=Job%20Postings
-    link_contains: job-posting
+    type: rss        # the blog page blocks automated readers; its RSS feed doesn't
+    urls:
+      - https://blogs.fangraphs.com/category/job-postings/feed/
+      - https://blogs.fangraphs.com/feed/
+    title_contains: "Job Posting"
 
   - name: Intercollegiate
     type: page
@@ -52,11 +54,13 @@ companies:
     type: workday
     url: https://nascar.wd1.myworkdayjobs.com/NASCAR
 
-  # ----- Boards you linked that don't name the organization -----
-  - type: ukg
+  # ----- Other sports organizations -----
+  - name: Kawasaki
+    type: ukg
     url: https://recruiting2.ultipro.com/KAW1000/JobBoard/f2ca734a-88d6-e1ac-3045-794fdba792fc/?q=&o=postedDateDesc&f4=GWnvd9HRbVKp_KYa-RQNWg+AQ2b9AHksF-ytAmN4NS7Sw
 
-  - type: ukg
+  - name: IndyCar
+    type: ukg
     url: https://recruiting.ultipro.com/PEN1024PMCO/JobBoard/5ad6ac0e-0d86-4154-b9b5-d663b091efca/?q=&o=postedDateDesc
 
   # ----- MLB teams -----
@@ -162,7 +166,8 @@ companies:
     type: workday
     url: https://mariners.wd5.myworkdayjobs.com/en-US/Mariners
 
-  - type: adp
+  - name: Tampa Bay Rays
+    type: adp
     url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d4e6b608-831f-4a04-bdb6-f61493552d27&ccId=19000101_000001&lang=en_US
 
   # ----- NFL teams -----
@@ -190,10 +195,12 @@ companies:
     type: ukg
     url: https://recruiting.ultipro.com/HOC10001BFLO/JobBoard/fe63f75a-e850-45d2-8772-63a210927fdc/?q=&o=postedDateDesc
 
-  - type: dayforce
+  - name: Carolina Panthers
+    type: dayforce
     url: https://jobs.dayforcehcm.com/cp87/CANDIDATEPORTAL
 
-  - type: adp
+  - name: Chicago Bears
+    type: adp
     url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0103272e-a631-4293-97b2-7da68f74bc1f&ccId=19000101_000001&type=MP&lang=en_US
 
   - name: Cleveland Browns
@@ -212,10 +219,12 @@ companies:
     type: dayforce
     url: https://jobs.dayforcehcm.com/en-US/greenbaypackers/CANDIDATEPORTAL
 
-  - type: adp
+  - name: Las Vegas Raiders
+    type: adp
     url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=58d2d945-3a8e-4bea-81f1-e18a4a93c137&ccId=19000101_000001&type=MP&lang=en_US
 
-  - type: paycom
+  - name: New England Patriots (Kraft Group)
+    type: paycom
     url: https://www.paycomonline.net/v4/ats/web.php/portal/715F4103F5E4D572C92AFE85684343DC/career-page?jobSearchSettingsId=9272
 
   - name: New Orleans Saints
@@ -281,7 +290,8 @@ companies:
   # Paycor's robots.txt asks automated tools not to visit. You chose to check
   # these anyway, so they're set to ignore that request and are checked
   # gently: every 2 hours instead of every 30 minutes.
-  - type: paycor
+  - name: Cincinnati Reds
+    type: paycor
     url: https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07c5da337017c9998a2cb1623
     ignore_robots: true
     every_minutes: 120
