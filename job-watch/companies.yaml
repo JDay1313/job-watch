@@ -1,0 +1,307 @@
+# ---------------------------------------------------------------
+# Job Watch: companies and job boards to check every 30 minutes.
+#
+# Entries without a "name" get named automatically from the page's
+# own title on the first run. Add a name line to override it.
+#
+# Types: greenhouse, lever, ashby, smartrecruiters, workday, ukg,
+# dayforce, adp, bamboohr, hireology, isolved, icims, paycom,
+# teamwork (TeamWork Online), page (any other careers page).
+# ---------------------------------------------------------------
+
+companies:
+
+  # ----- Sports job boards -----
+  - name: Teamworks
+    type: ashby
+    id: teamworks
+
+  - name: FanGraphs Job Postings
+    type: page
+    url: https://www.fangraphs.com/blog-roll?blog=fg&category=Job%20Postings
+    link_contains: job-posting
+
+  - name: Intercollegiate
+    type: page
+    url: https://intercollegiate.co/
+
+  - name: NCAA Market
+    type: page
+    url: https://ncaamarket.ncaa.org/jobs?keywords=&place=
+    link_contains: /job/
+
+  - name: TeamWork Online (all sports, newest)
+    type: teamwork
+    url: https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent
+    pages: 2
+
+  - name: TeamWork Online (NFL teams)
+    type: teamwork
+    url: https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs
+    pages: 3
+
+  - name: MLB League Office
+    type: greenhouse
+    id: majorleaguebaseball      # the board behind mlb.com/careers/opportunities
+
+  - name: NFL League Office
+    type: greenhouse
+    id: nflcareers
+
+  - name: NASCAR
+    type: workday
+    url: https://nascar.wd1.myworkdayjobs.com/NASCAR
+
+  # ----- Boards you linked that don't name the organization -----
+  - type: ukg
+    url: https://recruiting2.ultipro.com/KAW1000/JobBoard/f2ca734a-88d6-e1ac-3045-794fdba792fc/?q=&o=postedDateDesc&f4=GWnvd9HRbVKp_KYa-RQNWg+AQ2b9AHksF-ytAmN4NS7Sw
+
+  - type: ukg
+    url: https://recruiting.ultipro.com/PEN1024PMCO/JobBoard/5ad6ac0e-0d86-4154-b9b5-d663b091efca/?q=&o=postedDateDesc
+
+  # ----- MLB teams -----
+  - name: Philadelphia Phillies (Baseball Ops)
+    type: greenhouse
+    id: philliesbaseballoperations
+
+  - name: Atlanta Braves
+    type: workday
+    url: https://atlantabravesmlb.wd5.myworkdayjobs.com/AtlantaBraves
+
+  - name: New York Mets
+    type: workday
+    url: https://sterlingmets.wd5.myworkdayjobs.com/Mets
+
+  - name: Washington Nationals
+    type: ukg
+    url: https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/?q=&o=postedDateDesc
+
+  - name: Miami Marlins
+    type: teamwork
+    url: https://www.teamworkonline.com/baseball-jobs/miamibaseball/miami-marlins
+    pages: 2
+
+  - name: New York Yankees
+    type: adp
+    url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?source=TeamWork&client=nyyanks&ccId=19000101_000001&cid=5ebae4fe-1105-47a5-b26d-e74868af6e86&lang=en_US&selectedMenuKey=CareerCenter
+
+  - name: Toronto Blue Jays
+    type: bamboohr
+    url: https://torontobluejays.bamboohr.com/careers
+
+  - name: Baltimore Orioles
+    type: greenhouse
+    id: baltimoreorioles
+
+  - name: Boston Red Sox
+    type: lever
+    id: redsox
+
+  - name: Pittsburgh Pirates
+    type: ukg
+    url: https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/?q=&o=postedDateDesc
+
+  - name: Chicago Cubs
+    type: workday
+    url: https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO
+
+  - name: St. Louis Cardinals
+    type: page
+    url: https://stlcardinals.aaimtrack.com/jobs/
+    link_contains: /jobs/
+
+  - name: Milwaukee Brewers
+    type: icims
+    url: https://careers-brewers.icims.com/jobs/search
+
+  - name: Detroit Tigers
+    type: workday
+    url: https://ilitch.wd5.myworkdayjobs.com/Detroit-Tigers
+
+  - name: Cleveland Guardians (Baseball Ops)
+    type: greenhouse
+    id: clevelandguardiansbops
+
+  - name: Kansas City Royals
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/royals/CANDIDATEPORTAL
+
+  - name: Chicago White Sox
+    type: ukg
+    url: https://recruiting2.ultipro.com/CHI1000CWS/JobBoard/8e2339b4-b699-46e9-8b91-e3e826e53794/?q=&o=postedDateDesc
+
+  - name: Los Angeles Dodgers
+    type: ukg
+    url: https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/?q=&o=postedDateDesc
+
+  - name: San Diego Padres
+    type: hireology
+    url: https://careers.hireology.com/sandiegopadres
+
+  - name: San Francisco Giants
+    type: lever
+    id: sfgiants
+
+  - name: Colorado Rockies
+    type: ukg
+    url: https://recruiting2.ultipro.com/COL1047COLBA/JobBoard/17b65dc7-8957-462f-bbe5-957d054a4367/?q=&o=postedDateDesc
+
+  - name: Los Angeles Angels
+    type: ukg
+    url: https://recruiting2.ultipro.com/ANG1000ANGEL/JobBoard/c2c34b69-1480-428d-a3a9-c45e8297edb3/?q=&o=postedDateDesc
+
+  - name: Texas Rangers
+    type: workday
+    url: https://rangersmlb.wd5.myworkdayjobs.com/en-US/Rangers
+
+  - name: Athletics (Baseball Ops)
+    type: greenhouse
+    id: athleticsbaseballops
+
+  - name: Seattle Mariners
+    type: workday
+    url: https://mariners.wd5.myworkdayjobs.com/en-US/Mariners
+
+  - type: adp
+    url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d4e6b608-831f-4a04-bdb6-f61493552d27&ccId=19000101_000001&lang=en_US
+
+  # ----- NFL teams -----
+  - name: Philadelphia Eagles
+    type: greenhouse
+    id: philadelphiaeagles
+
+  - name: Dallas Cowboys
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/jonesentities/DALLASCOWBOYSFOOTBALLCLUB
+
+  - name: Arizona Cardinals
+    type: ukg
+    url: https://recruiting2.ultipro.com/ARI1001CARD/JobBoard/bfe37693-2c0a-46b6-af4e-f984b08a8e7f/?q=&o=postedDateDesc
+
+  - name: Atlanta Falcons (AMB Sports + Entertainment)
+    type: workday
+    url: https://ambgroup.wd1.myworkdayjobs.com/AMBSE
+
+  - name: Baltimore Ravens
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/en-US/baltimoreravens/CANDIDATEPORTAL
+
+  - name: Buffalo Bills
+    type: ukg
+    url: https://recruiting.ultipro.com/HOC10001BFLO/JobBoard/fe63f75a-e850-45d2-8772-63a210927fdc/?q=&o=postedDateDesc
+
+  - type: dayforce
+    url: https://jobs.dayforcehcm.com/cp87/CANDIDATEPORTAL
+
+  - type: adp
+    url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0103272e-a631-4293-97b2-7da68f74bc1f&ccId=19000101_000001&type=MP&lang=en_US
+
+  - name: Cleveland Browns
+    type: isolved
+    url: https://clevelandbrowns.isolvedhire.com/jobs/
+
+  - name: Denver Broncos
+    type: greenhouse
+    id: denverbroncosteamllc
+
+  - name: Detroit Lions
+    type: greenhouse
+    id: detroitlions
+
+  - name: Green Bay Packers
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/en-US/greenbaypackers/CANDIDATEPORTAL
+
+  - type: adp
+    url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=58d2d945-3a8e-4bea-81f1-e18a4a93c137&ccId=19000101_000001&type=MP&lang=en_US
+
+  - type: paycom
+    url: https://www.paycomonline.net/v4/ats/web.php/portal/715F4103F5E4D572C92AFE85684343DC/career-page?jobSearchSettingsId=9272
+
+  - name: New Orleans Saints
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/bensonenterprises/SAINTSPELSCAREERS
+
+  - name: Seattle Seahawks
+    type: page
+    url: https://www2.seahawks.com/employment/openings/
+
+  - name: Tampa Bay Buccaneers
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/tbb/CANDIDATEPORTALTBB
+
+  - name: Tennessee Titans
+    type: dayforce
+    url: https://jobs.dayforcehcm.com/titans/CANDIDATEPORTAL
+
+  # ----- Sports data, fantasy and betting -----
+  - name: Sportradar
+    type: smartrecruiters
+    id: Sportradar
+
+  - name: PrizePicks
+    type: greenhouse
+    id: prizepicks
+
+  - name: Underdog
+    type: greenhouse
+    id: underdog
+
+  - name: Sleeper
+    type: ashby
+    id: sleeper
+
+  - name: DraftKings
+    type: workday
+    url: https://draftkings.wd1.myworkdayjobs.com/DraftKings
+
+  - name: FanDuel
+    type: greenhouse
+    id: fanduel
+
+  - name: ESPN (Disney Careers)
+    type: page
+    url: https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]
+    link_contains: /job/
+
+  # ----- Other -----
+  - name: Daiwa
+    type: page
+    url: https://daiwa.us/pages/careers-page
+
+  - name: Okuma Fishing
+    type: page
+    url: https://okumafishingusa.com/pages/current-openings
+
+  - name: Mariners Church
+    type: page
+    url: https://www.marinerschurch.org/careers/
+
+  # ----- Paycor boards -----
+  # Paycor's robots.txt asks automated tools not to visit. You chose to check
+  # these anyway, so they're set to ignore that request and are checked
+  # gently: every 2 hours instead of every 30 minutes.
+  - type: paycor
+    url: https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07c5da337017c9998a2cb1623
+    ignore_robots: true
+    every_minutes: 120
+
+  - type: paycor
+    url: https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08b729b3e018b72dc67f6007f
+    ignore_robots: true
+    every_minutes: 120
+
+  - type: paycor
+    url: https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c662cbb4070162d48197a73653
+    ignore_robots: true
+    every_minutes: 120
+
+  # ----- Not monitored -----
+  # Indeed (Daiwa) blocks automated checks outright; Daiwa's own careers page is watched above.
+
+# Global filters. Leave a list empty to allow everything.
+# Matching is case-insensitive and looks for the words anywhere.
+filters:
+  keywords: []          # job title must contain at least one, e.g. [analyst, analytics, data]
+  exclude: []           # skip titles containing any, e.g. [cook, custodian, security]
+  locations: []         # location must contain at least one, e.g. [remote, CA]
