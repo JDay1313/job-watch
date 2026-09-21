@@ -339,13 +339,19 @@ def fetch_dayforce(c):
     ns, board = parts[0], (parts[1] if len(parts) > 1 else "CANDIDATEPORTAL")
     origin = f"{u.scheme}://{u.netloc}"
     board_url = f"{origin}/{culture}/{ns}/{board}"
-    page = requests.get(board_url, headers=BROWSER_HEADERS, timeout=TIMEOUT)
-    page.raise_for_status()
+    sess = requests.Session()
+    sess.headers.update({**BROWSER_HEADERS,
+                         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                         "Sec-Fetch-Mode": "navigate", "Sec-Fetch-Site": "none",
+                         "Upgrade-Insecure-Requests": "1"})
     payload = {"clientNamespace": ns, "jobBoardCode": board, "cultureCode": culture,
                "paginationStart": 0, "distanceUnit": 0}
-    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page.text, re.S)
-    if m:
-        try:
+    page_status = None
+    try:
+        page = sess.get(board_url, timeout=TIMEOUT)
+        page_status = page.status_code
+        m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page.text, re.S)
+        if m:
             nd = json.loads(m.group(1))
             for q in nd.get("props", {}).get("pageProps", {}).get("dehydratedState", {}).get("queries", []):
                 if (q.get("queryKey") or [""])[0] == "site-info":
@@ -357,12 +363,21 @@ def fetch_dayforce(c):
                                    cultureCode=info.get("cultureCode") or culture)
                     if info.get("jobBoardId"):
                         payload["jobBoardId"] = info["jobBoardId"]
-        except Exception:
-            pass
-    r = requests.post(f"{origin}/api/geo/{ns}/jobposting/search", json=payload,
-                      headers={**BROWSER_HEADERS, "Accept": "application/json",
-                               "Origin": origin, "Referer": board_url}, timeout=TIMEOUT)
-    r.raise_for_status()
+    except Exception:
+        pass
+    api_headers = {"Accept": "application/json, text/plain, */*", "Content-Type": "application/json",
+                   "Origin": origin, "Referer": board_url,
+                   "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin"}
+    r = None
+    for attempt in range(2):
+        r = sess.post(f"{origin}/api/geo/{ns}/jobposting/search", json=payload,
+                      headers=api_headers, timeout=TIMEOUT)
+        if r.status_code != 403:
+            break
+        time.sleep(3)
+    if r.status_code >= 400:
+        raise RuntimeError(f"Dayforce refused the request (board page {page_status}, "
+                           f"job search {r.status_code}); it may be blocking GitHub's servers")
     data = r.json()
     posts = []
     for key in ("jobPostings", "jobPostingSummaries", "searchResult.jobPostings",
@@ -474,25 +489,47 @@ def fetch_isolved(c):
 
 
 def fetch_icims(c):
+    """iCIMS career sites. Tries several forms of the job list address."""
     u = urlparse(c["url"])
-    out, seen = [], set()
-    for pr in range(0, 10):
-        url = f"{u.scheme}://{u.netloc}/jobs/search?ss=1&pr={pr}&in_iframe=1"
-        soup = BeautifulSoup(get_page(url, check_robots=not c.get("ignore_robots")).text, "html.parser")
-        found = 0
-        for a in soup.find_all("a", href=True):
-            m = re.search(r"/jobs/(\d+)/[^/?]+/job", a["href"])
-            if not m or m.group(1) in seen:
-                continue
-            seen.add(m.group(1))
-            found += 1
-            title = a.get("title") or a.get_text(" ", strip=True)
-            title = re.sub(r"^\s*\d+\s*-\s*", "", title)  # iCIMS titles often start with the id
-            out.append(job(c["name"], m.group(1), title, urljoin(url, a["href"]).split("?")[0]))
-        if not found:
-            break
-        time.sleep(1)
-    return out
+    base = f"{u.scheme}://{u.netloc}"
+    sess = requests.Session()
+    sess.headers.update({**BROWSER_HEADERS, "Accept": "text/html,*/*"})
+    if not c.get("ignore_robots") and not allowed_by_robots(base + "/jobs/search"):
+        raise BlockedByRobots("this site doesn't allow automated checks")
+    try:
+        sess.get(base + "/jobs/intro", timeout=TIMEOUT)   # pick up session cookies
+    except Exception:
+        pass
+    variants = [base + "/jobs/search?ss=1&in_iframe=1&pr={pr}",
+                base + "/jobs/search?ss=1&pr={pr}",
+                c["url"] + ("&" if "?" in c["url"] else "?") + "pr={pr}"]
+    last_err = None
+    for pattern in variants:
+        out, seen = [], set()
+        try:
+            for pr in range(0, 10):
+                r = sess.get(pattern.format(pr=pr), timeout=TIMEOUT)
+                r.raise_for_status()
+                found = 0
+                for a in BeautifulSoup(r.text, "html.parser").find_all("a", href=True):
+                    m = re.search(r"/jobs/(\d+)/[^/?]+/job", a["href"])
+                    if not m or m.group(1) in seen:
+                        continue
+                    seen.add(m.group(1))
+                    found += 1
+                    title = a.get("title") or a.get_text(" ", strip=True)
+                    title = re.sub(r"^\s*\d+\s*-\s*", "", title)
+                    out.append(job(c["name"], m.group(1), title, urljoin(r.url, a["href"]).split("?")[0]))
+                if not found:
+                    break
+                time.sleep(1)
+            if out:
+                return out
+        except requests.HTTPError as e:
+            last_err = e
+    if last_err:
+        raise last_err
+    return []
 
 
 def fetch_paycor(c):
@@ -519,6 +556,40 @@ def fetch_paycor(c):
         loc = loc_el.get_text(" ", strip=True) if loc_el else ""
         out.append(job(c["name"], jid, title, href, loc))
     return out
+
+
+def fetch_rss(c):
+    """RSS/Atom feeds, optionally keeping only items whose title contains title_contains."""
+    import xml.etree.ElementTree as ET
+    urls = c.get("urls") or [c["url"]]
+    last_err = None
+    for url in urls:
+        try:
+            r = requests.get(url, headers={**BROWSER_HEADERS,
+                                           "Accept": "application/rss+xml, application/xml, text/xml"},
+                             timeout=TIMEOUT)
+            r.raise_for_status()
+            root = ET.fromstring(r.content)
+        except Exception as e:
+            last_err = e
+            continue
+        want = (c.get("title_contains") or "").lower()
+        out = []
+        for item in root.iter():
+            if item.tag.split("}")[-1] not in ("item", "entry"):
+                continue
+            get = lambda name: next((ch for ch in item if ch.tag.split("}")[-1] == name), None)
+            t, l = get("title"), get("link")
+            title = (t.text or "").strip() if t is not None else ""
+            link = (l.text or l.get("href") or "").strip() if l is not None else ""
+            if not title or not link or (want and want not in title.lower()):
+                continue
+            d, p = get("description") or get("summary"), get("pubDate") or get("published")
+            out.append(job(c["name"], link, re.sub(r"^Job Posting:\s*", "", title), link,
+                           description=d.text if d is not None else "",
+                           posted=p.text if p is not None else ""))
+        return out
+    raise last_err or RuntimeError("feed not available")
 
 
 def fetch_paycom(c):
@@ -570,6 +641,7 @@ FETCHERS = {
     "paycom": fetch_paycom,
     "paycor": fetch_paycor,
     "teamwork": fetch_teamwork,
+    "rss": fetch_rss,
     "page": fetch_page,
 }
 
@@ -587,6 +659,11 @@ def _clean_title(title):
     return title if 2 < len(title) < 60 else ""
 
 
+def looks_bad(name):
+    return bool(not name or re.match(r"^[A-Z]{2}_[0-9a-f]{6,}", name) or
+                re.fullmatch(r"(UKG|ADP|DAYFORCE|PAYCOR|PAYCOM|SITE)? ?board.*|Dayforce|UKG", name, re.I))
+
+
 def detect_name(c):
     """For entries without a name, ask the job board what the organization is called."""
     kind, url = c.get("type"), c.get("url", "")
@@ -598,10 +675,10 @@ def detect_name(c):
                             params={"cid": qs["cid"][0], "ccId": qs.get("ccId", ["19000101_000001"])[0],
                                     "timeStamp": 0, "locale": "en_US", "lang": "en_US"})
             text = json.dumps(data)
-            for key in ("contentTitle", "title"):
+            for key in ("contentTitle", "title", "companyName", "clientName"):
                 for m in re.finditer(rf'"{key}"\s*:\s*"([^"]+)"', text):
                     t = _clean_title(html.unescape(m.group(1)))
-                    if t and t.lower() not in ("apply", "career", "careers"):
+                    if t and t.lower() not in ("apply", "career", "careers") and not looks_bad(t):
                         return t
             m = re.search(r"client=([A-Za-z0-9_-]+)", text)
             if m:
@@ -620,7 +697,7 @@ def detect_name(c):
                 if m and _clean_title(m.group(1)):
                     return _clean_title(m.group(1))
         t = BeautifulSoup(page, "html.parser").title
-        if t and _clean_title(t.get_text()):
+        if t and _clean_title(t.get_text()) and not looks_bad(_clean_title(t.get_text())):
             return _clean_title(t.get_text())
     except Exception:
         pass
@@ -742,7 +819,7 @@ def main():
     for c in companies:
         if not c.get("name"):
             key = c.get("url", "")
-            if key not in names:
+            if key not in names or looks_bad(names[key]):
                 names[key] = detect_name(c)
             c["name"] = names[key]
 
@@ -770,11 +847,12 @@ def main():
         except requests.HTTPError as e:
             code = e.response.status_code if e.response is not None else "?"
             print(f"  ! {name}: could not check (HTTP {code}) {e}")
-            status[name] = f"check failed (the site answered with error {code})"
+            host = urlparse(e.response.url).netloc if e.response is not None else ""
+            status[name] = f"check failed (error {code} from {host})"
             continue
         except Exception as e:
             print(f"  ! {name}: could not check ({type(e).__name__}: {e})")
-            status[name] = f"check failed ({type(e).__name__})"
+            status[name] = f"check failed ({str(e)[:160] or type(e).__name__})"
             continue
         finally:
             time.sleep(0.5)  # be gentle with the sites
