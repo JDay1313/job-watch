@@ -21,7 +21,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
+      - name: Find the Job Watch files
+        run: |
+          FOUND=$(find . -name monitor.py -not -path "./.git/*" | head -1)
+          if [ -z "$FOUND" ]; then
+            echo "::error::monitor.py isn't in this repository. Upload the Job Watch files first."
+            exit 1
+          fi
+          echo "JW_DIR=$(dirname "$FOUND")" >> "$GITHUB_ENV"
+          echo "Job Watch files are in: $(dirname "$FOUND")"
+      - run: pip install -r "$JW_DIR/requirements.txt"
       - name: Check career sites
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
@@ -31,11 +40,19 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
-        run: python monitor.py
+        run: cd "$JW_DIR" && python monitor.py
+      - name: Publish the board
+        run: |
+          # GitHub Pages reads the top-level docs folder, so copy the board there
+          if [ "$JW_DIR" != "." ]; then
+            mkdir -p docs
+            cp -r "$JW_DIR/docs/." docs/
+          fi
+          touch docs/.nojekyll
       - name: Save results
         run: |
           git config user.name "job-watch-bot"
           git config user.email "job-watch-bot@users.noreply.github.com"
-          git add data docs
+          git add -A
           git diff --cached --quiet || git commit -m "Job check $(date -u +'%Y-%m-%d %H:%M')"
           git push
