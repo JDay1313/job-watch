@@ -329,6 +329,49 @@ def fetch_ukg(c):
     return out
 
 
+def dayforce_jobs_from_page(c, page_text, board_url, payload, ns):
+    """Pull job postings out of a Dayforce board page (its embedded data, then its links)."""
+    origin = "{0.scheme}://{0.netloc}".format(urlparse(board_url))
+    out, seen = [], set()
+
+    def walk(node):
+        if isinstance(node, dict):
+            title = node.get("jobTitle") or node.get("postingTitle")
+            pid = node.get("jobPostingId") or node.get("postingId")
+            if title and pid and str(pid) not in seen:
+                seen.add(str(pid))
+                loc = pick(node, "location", "locationName", "cityState", "displayLocation")
+                if not loc and isinstance(node.get("postingLocations"), list):
+                    loc = " | ".join(", ".join(str(x) for x in [l.get("locationName") or l.get("city"),
+                                                                 l.get("state")] if x)
+                                     for l in node["postingLocations"] if isinstance(l, dict))
+                out.append(job(c["name"], pid, title,
+                               f"{origin}/{payload['cultureCode']}/{ns}/{payload['jobBoardCode']}/jobs/{pid}",
+                               str(loc or ""), pick(node, "shortDescription", "jobDescription"),
+                               str(pick(node, "postingStartTimestampUTC", "postingDate"))))
+            for v in node.values():
+                walk(v)
+        elif isinstance(node, list):
+            for v in node:
+                walk(v)
+
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page_text, re.S)
+    if m:
+        try:
+            walk(json.loads(m.group(1)))
+        except Exception:
+            pass
+    if out:
+        return out
+    for a in BeautifulSoup(page_text, "html.parser").find_all("a", href=True):
+        mm = re.search(r"/jobs/(\d+)", a["href"])
+        title = a.get_text(" ", strip=True)
+        if mm and title and mm.group(1) not in seen:
+            seen.add(mm.group(1))
+            out.append(job(c["name"], mm.group(1), title, urljoin(board_url + "/", a["href"])))
+    return out
+
+
 def fetch_dayforce(c):
     """Dayforce candidate portals (jobs.dayforcehcm.com)."""
     u = urlparse(c["url"])
@@ -346,10 +389,12 @@ def fetch_dayforce(c):
                          "Upgrade-Insecure-Requests": "1"})
     payload = {"clientNamespace": ns, "jobBoardCode": board, "cultureCode": culture,
                "paginationStart": 0, "distanceUnit": 0}
-    page_status = None
+    page_status, page_text = None, ""
     try:
         page = sess.get(board_url, timeout=TIMEOUT)
         page_status = page.status_code
+        if page.ok:
+            page_text = page.text
         m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page.text, re.S)
         if m:
             nd = json.loads(m.group(1))
@@ -368,6 +413,10 @@ def fetch_dayforce(c):
     api_headers = {"Accept": "application/json, text/plain, */*", "Content-Type": "application/json",
                    "Origin": origin, "Referer": board_url,
                    "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin"}
+    for cname, cval in sess.cookies.items():
+        if "xsrf" in cname.lower() or "csrf" in cname.lower():
+            api_headers["X-XSRF-TOKEN"] = cval
+            api_headers["X-CSRF-TOKEN"] = cval
     r = None
     for attempt in range(2):
         r = sess.post(f"{origin}/api/geo/{ns}/jobposting/search", json=payload,
@@ -376,6 +425,10 @@ def fetch_dayforce(c):
             break
         time.sleep(3)
     if r.status_code >= 400:
+        # the search is refused, but the board page loaded: read the jobs from the page itself
+        from_page = dayforce_jobs_from_page(c, page_text, board_url, payload, ns) if page_text else []
+        if from_page:
+            return from_page
         raise RuntimeError(f"Dayforce refused the request (board page {page_status}, "
                            f"job search {r.status_code}); it may be blocking GitHub's servers")
     data = r.json()
@@ -807,6 +860,29 @@ def load(path, default):
         return default
 
 
+def run_fetch(c):
+    """Run one site's reader. Returns (jobs, None) or ([], problem description)."""
+    name, kind = c.get("name"), c.get("type")
+    if kind not in FETCHERS:
+        print(f"  ! {name}: unknown type '{kind}'")
+        return [], "config error (unknown type)"
+    try:
+        return FETCHERS[kind](c), None
+    except BlockedByRobots as e:
+        print(f"  ! {name}: {e}")
+        return [], "this site doesn't allow automated checks"
+    except requests.HTTPError as e:
+        code = e.response.status_code if e.response is not None else "?"
+        host = urlparse(e.response.url).netloc if e.response is not None else ""
+        print(f"  ! {name}: could not check (HTTP {code} from {host})")
+        return [], f"check failed (error {code} from {host})"
+    except Exception as e:
+        print(f"  ! {name}: could not check ({type(e).__name__}: {e})")
+        return [], f"check failed ({str(e)[:160] or type(e).__name__})"
+    finally:
+        time.sleep(0.5)  # be gentle with the sites
+
+
 def main():
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
     companies = cfg.get("companies") or []
@@ -834,28 +910,20 @@ def main():
             status[name] = "ok"   # checked recently; this site is on a slower schedule
             continue
         last_checked[ckey] = now_ts
-        if kind not in FETCHERS:
-            print(f"  ! {name}: unknown type '{kind}'")
-            status[name] = "config error"
+        jobs, problem = run_fetch(c)
+        backup = c.get("backup")
+        if problem and backup:
+            # the main source failed; use the backup source (kept separately so
+            # switching between sources never makes old jobs look new)
+            b = {**backup, "name": name}
+            jobs, b_problem = run_fetch(b)
+            if not b_problem:
+                print(f"  {name}: main source failed ({problem}); used backup source")
+                problem = None
+                ckey = ckey + "#backup"
+        if problem:
+            status[name] = problem
             continue
-        try:
-            jobs = FETCHERS[kind](c)
-        except BlockedByRobots as e:
-            print(f"  ! {name}: {e}")
-            status[name] = "this site doesn't allow automated checks"
-            continue
-        except requests.HTTPError as e:
-            code = e.response.status_code if e.response is not None else "?"
-            print(f"  ! {name}: could not check (HTTP {code}) {e}")
-            host = urlparse(e.response.url).netloc if e.response is not None else ""
-            status[name] = f"check failed (error {code} from {host})"
-            continue
-        except Exception as e:
-            print(f"  ! {name}: could not check ({type(e).__name__}: {e})")
-            status[name] = f"check failed ({str(e)[:160] or type(e).__name__})"
-            continue
-        finally:
-            time.sleep(0.5)  # be gentle with the sites
 
         jobs = list({j["key"]: j for j in jobs if passes(j, c, gfilters)}.values())
         first_run = ckey not in seen
