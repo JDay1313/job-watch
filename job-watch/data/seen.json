@@ -28,10 +28,10 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
-  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/duke-women-s-basketball-practice-operations-specialist-307074",
   "Intercollegiate::https://intercollegiate.co/job/football-graphic-content-intern-307048",
   "Intercollegiate::https://intercollegiate.co/job/hourly-pooled-athletics-ticket-office-student-worker-307044",
@@ -55,8 +55,6 @@
   "TeamWork Online (all sports, newest)::2190455",
   "TeamWork Online (all sports, newest)::2190949",
   "TeamWork Online (all sports, newest)::2190983",
-  "TeamWork Online (all sports, newest)::2190985",
-  "TeamWork Online (all sports, newest)::2190986",
   "TeamWork Online (all sports, newest)::2190987",
   "TeamWork Online (all sports, newest)::2190988",
   "TeamWork Online (all sports, newest)::2190990",
@@ -250,7 +248,9 @@
   "TeamWork Online (all sports, newest)::2191205",
   "TeamWork Online (all sports, newest)::2191207",
   "TeamWork Online (all sports, newest)::2191208",
-  "TeamWork Online (all sports, newest)::2191209"
+  "TeamWork Online (all sports, newest)::2191209",
+  "TeamWork Online (all sports, newest)::2191210",
+  "TeamWork Online (all sports, newest)::2191211"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -651,6 +651,7 @@
   "Washington Nationals::0ddfc273-4b1f-439f-b8bd-235ea4982f89",
   "Washington Nationals::152def5a-3439-41c4-bdea-92c32470372a",
   "Washington Nationals::28aff305-8ded-48a9-83d6-2d5c41ca7c8b",
+  "Washington Nationals::33fb00ac-a872-4921-8b36-c5029f84d9ae",
   "Washington Nationals::3515400d-2426-40ac-9c69-decb18cfc216",
   "Washington Nationals::3e4f0e64-5cd1-430c-820d-f39368f6cdd6",
   "Washington Nationals::44e3e5ce-b2d4-411c-872b-def965540184",
