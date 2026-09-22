@@ -28,8 +28,8 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
+  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
   "Intercollegiate::https://intercollegiate.co/job/duke-women-s-basketball-practice-operations-specialist-307074",
@@ -55,12 +55,7 @@
   "TeamWork Online (all sports, newest)::2190949",
   "TeamWork Online (all sports, newest)::2190951",
   "TeamWork Online (all sports, newest)::2190960",
-  "TeamWork Online (all sports, newest)::2190966",
-  "TeamWork Online (all sports, newest)::2190967",
   "TeamWork Online (all sports, newest)::2190968",
-  "TeamWork Online (all sports, newest)::2190969",
-  "TeamWork Online (all sports, newest)::2190970",
-  "TeamWork Online (all sports, newest)::2190971",
   "TeamWork Online (all sports, newest)::2190972",
   "TeamWork Online (all sports, newest)::2190973",
   "TeamWork Online (all sports, newest)::2190974",
@@ -108,7 +103,6 @@
   "TeamWork Online (all sports, newest)::2191028",
   "TeamWork Online (all sports, newest)::2191029",
   "TeamWork Online (all sports, newest)::2191030",
-  "TeamWork Online (all sports, newest)::2191031",
   "TeamWork Online (all sports, newest)::2191032",
   "TeamWork Online (all sports, newest)::2191033",
   "TeamWork Online (all sports, newest)::2191034",
@@ -250,7 +244,13 @@
   "TeamWork Online (all sports, newest)::2191187",
   "TeamWork Online (all sports, newest)::2191188",
   "TeamWork Online (all sports, newest)::2191189",
-  "TeamWork Online (all sports, newest)::2191190"
+  "TeamWork Online (all sports, newest)::2191190",
+  "TeamWork Online (all sports, newest)::2191191",
+  "TeamWork Online (all sports, newest)::2191192",
+  "TeamWork Online (all sports, newest)::2191193",
+  "TeamWork Online (all sports, newest)::2191194",
+  "TeamWork Online (all sports, newest)::2191195",
+  "TeamWork Online (all sports, newest)::2191198"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -1026,7 +1026,6 @@
   "Sportradar::744000144550810",
   "Sportradar::744000144550831",
   "Sportradar::744000144552355",
-  "Sportradar::744000144552444",
   "Sportradar::744000144554969",
   "Sportradar::744000144593420",
   "Sportradar::744000144749410",
@@ -1074,7 +1073,8 @@
   "Sportradar::744000150722659",
   "Sportradar::744000150968299",
   "Sportradar::744000150978000",
-  "Sportradar::744000151027784"
+  "Sportradar::744000151027784",
+  "Sportradar::744000151041189"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
