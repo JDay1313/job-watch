@@ -29,7 +29,7 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
@@ -57,8 +57,6 @@
   "TeamWork Online (all sports, newest)::2190766",
   "TeamWork Online (all sports, newest)::2191124",
   "TeamWork Online (all sports, newest)::2191127",
-  "TeamWork Online (all sports, newest)::2191133",
-  "TeamWork Online (all sports, newest)::2191134",
   "TeamWork Online (all sports, newest)::2191136",
   "TeamWork Online (all sports, newest)::2191137",
   "TeamWork Online (all sports, newest)::2191138",
@@ -251,10 +249,11 @@
   "TeamWork Online (all sports, newest)::2191334",
   "TeamWork Online (all sports, newest)::2191335",
   "TeamWork Online (all sports, newest)::2191336",
-  "TeamWork Online (all sports, newest)::2191337"
+  "TeamWork Online (all sports, newest)::2191337",
+  "TeamWork Online (all sports, newest)::2191338",
+  "TeamWork Online (all sports, newest)::2191342"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2125879",
   "TeamWork Online (NFL teams)::2128896",
   "TeamWork Online (NFL teams)::2130243",
   "TeamWork Online (NFL teams)::2130541",
@@ -397,7 +396,8 @@
   "TeamWork Online (NFL teams)::2190953",
   "TeamWork Online (NFL teams)::2190995",
   "TeamWork Online (NFL teams)::2191064",
-  "TeamWork Online (NFL teams)::2191303"
+  "TeamWork Online (NFL teams)::2191303",
+  "TeamWork Online (NFL teams)::2191338"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -488,6 +488,7 @@
   "NASCAR::/job/CHICAGO---JOLIET/Fire-Safety-Event-Staff----Chicagoland-Speedway_JR13994",
   "NASCAR::/job/Charlotte-NC/Manager--Creative-Operations_JR14372",
   "NASCAR::/job/Charlotte-NC/Manager--Site-Optimization_JR14205",
+  "NASCAR::/job/Charlotte-NC/Managing-Director--Corporate-Events_JR14223",
   "NASCAR::/job/Charlotte-NC/Senior-Business-Manager--NASCAR-O-Reilly-Auto-Parts-Series_JR14392",
   "NASCAR::/job/Charlotte-NC/Senior-Business-Manager--NASCAR-Whelen-Modified-Tour_JR14393-1",
   "NASCAR::/job/Charlotte-NC/Senior-Coordinator--YouTube-Race-Operations---Live-Content_JR14371",
@@ -1197,6 +1198,7 @@
   "DraftKings::/job/London-UK/Sportsbook-Operations-Senior-Associate_JR14733",
   "DraftKings::/job/Manchester-NH/Operations-Associate--Jackpocket--Part-Time-_JR14460-1",
   "DraftKings::/job/Nashua-NH/Security-Technology-Engineer_JR14036-1",
+  "DraftKings::/job/New-York-NY/Analyst-I--Customer-Economics_JR15128-1",
   "DraftKings::/job/Newburgh-NY/Lottery-Fulfillment-Supervisor_JR14957-1",
   "DraftKings::/job/Newburgh-NY/Operations-Associate--Jackpocket_JR13430-3",
   "DraftKings::/job/North-Andover-MA/Operations-Associate--Jackpocket--AM-Shift-_JR14736-1",
