@@ -28,7 +28,7 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
@@ -51,16 +51,9 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
+  "TeamWork Online (all sports, newest)::2156280",
   "TeamWork Online (all sports, newest)::2190455",
   "TeamWork Online (all sports, newest)::2190949",
-  "TeamWork Online (all sports, newest)::2190951",
-  "TeamWork Online (all sports, newest)::2190960",
-  "TeamWork Online (all sports, newest)::2190968",
-  "TeamWork Online (all sports, newest)::2190974",
-  "TeamWork Online (all sports, newest)::2190976",
-  "TeamWork Online (all sports, newest)::2190979",
-  "TeamWork Online (all sports, newest)::2190981",
-  "TeamWork Online (all sports, newest)::2190982",
   "TeamWork Online (all sports, newest)::2190983",
   "TeamWork Online (all sports, newest)::2190985",
   "TeamWork Online (all sports, newest)::2190986",
@@ -250,7 +243,14 @@
   "TeamWork Online (all sports, newest)::2191198",
   "TeamWork Online (all sports, newest)::2191199",
   "TeamWork Online (all sports, newest)::2191200",
-  "TeamWork Online (all sports, newest)::2191201"
+  "TeamWork Online (all sports, newest)::2191201",
+  "TeamWork Online (all sports, newest)::2191202",
+  "TeamWork Online (all sports, newest)::2191203",
+  "TeamWork Online (all sports, newest)::2191204",
+  "TeamWork Online (all sports, newest)::2191205",
+  "TeamWork Online (all sports, newest)::2191207",
+  "TeamWork Online (all sports, newest)::2191208",
+  "TeamWork Online (all sports, newest)::2191209"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -719,9 +719,11 @@
   "Baltimore Orioles::6174979004"
  ],
  "lever:redsox": [
+  "Boston Red Sox::0104b0a3-e57d-406d-9d81-9e4fab7298ea",
   "Boston Red Sox::19464218-3a77-4c77-ab75-5d94ba038c84",
   "Boston Red Sox::28fff1b0-8010-4c27-99b3-bfc582862217",
   "Boston Red Sox::40f96420-5b9a-41f9-b809-fd4d6595f113",
+  "Boston Red Sox::5d8d7a39-515b-4732-99bd-59b3d0a3d947",
   "Boston Red Sox::5dfdf4f8-66af-4861-b506-4100d45e52ad",
   "Boston Red Sox::87afbd8b-1c56-456b-ae65-19f593414205",
   "Boston Red Sox::9988c0de-b41e-4658-a664-962cd9797256",
@@ -749,7 +751,8 @@
   "Detroit Tigers::/job/Detroit-MI/Baseball-Assistant-Coach_R6519",
   "Detroit Tigers::/job/Detroit-MI/Operations-Technician_R7176-1",
   "Detroit Tigers::/job/Detroit-MI/Rally-Cats_R9402",
-  "Detroit Tigers::/job/Detroit-MI/Security-Representative_R9290"
+  "Detroit Tigers::/job/Detroit-MI/Security-Representative_R9290",
+  "Detroit Tigers::/job/Lakeland/Manager--Brand-Marketing---Communications--Lakeland_R9391-1"
  ],
  "greenhouse:clevelandguardiansbops": [
   "Cleveland Guardians (Baseball Ops)::8770570002"
