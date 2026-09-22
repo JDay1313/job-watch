@@ -29,7 +29,7 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
@@ -56,13 +56,6 @@
   "TeamWork Online (all sports, newest)::2185322",
   "TeamWork Online (all sports, newest)::2190766",
   "TeamWork Online (all sports, newest)::2191124",
-  "TeamWork Online (all sports, newest)::2191170",
-  "TeamWork Online (all sports, newest)::2191171",
-  "TeamWork Online (all sports, newest)::2191172",
-  "TeamWork Online (all sports, newest)::2191173",
-  "TeamWork Online (all sports, newest)::2191174",
-  "TeamWork Online (all sports, newest)::2191175",
-  "TeamWork Online (all sports, newest)::2191176",
   "TeamWork Online (all sports, newest)::2191178",
   "TeamWork Online (all sports, newest)::2191179",
   "TeamWork Online (all sports, newest)::2191180",
@@ -251,7 +244,14 @@
   "TeamWork Online (all sports, newest)::2191379",
   "TeamWork Online (all sports, newest)::2191380",
   "TeamWork Online (all sports, newest)::2191381",
-  "TeamWork Online (all sports, newest)::2191382"
+  "TeamWork Online (all sports, newest)::2191382",
+  "TeamWork Online (all sports, newest)::2191383",
+  "TeamWork Online (all sports, newest)::2191387",
+  "TeamWork Online (all sports, newest)::2191388",
+  "TeamWork Online (all sports, newest)::2191390",
+  "TeamWork Online (all sports, newest)::2191391",
+  "TeamWork Online (all sports, newest)::2191392",
+  "TeamWork Online (all sports, newest)::2191393"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -777,7 +777,8 @@
   "Los Angeles Dodgers::c25e7a7a-0d47-4866-ab38-dc29eae83835",
   "Los Angeles Dodgers::d2bd9cfb-c9ef-4b67-a1b7-b827ac6af91d",
   "Los Angeles Dodgers::db10be61-4e97-4acf-a929-eca226ed6811",
-  "Los Angeles Dodgers::dc4408f2-1b54-4972-b102-578461b705e9"
+  "Los Angeles Dodgers::dc4408f2-1b54-4972-b102-578461b705e9",
+  "Los Angeles Dodgers::fb796a9d-16f1-4514-8f6b-e5c5dbbb6019"
  ],
  "https://careers.hireology.com/sandiegopadres": [
   "San Diego Padres::2699852",
