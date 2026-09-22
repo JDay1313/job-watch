@@ -28,10 +28,10 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
-  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/duke-women-s-basketball-practice-operations-specialist-307074",
   "Intercollegiate::https://intercollegiate.co/job/football-graphic-content-intern-307048",
   "Intercollegiate::https://intercollegiate.co/job/hourly-pooled-athletics-ticket-office-student-worker-307044",
@@ -62,23 +62,9 @@
   "TeamWork Online (all sports, newest)::2191087",
   "TeamWork Online (all sports, newest)::2191088",
   "TeamWork Online (all sports, newest)::2191089",
-  "TeamWork Online (all sports, newest)::2191099",
-  "TeamWork Online (all sports, newest)::2191100",
   "TeamWork Online (all sports, newest)::2191101",
-  "TeamWork Online (all sports, newest)::2191102",
-  "TeamWork Online (all sports, newest)::2191103",
-  "TeamWork Online (all sports, newest)::2191104",
-  "TeamWork Online (all sports, newest)::2191105",
-  "TeamWork Online (all sports, newest)::2191106",
   "TeamWork Online (all sports, newest)::2191107",
-  "TeamWork Online (all sports, newest)::2191108",
-  "TeamWork Online (all sports, newest)::2191109",
-  "TeamWork Online (all sports, newest)::2191111",
-  "TeamWork Online (all sports, newest)::2191112",
-  "TeamWork Online (all sports, newest)::2191113",
-  "TeamWork Online (all sports, newest)::2191114",
   "TeamWork Online (all sports, newest)::2191115",
-  "TeamWork Online (all sports, newest)::2191116",
   "TeamWork Online (all sports, newest)::2191117",
   "TeamWork Online (all sports, newest)::2191121",
   "TeamWork Online (all sports, newest)::2191123",
@@ -250,10 +236,22 @@
   "TeamWork Online (all sports, newest)::2191297",
   "TeamWork Online (all sports, newest)::2191298",
   "TeamWork Online (all sports, newest)::2191299",
-  "TeamWork Online (all sports, newest)::2191300"
+  "TeamWork Online (all sports, newest)::2191300",
+  "TeamWork Online (all sports, newest)::2191302",
+  "TeamWork Online (all sports, newest)::2191303",
+  "TeamWork Online (all sports, newest)::2191304",
+  "TeamWork Online (all sports, newest)::2191305",
+  "TeamWork Online (all sports, newest)::2191306",
+  "TeamWork Online (all sports, newest)::2191307",
+  "TeamWork Online (all sports, newest)::2191308",
+  "TeamWork Online (all sports, newest)::2191309",
+  "TeamWork Online (all sports, newest)::2191310",
+  "TeamWork Online (all sports, newest)::2191313",
+  "TeamWork Online (all sports, newest)::2191314",
+  "TeamWork Online (all sports, newest)::2191315",
+  "TeamWork Online (all sports, newest)::2191316"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2116280",
   "TeamWork Online (NFL teams)::2125879",
   "TeamWork Online (NFL teams)::2128896",
   "TeamWork Online (NFL teams)::2130243",
@@ -396,7 +394,8 @@
   "TeamWork Online (NFL teams)::2190952",
   "TeamWork Online (NFL teams)::2190953",
   "TeamWork Online (NFL teams)::2190995",
-  "TeamWork Online (NFL teams)::2191064"
+  "TeamWork Online (NFL teams)::2191064",
+  "TeamWork Online (NFL teams)::2191303"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -988,7 +987,6 @@
   "New England Patriots (Kraft Group)::560308",
   "New England Patriots (Kraft Group)::560337",
   "New England Patriots (Kraft Group)::560451",
-  "New England Patriots (Kraft Group)::560668",
   "New England Patriots (Kraft Group)::560699",
   "New England Patriots (Kraft Group)::560733",
   "New England Patriots (Kraft Group)::560747",
@@ -998,7 +996,8 @@
   "New England Patriots (Kraft Group)::561191",
   "New England Patriots (Kraft Group)::561545",
   "New England Patriots (Kraft Group)::562103",
-  "New England Patriots (Kraft Group)::562174"
+  "New England Patriots (Kraft Group)::562174",
+  "New England Patriots (Kraft Group)::562627"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1230,6 +1229,7 @@
   "DraftKings::/job/Remote---US/New-Business-Executive--Predictions_JR14743-1",
   "DraftKings::/job/Remote---US/New-Business-Executive--Predictions_JR15065-1",
   "DraftKings::/job/Remote---US/New-Business-Executive_JR15055-1",
+  "DraftKings::/job/Remote---US/Salesforce-Administrator_JR14950-3",
   "DraftKings::/job/Remote---US/Senior-Associate-Delivery-Manager_JR14679-2",
   "DraftKings::/job/Remote---US/Senior-Lead-Database-Reliability-Engineer_JR14624-1",
   "DraftKings::/job/Remote---US/Senior-Lead-Software-Engineer--Backend_JR14836-2",
@@ -1430,7 +1430,8 @@
   "Dallas Cowboys::2190291",
   "Dallas Cowboys::2190649",
   "Dallas Cowboys::2190822",
-  "Dallas Cowboys::2190919"
+  "Dallas Cowboys::2190919",
+  "Dallas Cowboys::2191303"
  ],
  "https://jobs.dayforcehcm.com/en-US/greenbaypackers/CANDIDATEPORTAL#backup": [
   "Green Bay Packers::2177995",
