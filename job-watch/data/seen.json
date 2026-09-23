@@ -52,13 +52,6 @@
   "TeamWork Online (all sports, newest)::2190527",
   "TeamWork Online (all sports, newest)::2191206",
   "TeamWork Online (all sports, newest)::2191228",
-  "TeamWork Online (all sports, newest)::2191249",
-  "TeamWork Online (all sports, newest)::2191250",
-  "TeamWork Online (all sports, newest)::2191251",
-  "TeamWork Online (all sports, newest)::2191252",
-  "TeamWork Online (all sports, newest)::2191253",
-  "TeamWork Online (all sports, newest)::2191254",
-  "TeamWork Online (all sports, newest)::2191255",
   "TeamWork Online (all sports, newest)::2191256",
   "TeamWork Online (all sports, newest)::2191257",
   "TeamWork Online (all sports, newest)::2191258",
@@ -248,7 +241,14 @@
   "TeamWork Online (all sports, newest)::2191459",
   "TeamWork Online (all sports, newest)::2191462",
   "TeamWork Online (all sports, newest)::2191465",
-  "TeamWork Online (all sports, newest)::2191466"
+  "TeamWork Online (all sports, newest)::2191466",
+  "TeamWork Online (all sports, newest)::2191467",
+  "TeamWork Online (all sports, newest)::2191468",
+  "TeamWork Online (all sports, newest)::2191469",
+  "TeamWork Online (all sports, newest)::2191470",
+  "TeamWork Online (all sports, newest)::2191471",
+  "TeamWork Online (all sports, newest)::2191472",
+  "TeamWork Online (all sports, newest)::2191473"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130243",
@@ -650,6 +650,7 @@
  ],
  "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/?q=&o=postedDateDesc": [
   "Washington Nationals::03edc5aa-133e-4696-81a7-51a38d2ff235",
+  "Washington Nationals::0c19a0e3-b0ad-499d-979e-3ac94645560b",
   "Washington Nationals::152def5a-3439-41c4-bdea-92c32470372a",
   "Washington Nationals::247eeb83-ffd8-4170-965c-82407881d551",
   "Washington Nationals::28aff305-8ded-48a9-83d6-2d5c41ca7c8b",
@@ -989,7 +990,6 @@
   "New England Patriots (Kraft Group)::559549",
   "New England Patriots (Kraft Group)::559564",
   "New England Patriots (Kraft Group)::559670",
-  "New England Patriots (Kraft Group)::559810",
   "New England Patriots (Kraft Group)::559981",
   "New England Patriots (Kraft Group)::560146",
   "New England Patriots (Kraft Group)::560182",
@@ -1137,7 +1137,6 @@
   "Underdog::4727795005",
   "Underdog::4727923005",
   "Underdog::4727925005",
-  "Underdog::4731142005",
   "Underdog::4735101005",
   "Underdog::4735148005",
   "Underdog::4737024005"
@@ -1355,7 +1354,9 @@
   "Cincinnati Reds::8a78839fa064212401a090a88d745494",
   "Cincinnati Reds::8a78839fa064212401a090ae9a1f56b4"
  ],
- "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08b729b3e018b72dc67f6007f": [],
+ "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08b729b3e018b72dc67f6007f": [
+  "Minnesota Twins::8a7885aca0abfc6901a0cf18303c0159"
+ ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c662cbb4070162d48197a73653": [],
  "rss:None": [
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-athletics-multiple-openings/",
