@@ -30,7 +30,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-compliance-307122",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307107",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-307124",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-307110",
   "Intercollegiate::https://intercollegiate.co/job/coordinator-of-sports-information-307115",
   "Intercollegiate::https://intercollegiate.co/job/creative-services-student-worker-307120",
@@ -51,11 +51,8 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2190527",
   "TeamWork Online (all sports, newest)::2191228",
-  "TeamWork Online (all sports, newest)::2191263",
   "TeamWork Online (all sports, newest)::2191264",
-  "TeamWork Online (all sports, newest)::2191265",
   "TeamWork Online (all sports, newest)::2191266",
-  "TeamWork Online (all sports, newest)::2191267",
   "TeamWork Online (all sports, newest)::2191268",
   "TeamWork Online (all sports, newest)::2191269",
   "TeamWork Online (all sports, newest)::2191270",
@@ -248,7 +245,10 @@
   "TeamWork Online (all sports, newest)::2191479",
   "TeamWork Online (all sports, newest)::2191480",
   "TeamWork Online (all sports, newest)::2191481",
-  "TeamWork Online (all sports, newest)::2191482"
+  "TeamWork Online (all sports, newest)::2191482",
+  "TeamWork Online (all sports, newest)::2191483",
+  "TeamWork Online (all sports, newest)::2191484",
+  "TeamWork Online (all sports, newest)::2191486"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130243",
@@ -1239,6 +1239,7 @@
   "DraftKings::/job/Remote---US/New-Business-Executive_JR15055-1",
   "DraftKings::/job/Remote---US/Salesforce-Administrator_JR14950-3",
   "DraftKings::/job/Remote---US/Senior-Associate-Delivery-Manager_JR14679-2",
+  "DraftKings::/job/Remote---US/Senior-Lead-Database-Reliability-Engineer_JR14624-1",
   "DraftKings::/job/Remote---US/Senior-Lead-Software-Engineer--Backend_JR14836-2",
   "DraftKings::/job/Remote---US/Staff-Security-Engineer--AI_JR14612-2",
   "DraftKings::/job/Remote---US/VIP-Host--Detroit_JR14106-2",
