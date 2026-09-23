@@ -29,8 +29,8 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-media-relations-307070",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307058",
-  "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-304563",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/director-i-fixed-acad-staff-307061",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-personnel-assistant-coach-307071",
   "Intercollegiate::https://intercollegiate.co/job/duke-women-s-basketball-practice-operations-specialist-307074",
@@ -56,10 +56,8 @@
   "TeamWork Online (all sports, newest)::2185322",
   "TeamWork Online (all sports, newest)::2190766",
   "TeamWork Online (all sports, newest)::2191124",
-  "TeamWork Online (all sports, newest)::2191180",
   "TeamWork Online (all sports, newest)::2191182",
   "TeamWork Online (all sports, newest)::2191183",
-  "TeamWork Online (all sports, newest)::2191184",
   "TeamWork Online (all sports, newest)::2191185",
   "TeamWork Online (all sports, newest)::2191186",
   "TeamWork Online (all sports, newest)::2191187",
@@ -251,7 +249,9 @@
   "TeamWork Online (all sports, newest)::2191393",
   "TeamWork Online (all sports, newest)::2191394",
   "TeamWork Online (all sports, newest)::2191395",
-  "TeamWork Online (all sports, newest)::2191396"
+  "TeamWork Online (all sports, newest)::2191396",
+  "TeamWork Online (all sports, newest)::2191397",
+  "TeamWork Online (all sports, newest)::2191398"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -914,7 +914,8 @@
   "Las Vegas Raiders::9201294239879_1",
   "Las Vegas Raiders::9201294244387_1",
   "Las Vegas Raiders::9201294983223_1",
-  "Las Vegas Raiders::9201297714018_1"
+  "Las Vegas Raiders::9201297714018_1",
+  "Las Vegas Raiders::9201297946318_1"
  ],
  "https://www.paycomonline.net/v4/ats/web.php/portal/715F4103F5E4D572C92AFE85684343DC/career-page?jobSearchSettingsId=9272": [
   "New England Patriots (Kraft Group)::461636",
