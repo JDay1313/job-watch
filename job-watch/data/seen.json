@@ -31,12 +31,12 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307107",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-307124",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-307110",
   "Intercollegiate::https://intercollegiate.co/job/coordinator-of-sports-information-307115",
   "Intercollegiate::https://intercollegiate.co/job/creative-services-student-worker-307120",
   "Intercollegiate::https://intercollegiate.co/job/director-for-compliance-uva-athletics-307135",
   "Intercollegiate::https://intercollegiate.co/job/director-of-fan-experience-307130",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/financial-analyst-i-athletics-307121",
   "Intercollegiate::https://intercollegiate.co/job/part-time-temporary-assistant-performance-dietitian-av9697-307109",
   "Intercollegiate::https://intercollegiate.co/job/registered-dietitian-nutritionist-307106",
@@ -50,15 +50,8 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2190527",
-  "TeamWork Online (all sports, newest)::2191228",
   "TeamWork Online (all sports, newest)::2191264",
-  "TeamWork Online (all sports, newest)::2191277",
-  "TeamWork Online (all sports, newest)::2191278",
   "TeamWork Online (all sports, newest)::2191279",
-  "TeamWork Online (all sports, newest)::2191280",
-  "TeamWork Online (all sports, newest)::2191281",
-  "TeamWork Online (all sports, newest)::2191282",
-  "TeamWork Online (all sports, newest)::2191283",
   "TeamWork Online (all sports, newest)::2191284",
   "TeamWork Online (all sports, newest)::2191285",
   "TeamWork Online (all sports, newest)::2191286",
@@ -248,7 +241,14 @@
   "TeamWork Online (all sports, newest)::2191493",
   "TeamWork Online (all sports, newest)::2191494",
   "TeamWork Online (all sports, newest)::2191495",
-  "TeamWork Online (all sports, newest)::2191496"
+  "TeamWork Online (all sports, newest)::2191496",
+  "TeamWork Online (all sports, newest)::2191497",
+  "TeamWork Online (all sports, newest)::2191498",
+  "TeamWork Online (all sports, newest)::2191499",
+  "TeamWork Online (all sports, newest)::2191500",
+  "TeamWork Online (all sports, newest)::2191501",
+  "TeamWork Online (all sports, newest)::2191502",
+  "TeamWork Online (all sports, newest)::2191503"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130243",
@@ -433,7 +433,6 @@
   "NFL League Office::5145774008",
   "NFL League Office::5176408008",
   "NFL League Office::5201467008",
-  "NFL League Office::5221106008",
   "NFL League Office::5253686008",
   "NFL League Office::5264798008",
   "NFL League Office::5279619008",
@@ -466,7 +465,8 @@
   "NFL League Office::5422617008",
   "NFL League Office::5427009008",
   "NFL League Office::5427937008",
-  "NFL League Office::5430389008"
+  "NFL League Office::5430389008",
+  "NFL League Office::5430642008"
  ],
  "https://nascar.wd1.myworkdayjobs.com/NASCAR": [
   "NASCAR::/job/Avondale-AZ/Credential-Event-Staff---Phoenix-Raceway_JR14362",
@@ -851,7 +851,6 @@
  "https://recruiting2.ultipro.com/ARI1001CARD/JobBoard/bfe37693-2c0a-46b6-af4e-f984b08a8e7f/?q=&o=postedDateDesc": [
   "Arizona Cardinals::188c7cdd-8b87-4cda-8e3a-c6d591a263a1",
   "Arizona Cardinals::19113bf1-2af0-42c9-bfc1-bb844f59067e",
-  "Arizona Cardinals::1ca0d7fa-e324-4cb0-a65b-2a44f0042c0b",
   "Arizona Cardinals::245aa814-2730-4d02-9d0f-2b8b5e153188",
   "Arizona Cardinals::34852f90-40c9-4200-9dd8-8187e771a17b",
   "Arizona Cardinals::52751b5f-cdd4-4069-a11a-d4527588fdba",
@@ -1008,7 +1007,10 @@
   "New England Patriots (Kraft Group)::561545",
   "New England Patriots (Kraft Group)::562174",
   "New England Patriots (Kraft Group)::562627",
-  "New England Patriots (Kraft Group)::562692"
+  "New England Patriots (Kraft Group)::562692",
+  "New England Patriots (Kraft Group)::563013",
+  "New England Patriots (Kraft Group)::563283",
+  "New England Patriots (Kraft Group)::563297"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
