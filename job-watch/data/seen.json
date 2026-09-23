@@ -54,13 +54,7 @@
   "TeamWork Online (all sports, newest)::2156280",
   "TeamWork Online (all sports, newest)::2185322",
   "TeamWork Online (all sports, newest)::2190766",
-  "TeamWork Online (all sports, newest)::2191191",
-  "TeamWork Online (all sports, newest)::2191192",
-  "TeamWork Online (all sports, newest)::2191193",
-  "TeamWork Online (all sports, newest)::2191194",
-  "TeamWork Online (all sports, newest)::2191195",
   "TeamWork Online (all sports, newest)::2191197",
-  "TeamWork Online (all sports, newest)::2191198",
   "TeamWork Online (all sports, newest)::2191199",
   "TeamWork Online (all sports, newest)::2191200",
   "TeamWork Online (all sports, newest)::2191201",
@@ -250,7 +244,13 @@
   "TeamWork Online (all sports, newest)::2191402",
   "TeamWork Online (all sports, newest)::2191403",
   "TeamWork Online (all sports, newest)::2191404",
-  "TeamWork Online (all sports, newest)::2191405"
+  "TeamWork Online (all sports, newest)::2191405",
+  "TeamWork Online (all sports, newest)::2191406",
+  "TeamWork Online (all sports, newest)::2191407",
+  "TeamWork Online (all sports, newest)::2191408",
+  "TeamWork Online (all sports, newest)::2191410",
+  "TeamWork Online (all sports, newest)::2191411",
+  "TeamWork Online (all sports, newest)::2191412"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -1143,7 +1143,8 @@
   "Underdog::4727925005",
   "Underdog::4731142005",
   "Underdog::4735101005",
-  "Underdog::4735148005"
+  "Underdog::4735148005",
+  "Underdog::4737024005"
  ],
  "ashby:sleeper": [
   "Sleeper::0df044af-b10f-4d75-8fc5-af16f1aabe7d",
@@ -1187,6 +1188,7 @@
   "DraftKings::/job/Boston-MA/Senior-Platform-Engineer_JR14940-1",
   "DraftKings::/job/Boston-MA/Senior-Procurement-Analyst--Marketing_JR14790-1",
   "DraftKings::/job/Boston-MA/Senior-Procurement-Analyst--Technology_JR14788-1",
+  "DraftKings::/job/Boston-MA/Senior-Site-Reliability-Engineer_JR14235-1",
   "DraftKings::/job/Boston-MA/Senior-Software-Engineer--Backend_JR14514-1",
   "DraftKings::/job/Boston-MA/Senior-Technical-Compliance-Analyst_JR14955-1",
   "DraftKings::/job/Boston-MA/Senior-Technical-Program-Manager--Data_JR14539-1",
