@@ -32,13 +32,13 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-compliance-307122",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-volleyball-coach-307107",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-307124",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-307110",
   "Intercollegiate::https://intercollegiate.co/job/coordinator-of-sports-information-307115",
   "Intercollegiate::https://intercollegiate.co/job/creative-services-student-worker-307120",
   "Intercollegiate::https://intercollegiate.co/job/director-for-compliance-uva-athletics-307135",
   "Intercollegiate::https://intercollegiate.co/job/director-of-fan-experience-307130",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/financial-analyst-i-athletics-307121",
   "Intercollegiate::https://intercollegiate.co/job/part-time-temporary-assistant-performance-dietitian-av9697-307109",
   "Intercollegiate::https://intercollegiate.co/job/registered-dietitian-nutritionist-307106",
@@ -54,13 +54,6 @@
   "TeamWork Online (all sports, newest)::2156280",
   "TeamWork Online (all sports, newest)::2185322",
   "TeamWork Online (all sports, newest)::2190766",
-  "TeamWork Online (all sports, newest)::2191124",
-  "TeamWork Online (all sports, newest)::2191183",
-  "TeamWork Online (all sports, newest)::2191185",
-  "TeamWork Online (all sports, newest)::2191186",
-  "TeamWork Online (all sports, newest)::2191187",
-  "TeamWork Online (all sports, newest)::2191188",
-  "TeamWork Online (all sports, newest)::2191189",
   "TeamWork Online (all sports, newest)::2191190",
   "TeamWork Online (all sports, newest)::2191191",
   "TeamWork Online (all sports, newest)::2191192",
@@ -250,7 +243,14 @@
   "TeamWork Online (all sports, newest)::2191395",
   "TeamWork Online (all sports, newest)::2191396",
   "TeamWork Online (all sports, newest)::2191397",
-  "TeamWork Online (all sports, newest)::2191398"
+  "TeamWork Online (all sports, newest)::2191398",
+  "TeamWork Online (all sports, newest)::2191399",
+  "TeamWork Online (all sports, newest)::2191400",
+  "TeamWork Online (all sports, newest)::2191401",
+  "TeamWork Online (all sports, newest)::2191402",
+  "TeamWork Online (all sports, newest)::2191403",
+  "TeamWork Online (all sports, newest)::2191404",
+  "TeamWork Online (all sports, newest)::2191405"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -431,7 +431,6 @@
  "greenhouse:nflcareers": [
   "NFL League Office::4996899008",
   "NFL League Office::5127328008",
-  "NFL League Office::5131132008",
   "NFL League Office::5143255008",
   "NFL League Office::5145774008",
   "NFL League Office::5176408008",
@@ -468,7 +467,8 @@
   "NFL League Office::5421785008",
   "NFL League Office::5422617008",
   "NFL League Office::5427009008",
-  "NFL League Office::5427937008"
+  "NFL League Office::5427937008",
+  "NFL League Office::5430389008"
  ],
  "https://nascar.wd1.myworkdayjobs.com/NASCAR": [
   "NASCAR::/job/Avondale-AZ/Credential-Event-Staff---Phoenix-Raceway_JR14362",
@@ -1017,11 +1017,9 @@
  "smartrecruiters:Sportradar": [
   "Sportradar::744000092283235",
   "Sportradar::744000107336142",
-  "Sportradar::744000128991065",
   "Sportradar::744000132387196",
   "Sportradar::744000132781909",
   "Sportradar::744000132781925",
-  "Sportradar::744000134006669",
   "Sportradar::744000136162979",
   "Sportradar::744000136396579",
   "Sportradar::744000136412609",
@@ -1040,7 +1038,6 @@
   "Sportradar::744000142577079",
   "Sportradar::744000143328370",
   "Sportradar::744000143520650",
-  "Sportradar::744000143521708",
   "Sportradar::744000144550810",
   "Sportradar::744000144552355",
   "Sportradar::744000144554969",
@@ -1066,7 +1063,6 @@
   "Sportradar::744000148737069",
   "Sportradar::744000148737199",
   "Sportradar::744000149269764",
-  "Sportradar::744000149532939",
   "Sportradar::744000149551131",
   "Sportradar::744000149606279",
   "Sportradar::744000149669664",
@@ -1093,7 +1089,8 @@
   "Sportradar::744000151039087",
   "Sportradar::744000151103539",
   "Sportradar::744000151302579",
-  "Sportradar::744000151324632"
+  "Sportradar::744000151324632",
+  "Sportradar::744000151371219"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
