@@ -1,5 +1,125 @@
 [
  {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "company": "Intercollegiate",
+  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
+  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2189597",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Manager, Business Development – Sponsorship",
+  "url": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office/manager-business-development-sponsorship-2189597",
+  "location": "New York, NY · Hybrid",
+  "description": "National Hockey League (NHL) · Manager",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191627",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Accounting Intern",
+  "url": "https://www.teamworkonline.com/baseball-jobs/easternleague/somerset-patriots/accounting-intern-2191627",
+  "location": "Bridgewater, NJ",
+  "description": "Somerset Patriots Baseball Team · Intern",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191622",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Vice President of Marketing and Community Relations",
+  "url": "https://www.teamworkonline.com/soccer-jobs/usl-soccer-jobs/uslw-minnesota/vice-president-of-marketing-and-community-relations-2191622",
+  "location": "Eagan, MN",
+  "description": "Minnesota Aurora FC USL W · Senior",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191626",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Manager, Partner Content",
+  "url": "https://www.teamworkonline.com/golf-tennis-jobs/usga-jobs/usga-jobs/manager-partner-content-2191626",
+  "location": "Liberty Corner, NJ · Hybrid",
+  "description": "United States Golf Association (USGA) · Manager",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191620",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "2026 Event Sales Associate (In-Person)",
+  "url": "https://www.teamworkonline.com/sporting-goods-jobs/sports-promotions-group-jobs/sports-promotions-group-jobs/2026-event-sales-associate-in-person-2191620",
+  "location": "Tampa Bay, FL",
+  "description": "Sports Promotions Group · Part Time",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191625",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Graphic Design Intern",
+  "url": "https://www.teamworkonline.com/baseball-jobs/easternleague/somerset-patriots/graphic-design-intern-2191625",
+  "location": "NJ",
+  "description": "Somerset Patriots · Intern",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191624",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Stadium Entertainment & Creative Services Internship",
+  "url": "https://www.teamworkonline.com/baseball-jobs/easternleague/somerset-patriots/stadium-entertainment-creative-services-internship-2191624",
+  "location": "Bridgewater , NJ",
+  "description": "Somerset Patriots Baseball Team · Intern",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191623",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "2027 Summer Internships - Marketing, Tickets Sales, Operations",
+  "url": "https://www.teamworkonline.com/baseball-jobs/easternleague/somerset-patriots/2027-summer-internships-marketing-tickets-sales-operations-2191623",
+  "location": "Bridgewater, NJ",
+  "description": "Somerset Patriots Baseball Team · Intern",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191621",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "2027 Spring Semester Internship",
+  "url": "https://www.teamworkonline.com/baseball-jobs/easternleague/somerset-patriots/2027-spring-semester-internship-2191621",
+  "location": "Bridgewater, NJ",
+  "description": "Somerset Patriots Baseball Team · Intern",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191601",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "2026 Event Sales Associate (In-Person)",
+  "url": "https://www.teamworkonline.com/sporting-goods-jobs/sports-promotions-group-jobs/sports-promotions-group-jobs/2026-event-sales-associate-in-person-2191601",
+  "location": "Raleigh, NC",
+  "description": "Sports Promotions Group · Part Time",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
+  "key": "New England Patriots (Kraft Group)::563866",
+  "company": "New England Patriots (Kraft Group)",
+  "title": "Pallet Operator",
+  "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=563866",
+  "location": "Rand Whitney Industries Agrand MA - Worcester, MA 01607",
+  "description": "SUMMARY: The primary functions of this position are to prepare work-in-process loads for palletizing, to dress loads to be strapped, and to run the...",
+  "posted": "",
+  "found": "2026-09-24T15:02:11+00:00"
+ },
+ {
   "key": "Sportradar::744000151631359",
   "company": "Sportradar",
   "title": "Senior Client Success Specialist",
