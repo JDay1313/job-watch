@@ -1,5 +1,155 @@
 [
  {
+  "key": "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-cleveland-guardians-data-scientist-2/",
+  "company": "FanGraphs Job Postings",
+  "title": "Cleveland Guardians – Data Scientist",
+  "url": "https://blogs.fangraphs.com/instagraphs/job-posting-cleveland-guardians-data-scientist-2/",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "company": "Intercollegiate",
+  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
+  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191592",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director of Premium Services & Engagement",
+  "url": "https://www.teamworkonline.com/basketball-jobs/charlotte/charlotte-hornets/director-of-premium-services-engagement-2191592",
+  "location": "Charlotte, NC",
+  "description": "Charlotte Hornets · Director",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191589",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Concession Supervisor ONT Field",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/concession-supervisor-ont-field-2191589",
+  "location": "Ontario, CA",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191590",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Concession Stand Lead ONT Field",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/concession-stand-lead-ont-field-2191590",
+  "location": "Ontario, CA",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191591",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Observatory Ambassador | One World Observatory",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/observatory-ambassador-one-world-observatory-2191591",
+  "location": "New York, NY",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191588",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Athletic Performance Manager",
+  "url": "https://www.teamworkonline.com/soccer-jobs/toca-football-jobs/toca-football-jobs/athletic-performance-manager-2191588",
+  "location": "Allen, TX",
+  "description": "TOCA Football · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191583",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Vice President, Marketing (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/vice-president-marketing-wnba-sirens-2191583",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Senior",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191584",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director, Business Development (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/director-business-development-wnba-sirens-2191584",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Director",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191585",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director, Premium Sales & Service (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/director-premium-sales-service-wnba-sirens-2191585",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Director",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191586",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director, Membership Development & Groups (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/director-membership-development-groups-wnba-sirens-2191586",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Director",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191587",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Jr Business Analyst (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/jr-business-analyst-wnba-sirens-2191587",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191582",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Manager, Digital Experience (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/manager-digital-experience-wnba-sirens-2191582",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Manager",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191581",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Coordinator, Growth Marketing (WNBA Sirens)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/cleveland-cavaliers/cleveland-cavaliers-28520/coordinator-growth-marketing-wnba-sirens-2191581",
+  "location": "Cleveland, OH",
+  "description": "Cleveland Cavaliers · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2191580",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Coordinator, U.S. Women's Open Operations",
+  "url": "https://www.teamworkonline.com/golf-tennis-jobs/usga-jobs/usga-jobs/coordinator-u-s-women-s-open-operations-2191580",
+  "location": "Toledo, OH",
+  "description": "United States Golf Association (USGA) · Entry Level",
+  "posted": "",
+  "found": "2026-09-24T12:40:35+00:00"
+ },
+ {
   "key": "Sportradar::744000151595989",
   "company": "Sportradar",
   "title": "Partnership Protection Specialist, Europe & Asia",
