@@ -53,13 +53,7 @@
   "TeamWork Online (all sports, newest)::2190527",
   "TeamWork Online (all sports, newest)::2190918",
   "TeamWork Online (all sports, newest)::2191386",
-  "TeamWork Online (all sports, newest)::2191441",
-  "TeamWork Online (all sports, newest)::2191442",
-  "TeamWork Online (all sports, newest)::2191445",
-  "TeamWork Online (all sports, newest)::2191446",
-  "TeamWork Online (all sports, newest)::2191447",
   "TeamWork Online (all sports, newest)::2191448",
-  "TeamWork Online (all sports, newest)::2191449",
   "TeamWork Online (all sports, newest)::2191450",
   "TeamWork Online (all sports, newest)::2191451",
   "TeamWork Online (all sports, newest)::2191452",
@@ -248,7 +242,13 @@
   "TeamWork Online (all sports, newest)::2191657",
   "TeamWork Online (all sports, newest)::2191658",
   "TeamWork Online (all sports, newest)::2191659",
-  "TeamWork Online (all sports, newest)::2191660"
+  "TeamWork Online (all sports, newest)::2191660",
+  "TeamWork Online (all sports, newest)::2191661",
+  "TeamWork Online (all sports, newest)::2191662",
+  "TeamWork Online (all sports, newest)::2191663",
+  "TeamWork Online (all sports, newest)::2191664",
+  "TeamWork Online (all sports, newest)::2191665",
+  "TeamWork Online (all sports, newest)::2191667"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -1004,7 +1004,8 @@
   "New England Patriots (Kraft Group)::562627",
   "New England Patriots (Kraft Group)::562692",
   "New England Patriots (Kraft Group)::563013",
-  "New England Patriots (Kraft Group)::563866"
+  "New England Patriots (Kraft Group)::563866",
+  "New England Patriots (Kraft Group)::564099"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1178,6 +1179,7 @@
   "DraftKings::/job/Boston-MA/Product-Manager-I_JR14633-2",
   "DraftKings::/job/Boston-MA/Senior-Accountant_JR14500-1",
   "DraftKings::/job/Boston-MA/Senior-Associate--Digital-Casino-Partnerships_JR14656-1",
+  "DraftKings::/job/Boston-MA/Senior-Associate--Revenue-Operations_JR15189-1",
   "DraftKings::/job/Boston-MA/Senior-Data-Engineer_JR14519-1",
   "DraftKings::/job/Boston-MA/Senior-Data-Science-Engineering-Manager--Marketing_JR15126-1",
   "DraftKings::/job/Boston-MA/Senior-Manager--HR-Systems_JR14740-1",
@@ -1328,7 +1330,10 @@
   "FanDuel::8193571",
   "FanDuel::8200980",
   "FanDuel::8201022",
-  "FanDuel::8220692"
+  "FanDuel::8208548",
+  "FanDuel::8220692",
+  "FanDuel::8230935",
+  "FanDuel::8230936"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
