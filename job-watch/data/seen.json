@@ -30,13 +30,13 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletics-trainer-for-football-307191",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-retail-operations-307193",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-retail-operations-307194",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/boatman-307201",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-assistant-women-s-volleyball-coach-307170",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-director-of-women-s-basketball-player-development-307169",
   "Intercollegiate::https://intercollegiate.co/job/dir-player-alumni-relations-307173",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ram-athletic-fund-annual-giving-307162",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/dp2-sports-dietitian-307203",
   "Intercollegiate::https://intercollegiate.co/job/event-staff-307180",
   "Intercollegiate::https://intercollegiate.co/job/ops-basketball-game-day-assistant-307177",
@@ -53,19 +53,9 @@
   "TeamWork Online (all sports, newest)::2190918",
   "TeamWork Online (all sports, newest)::2191386",
   "TeamWork Online (all sports, newest)::2191448",
-  "TeamWork Online (all sports, newest)::2191463",
   "TeamWork Online (all sports, newest)::2191474",
   "TeamWork Online (all sports, newest)::2191475",
-  "TeamWork Online (all sports, newest)::2191487",
   "TeamWork Online (all sports, newest)::2191488",
-  "TeamWork Online (all sports, newest)::2191489",
-  "TeamWork Online (all sports, newest)::2191490",
-  "TeamWork Online (all sports, newest)::2191491",
-  "TeamWork Online (all sports, newest)::2191492",
-  "TeamWork Online (all sports, newest)::2191493",
-  "TeamWork Online (all sports, newest)::2191494",
-  "TeamWork Online (all sports, newest)::2191495",
-  "TeamWork Online (all sports, newest)::2191496",
   "TeamWork Online (all sports, newest)::2191498",
   "TeamWork Online (all sports, newest)::2191499",
   "TeamWork Online (all sports, newest)::2191500",
@@ -248,7 +238,17 @@
   "TeamWork Online (all sports, newest)::2191701",
   "TeamWork Online (all sports, newest)::2191702",
   "TeamWork Online (all sports, newest)::2191703",
-  "TeamWork Online (all sports, newest)::2191707"
+  "TeamWork Online (all sports, newest)::2191704",
+  "TeamWork Online (all sports, newest)::2191705",
+  "TeamWork Online (all sports, newest)::2191707",
+  "TeamWork Online (all sports, newest)::2191710",
+  "TeamWork Online (all sports, newest)::2191711",
+  "TeamWork Online (all sports, newest)::2191712",
+  "TeamWork Online (all sports, newest)::2191713",
+  "TeamWork Online (all sports, newest)::2191714",
+  "TeamWork Online (all sports, newest)::2191715",
+  "TeamWork Online (all sports, newest)::2191716",
+  "TeamWork Online (all sports, newest)::2191717"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -1094,7 +1094,8 @@
   "Sportradar::744000151586927",
   "Sportradar::744000151590010",
   "Sportradar::744000151595989",
-  "Sportradar::744000151631359"
+  "Sportradar::744000151631359",
+  "Sportradar::744000151688844"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1146,7 +1147,8 @@
   "Underdog::4727925005",
   "Underdog::4735101005",
   "Underdog::4735148005",
-  "Underdog::4737024005"
+  "Underdog::4737024005",
+  "Underdog::4737816005"
  ],
  "ashby:sleeper": [
   "Sleeper::0df044af-b10f-4d75-8fc5-af16f1aabe7d",
@@ -1444,7 +1446,8 @@
   "Dallas Cowboys::2190822",
   "Dallas Cowboys::2190919",
   "Dallas Cowboys::2191303",
-  "Dallas Cowboys::2191520"
+  "Dallas Cowboys::2191520",
+  "Dallas Cowboys::2191710"
  ],
  "https://jobs.dayforcehcm.com/en-US/greenbaypackers/CANDIDATEPORTAL#backup": [
   "Green Bay Packers::2177995",
