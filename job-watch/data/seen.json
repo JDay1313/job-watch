@@ -1022,8 +1022,6 @@
   "Sportradar::744000136412609",
   "Sportradar::744000138641759",
   "Sportradar::744000139295439",
-  "Sportradar::744000140270460",
-  "Sportradar::744000140276719",
   "Sportradar::744000140415929",
   "Sportradar::744000140455663",
   "Sportradar::744000141189540",
@@ -1087,7 +1085,9 @@
   "Sportradar::744000151302579",
   "Sportradar::744000151324632",
   "Sportradar::744000151371219",
-  "Sportradar::744000151470469"
+  "Sportradar::744000151470469",
+  "Sportradar::744000151563739",
+  "Sportradar::744000151564059"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
