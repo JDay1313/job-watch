@@ -32,8 +32,8 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-softball-307248",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-communications-307246",
   "Intercollegiate::https://intercollegiate.co/job/assistant-men-s-tennis-coach-307264",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-assistant-director-of-communication-530069-307253",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-administrative-coordinator-307250",
   "Intercollegiate::https://intercollegiate.co/job/athletics-game-operations-student-assistant-307231",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-baseball-camp-coach-307261",
@@ -57,8 +57,6 @@
   "TeamWork Online (all sports, newest)::2191475",
   "TeamWork Online (all sports, newest)::2191488",
   "TeamWork Online (all sports, newest)::2191550",
-  "TeamWork Online (all sports, newest)::2191589",
-  "TeamWork Online (all sports, newest)::2191590",
   "TeamWork Online (all sports, newest)::2191592",
   "TeamWork Online (all sports, newest)::2191593",
   "TeamWork Online (all sports, newest)::2191595",
@@ -245,10 +243,12 @@
   "TeamWork Online (all sports, newest)::2191795",
   "TeamWork Online (all sports, newest)::2191796",
   "TeamWork Online (all sports, newest)::2191797",
+  "TeamWork Online (all sports, newest)::2191798",
   "TeamWork Online (all sports, newest)::2191799",
   "TeamWork Online (all sports, newest)::2191802",
   "TeamWork Online (all sports, newest)::2191803",
-  "TeamWork Online (all sports, newest)::2191804"
+  "TeamWork Online (all sports, newest)::2191804",
+  "TeamWork Online (all sports, newest)::2191805"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -648,6 +648,7 @@
   "New York Mets::/job/Citi-Field--Queens-New-York/Senior-Director--Partner-Solutions_R1437",
   "New York Mets::/job/Citi-Field--Queens-New-York/Software-Engineering-Associate--Baseball-Systems_R1433",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Affiliate-Hitting-Coach_R1355",
+  "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Baseball-Technology---Video_R1509",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Minor-League-Athletic-Trainer_R1506",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Minor-League-Strength---Conditioning-Coach_R1507"
  ],
@@ -1073,7 +1074,6 @@
   "Sportradar::744000150617297",
   "Sportradar::744000150618960",
   "Sportradar::744000150663909",
-  "Sportradar::744000150671570",
   "Sportradar::744000150978000",
   "Sportradar::744000151027784",
   "Sportradar::744000151039087",
@@ -1096,7 +1096,8 @@
   "Sportradar::744000151595989",
   "Sportradar::744000151631359",
   "Sportradar::744000151688844",
-  "Sportradar::744000151844989"
+  "Sportradar::744000151844989",
+  "Sportradar::744000151864689"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1135,7 +1136,8 @@
   "PrizePicks::7994778003",
   "PrizePicks::7996172003",
   "PrizePicks::7996240003",
-  "PrizePicks::7999266003"
+  "PrizePicks::7999266003",
+  "PrizePicks::8003717003"
  ],
  "greenhouse:underdog": [
   "Underdog::4713099005",
