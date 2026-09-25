@@ -32,8 +32,8 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-softball-307248",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-communications-307246",
   "Intercollegiate::https://intercollegiate.co/job/assistant-men-s-tennis-coach-307264",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-assistant-director-of-communication-530069-307253",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-administrative-coordinator-307250",
   "Intercollegiate::https://intercollegiate.co/job/athletics-game-operations-student-assistant-307231",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-baseball-camp-coach-307261",
@@ -53,17 +53,9 @@
   "TeamWork Online (all sports, newest)::2190918",
   "TeamWork Online (all sports, newest)::2191037",
   "TeamWork Online (all sports, newest)::2191386",
-  "TeamWork Online (all sports, newest)::2191474",
   "TeamWork Online (all sports, newest)::2191475",
   "TeamWork Online (all sports, newest)::2191488",
   "TeamWork Online (all sports, newest)::2191550",
-  "TeamWork Online (all sports, newest)::2191592",
-  "TeamWork Online (all sports, newest)::2191593",
-  "TeamWork Online (all sports, newest)::2191595",
-  "TeamWork Online (all sports, newest)::2191597",
-  "TeamWork Online (all sports, newest)::2191598",
-  "TeamWork Online (all sports, newest)::2191599",
-  "TeamWork Online (all sports, newest)::2191600",
   "TeamWork Online (all sports, newest)::2191601",
   "TeamWork Online (all sports, newest)::2191602",
   "TeamWork Online (all sports, newest)::2191603",
@@ -248,10 +240,17 @@
   "TeamWork Online (all sports, newest)::2191802",
   "TeamWork Online (all sports, newest)::2191803",
   "TeamWork Online (all sports, newest)::2191804",
-  "TeamWork Online (all sports, newest)::2191805"
+  "TeamWork Online (all sports, newest)::2191805",
+  "TeamWork Online (all sports, newest)::2191806",
+  "TeamWork Online (all sports, newest)::2191808",
+  "TeamWork Online (all sports, newest)::2191809",
+  "TeamWork Online (all sports, newest)::2191810",
+  "TeamWork Online (all sports, newest)::2191811",
+  "TeamWork Online (all sports, newest)::2191812",
+  "TeamWork Online (all sports, newest)::2191813",
+  "TeamWork Online (all sports, newest)::2191816"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2067455",
   "TeamWork Online (NFL teams)::2068238",
   "TeamWork Online (NFL teams)::2076019",
   "TeamWork Online (NFL teams)::2079975",
@@ -394,7 +393,8 @@
   "TeamWork Online (NFL teams)::2191520",
   "TeamWork Online (NFL teams)::2191632",
   "TeamWork Online (NFL teams)::2191654",
-  "TeamWork Online (NFL teams)::2191736"
+  "TeamWork Online (NFL teams)::2191736",
+  "TeamWork Online (NFL teams)::2191808"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -648,7 +648,6 @@
   "New York Mets::/job/Citi-Field--Queens-New-York/Senior-Director--Partner-Solutions_R1437",
   "New York Mets::/job/Citi-Field--Queens-New-York/Software-Engineering-Associate--Baseball-Systems_R1433",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Affiliate-Hitting-Coach_R1355",
-  "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Baseball-Technology---Video_R1509",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Minor-League-Athletic-Trainer_R1506",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Minor-League-Strength---Conditioning-Coach_R1507"
  ],
@@ -1464,7 +1463,8 @@
   "Green Bay Packers::2188766",
   "Green Bay Packers::2188767",
   "Green Bay Packers::2188780",
-  "Green Bay Packers::2190821"
+  "Green Bay Packers::2190821",
+  "Green Bay Packers::2191808"
  ],
  "https://jobs.dayforcehcm.com/bensonenterprises/SAINTSPELSCAREERS#backup": []
 }
