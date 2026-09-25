@@ -32,7 +32,6 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-softball-307248",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-communications-307246",
   "Intercollegiate::https://intercollegiate.co/job/assistant-men-s-tennis-coach-307264",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-assistant-director-of-communication-530069-307253",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-administrative-coordinator-307250",
@@ -41,6 +40,7 @@
   "Intercollegiate::https://intercollegiate.co/job/chief-of-staff-women-s-basketball-307265",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-technologies-chief-engineer-307258",
   "Intercollegiate::https://intercollegiate.co/job/director-of-communications-307257",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/fan-engagement-specialist-senior-307268",
   "Intercollegiate::https://intercollegiate.co/job/football-assistant-307262",
   "Intercollegiate::https://intercollegiate.co/job/hourly-pooled-athletic-training-aid-sports-medicine-307266"
@@ -53,8 +53,6 @@
   "TeamWork Online (all sports, newest)::2191386",
   "TeamWork Online (all sports, newest)::2191488",
   "TeamWork Online (all sports, newest)::2191550",
-  "TeamWork Online (all sports, newest)::2191628",
-  "TeamWork Online (all sports, newest)::2191629",
   "TeamWork Online (all sports, newest)::2191632",
   "TeamWork Online (all sports, newest)::2191633",
   "TeamWork Online (all sports, newest)::2191634",
@@ -248,7 +246,9 @@
   "TeamWork Online (all sports, newest)::2191836",
   "TeamWork Online (all sports, newest)::2191837",
   "TeamWork Online (all sports, newest)::2191838",
-  "TeamWork Online (all sports, newest)::2191839"
+  "TeamWork Online (all sports, newest)::2191839",
+  "TeamWork Online (all sports, newest)::2191840",
+  "TeamWork Online (all sports, newest)::2191841"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -426,7 +426,8 @@
   "MLB League Office::8174666",
   "MLB League Office::8204900",
   "MLB League Office::8227124",
-  "MLB League Office::8227152"
+  "MLB League Office::8227152",
+  "MLB League Office::8227166"
  ],
  "greenhouse:nflcareers": [
   "NFL League Office::4996899008",
@@ -858,6 +859,7 @@
   "Arizona Cardinals::52751b5f-cdd4-4069-a11a-d4527588fdba",
   "Arizona Cardinals::5a2719db-4b09-4567-83b9-2efc0f8a1747",
   "Arizona Cardinals::92ca91c5-5c45-42f6-bf28-91c7a8c0945f",
+  "Arizona Cardinals::9540cf47-75ec-4368-8bce-a32b7af9d24a",
   "Arizona Cardinals::96594d7f-7561-474e-a23d-1f8a72f63af1",
   "Arizona Cardinals::acc00a72-f2e7-4c26-a7e8-a5b0a60d8716",
   "Arizona Cardinals::aea742f9-e216-4b23-ab94-826c026f5f61",
@@ -1290,7 +1292,6 @@
   "FanDuel::8079437",
   "FanDuel::8079506",
   "FanDuel::8081556",
-  "FanDuel::8083739",
   "FanDuel::8084343",
   "FanDuel::8091874",
   "FanDuel::8093107",
