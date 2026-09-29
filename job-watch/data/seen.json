@@ -56,11 +56,6 @@
   "TeamWork Online (all sports, newest)::2191079",
   "TeamWork Online (all sports, newest)::2191082",
   "TeamWork Online (all sports, newest)::2191951",
-  "TeamWork Online (all sports, newest)::2191996",
-  "TeamWork Online (all sports, newest)::2192000",
-  "TeamWork Online (all sports, newest)::2192002",
-  "TeamWork Online (all sports, newest)::2192003",
-  "TeamWork Online (all sports, newest)::2192004",
   "TeamWork Online (all sports, newest)::2192006",
   "TeamWork Online (all sports, newest)::2192007",
   "TeamWork Online (all sports, newest)::2192008",
@@ -249,7 +244,12 @@
   "TeamWork Online (all sports, newest)::2192206",
   "TeamWork Online (all sports, newest)::2192207",
   "TeamWork Online (all sports, newest)::2192208",
-  "TeamWork Online (all sports, newest)::2192209"
+  "TeamWork Online (all sports, newest)::2192209",
+  "TeamWork Online (all sports, newest)::2192210",
+  "TeamWork Online (all sports, newest)::2192211",
+  "TeamWork Online (all sports, newest)::2192212",
+  "TeamWork Online (all sports, newest)::2192213",
+  "TeamWork Online (all sports, newest)::2192214"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2079975",
@@ -742,6 +742,7 @@
  ],
  "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/?q=&o=postedDateDesc": [
   "Pittsburgh Pirates::2b54bd7c-2a40-494b-b5e3-bbece5615def",
+  "Pittsburgh Pirates::5df61bf7-6829-4d1d-92a2-57786ea43a87",
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d"
  ],
  "https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO": [
@@ -1066,7 +1067,6 @@
   "Sportradar::744000151580121",
   "Sportradar::744000151580774",
   "Sportradar::744000151581026",
-  "Sportradar::744000151581719",
   "Sportradar::744000151581899",
   "Sportradar::744000151582114",
   "Sportradar::744000151583139",
@@ -1084,7 +1084,10 @@
   "Sportradar::744000152360379",
   "Sportradar::744000152360569",
   "Sportradar::744000152396509",
-  "Sportradar::744000152425773"
+  "Sportradar::744000152425773",
+  "Sportradar::744000152431059",
+  "Sportradar::744000152431989",
+  "Sportradar::744000152435220"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
