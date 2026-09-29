@@ -36,12 +36,12 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-basketball-coach-307416",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-water-polo-coach-307431",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-communications-307426",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-marketer-intercollegiate-athletics-307396",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307429",
   "Intercollegiate::https://intercollegiate.co/job/casual-assistant-coach-volleyball-i-307424",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athletic-administration-operations-307427",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/part-time-blue-hens-pa-announcer-athletics-307425",
   "Intercollegiate::https://intercollegiate.co/job/part-time-strength-and-conditioning-assistant-coach-307409",
   "Intercollegiate::https://intercollegiate.co/job/video-assistant-women-s-basketball-307397"
@@ -52,21 +52,7 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2189592",
   "TeamWork Online (all sports, newest)::2191951",
-  "TeamWork Online (all sports, newest)::2192048",
-  "TeamWork Online (all sports, newest)::2192049",
-  "TeamWork Online (all sports, newest)::2192051",
-  "TeamWork Online (all sports, newest)::2192052",
   "TeamWork Online (all sports, newest)::2192053",
-  "TeamWork Online (all sports, newest)::2192054",
-  "TeamWork Online (all sports, newest)::2192055",
-  "TeamWork Online (all sports, newest)::2192056",
-  "TeamWork Online (all sports, newest)::2192057",
-  "TeamWork Online (all sports, newest)::2192058",
-  "TeamWork Online (all sports, newest)::2192059",
-  "TeamWork Online (all sports, newest)::2192062",
-  "TeamWork Online (all sports, newest)::2192063",
-  "TeamWork Online (all sports, newest)::2192064",
-  "TeamWork Online (all sports, newest)::2192065",
   "TeamWork Online (all sports, newest)::2192066",
   "TeamWork Online (all sports, newest)::2192067",
   "TeamWork Online (all sports, newest)::2192068",
@@ -249,7 +235,21 @@
   "TeamWork Online (all sports, newest)::2192253",
   "TeamWork Online (all sports, newest)::2192254",
   "TeamWork Online (all sports, newest)::2192255",
-  "TeamWork Online (all sports, newest)::2192256"
+  "TeamWork Online (all sports, newest)::2192256",
+  "TeamWork Online (all sports, newest)::2192258",
+  "TeamWork Online (all sports, newest)::2192259",
+  "TeamWork Online (all sports, newest)::2192261",
+  "TeamWork Online (all sports, newest)::2192262",
+  "TeamWork Online (all sports, newest)::2192263",
+  "TeamWork Online (all sports, newest)::2192264",
+  "TeamWork Online (all sports, newest)::2192265",
+  "TeamWork Online (all sports, newest)::2192266",
+  "TeamWork Online (all sports, newest)::2192267",
+  "TeamWork Online (all sports, newest)::2192268",
+  "TeamWork Online (all sports, newest)::2192269",
+  "TeamWork Online (all sports, newest)::2192270",
+  "TeamWork Online (all sports, newest)::2192271",
+  "TeamWork Online (all sports, newest)::2192272"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2076019",
@@ -790,6 +790,7 @@
  ],
  "lever:sfgiants": [
   "San Francisco Giants::27d83d3c-a790-401e-8ce1-9ac3f32426f0",
+  "San Francisco Giants::971e227f-d3ae-4cdd-aec3-d1e5052ced20",
   "San Francisco Giants::d7408726-823f-4298-9776-48d26bdfcbd4"
  ],
  "https://recruiting2.ultipro.com/COL1047COLBA/JobBoard/17b65dc7-8957-462f-bbe5-957d054a4367/?q=&o=postedDateDesc": [
@@ -806,7 +807,6 @@
  ],
  "https://rangersmlb.wd5.myworkdayjobs.com/en-US/Rangers": [
   "Texas Rangers::/job/Arlington-TX/ADA-Shuttle-Driver_R2098",
-  "Texas Rangers::/job/Arlington-TX/Apprentice--Baseball-Research---Development_R2394",
   "Texas Rangers::/job/Arlington-TX/Area-Scout--Alabama--Mississippi-and-West-Tennessee-_R2402",
   "Texas Rangers::/job/Arlington-TX/Data-Apprentice_R2405",
   "Texas Rangers::/job/Arlington-TX/Electrician_R2322-1",
@@ -901,7 +901,6 @@
   "Las Vegas Raiders::9201294182680_1",
   "Las Vegas Raiders::9201294239879_1",
   "Las Vegas Raiders::9201294244387_1",
-  "Las Vegas Raiders::9201297714018_1",
   "Las Vegas Raiders::9201298510595_1",
   "Las Vegas Raiders::9201299301086_1",
   "Las Vegas Raiders::9201299362341_1",
@@ -1124,6 +1123,7 @@
   "PrizePicks::7996172003",
   "PrizePicks::7996240003",
   "PrizePicks::7999266003",
+  "PrizePicks::8003570003",
   "PrizePicks::8003717003"
  ],
  "greenhouse:underdog": [
@@ -1157,7 +1157,6 @@
   "Sleeper::fd7c8e44-caa4-4dff-b2d9-3a3365aae706"
  ],
  "https://draftkings.wd1.myworkdayjobs.com/DraftKings": [
-  "DraftKings::",
   "DraftKings::/job/Boise-ID/Operations-Associate--Jackpocket--Part-Time-_JR13415-1",
   "DraftKings::/job/Boston-MA/Analyst-II--Casino-Analytics_JR14842-2",
   "DraftKings::/job/Boston-MA/Director--HR-Business-Partnership_JR14600-1",
