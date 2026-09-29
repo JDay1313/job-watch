@@ -59,7 +59,6 @@
   "TeamWork Online (all sports, newest)::2192020",
   "TeamWork Online (all sports, newest)::2192022",
   "TeamWork Online (all sports, newest)::2192023",
-  "TeamWork Online (all sports, newest)::2192024",
   "TeamWork Online (all sports, newest)::2192026",
   "TeamWork Online (all sports, newest)::2192027",
   "TeamWork Online (all sports, newest)::2192028",
@@ -199,6 +198,7 @@
   "TeamWork Online (all sports, newest)::2192175",
   "TeamWork Online (all sports, newest)::2192176",
   "TeamWork Online (all sports, newest)::2192177",
+  "TeamWork Online (all sports, newest)::2192178",
   "TeamWork Online (all sports, newest)::2192179",
   "TeamWork Online (all sports, newest)::2192180",
   "TeamWork Online (all sports, newest)::2192181",
@@ -444,6 +444,7 @@
   "NFL League Office::5309561008",
   "NFL League Office::5311969008",
   "NFL League Office::5369091008",
+  "NFL League Office::5371436008",
   "NFL League Office::5373370008",
   "NFL League Office::5378747008",
   "NFL League Office::5378749008",
@@ -862,7 +863,7 @@
  ],
  "https://ambgroup.wd1.myworkdayjobs.com/AMBSE": [
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Part-Time-Security-Associate_R0029283-3",
-  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Falcons-HQ---Flowery-Branch/Football-Communications-Specialist_R0029315-3",
+  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Football-Communications-Specialist_R0029315-3",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Accounting-Manager--Retail_R0029165-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Director--Ticket-Sales-and-Service---NWSL-Atlanta_R0029243-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Housekeeping-PT--Event-Day-Only-_R0027296",
@@ -891,7 +892,6 @@
  ],
  "greenhouse:detroitlions": [
   "Detroit Lions::4066307005",
-  "Detroit Lions::4704679005",
   "Detroit Lions::4705349005",
   "Detroit Lions::4731251005"
  ],
@@ -1084,8 +1084,6 @@
   "Sportradar::744000152360569",
   "Sportradar::744000152396509",
   "Sportradar::744000152425773",
-  "Sportradar::744000152431059",
-  "Sportradar::744000152431989",
   "Sportradar::744000152435220"
  ],
  "greenhouse:prizepicks": [
