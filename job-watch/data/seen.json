@@ -38,10 +38,10 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-communications-307426",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-marketer-intercollegiate-athletics-307396",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307429",
   "Intercollegiate::https://intercollegiate.co/job/casual-assistant-coach-volleyball-i-307424",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athletic-administration-operations-307427",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/part-time-blue-hens-pa-announcer-athletics-307425",
   "Intercollegiate::https://intercollegiate.co/job/part-time-strength-and-conditioning-assistant-coach-307409",
   "Intercollegiate::https://intercollegiate.co/job/video-assistant-women-s-basketball-307397"
@@ -51,16 +51,7 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2189592",
-  "TeamWork Online (all sports, newest)::2191951",
-  "TeamWork Online (all sports, newest)::2192098",
-  "TeamWork Online (all sports, newest)::2192099",
-  "TeamWork Online (all sports, newest)::2192100",
   "TeamWork Online (all sports, newest)::2192101",
-  "TeamWork Online (all sports, newest)::2192102",
-  "TeamWork Online (all sports, newest)::2192103",
-  "TeamWork Online (all sports, newest)::2192104",
-  "TeamWork Online (all sports, newest)::2192105",
-  "TeamWork Online (all sports, newest)::2192106",
   "TeamWork Online (all sports, newest)::2192107",
   "TeamWork Online (all sports, newest)::2192108",
   "TeamWork Online (all sports, newest)::2192109",
@@ -209,7 +200,6 @@
   "TeamWork Online (all sports, newest)::2192259",
   "TeamWork Online (all sports, newest)::2192261",
   "TeamWork Online (all sports, newest)::2192262",
-  "TeamWork Online (all sports, newest)::2192263",
   "TeamWork Online (all sports, newest)::2192264",
   "TeamWork Online (all sports, newest)::2192265",
   "TeamWork Online (all sports, newest)::2192266",
@@ -229,7 +219,6 @@
   "TeamWork Online (all sports, newest)::2192280",
   "TeamWork Online (all sports, newest)::2192281",
   "TeamWork Online (all sports, newest)::2192282",
-  "TeamWork Online (all sports, newest)::2192283",
   "TeamWork Online (all sports, newest)::2192284",
   "TeamWork Online (all sports, newest)::2192285",
   "TeamWork Online (all sports, newest)::2192286",
@@ -249,7 +238,18 @@
   "TeamWork Online (all sports, newest)::2192301",
   "TeamWork Online (all sports, newest)::2192302",
   "TeamWork Online (all sports, newest)::2192303",
-  "TeamWork Online (all sports, newest)::2192304"
+  "TeamWork Online (all sports, newest)::2192304",
+  "TeamWork Online (all sports, newest)::2192306",
+  "TeamWork Online (all sports, newest)::2192307",
+  "TeamWork Online (all sports, newest)::2192308",
+  "TeamWork Online (all sports, newest)::2192309",
+  "TeamWork Online (all sports, newest)::2192310",
+  "TeamWork Online (all sports, newest)::2192311",
+  "TeamWork Online (all sports, newest)::2192312",
+  "TeamWork Online (all sports, newest)::2192313",
+  "TeamWork Online (all sports, newest)::2192314",
+  "TeamWork Online (all sports, newest)::2192315",
+  "TeamWork Online (all sports, newest)::2192317"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2076019",
@@ -469,7 +469,6 @@
   "NFL League Office::5427009008",
   "NFL League Office::5427937008",
   "NFL League Office::5430389008",
-  "NFL League Office::5430642008",
   "NFL League Office::5431078008",
   "NFL League Office::5431817008",
   "NFL League Office::5435061008"
@@ -788,7 +787,8 @@
   "San Diego Padres::2706790",
   "San Diego Padres::2813576",
   "San Diego Padres::2859226",
-  "San Diego Padres::2881948"
+  "San Diego Padres::2881948",
+  "San Diego Padres::2889880"
  ],
  "lever:sfgiants": [
   "San Francisco Giants::27d83d3c-a790-401e-8ce1-9ac3f32426f0",
