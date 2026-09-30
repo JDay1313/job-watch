@@ -31,7 +31,6 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-producer-307500",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-promotion-fan-engagement-w-soccer-softball-307484",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-camp-coach-baseball-2026-fall-semester-307493",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-camp-coach-beach-volleyball-2026-fall-semester-307494",
   "Intercollegiate::https://intercollegiate.co/job/athletics-marketing-game-day-assistant-307510",
@@ -39,6 +38,7 @@
   "Intercollegiate::https://intercollegiate.co/job/athletics-ticketing-sales-creative-intern-307509",
   "Intercollegiate::https://intercollegiate.co/job/coach-307485",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-development-baseball-307508",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/performance-nutritionist-307488",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletic-director-championship-resources-004432-307477",
   "Intercollegiate::https://intercollegiate.co/job/sports-performance-coach-for-baseball-and-softball-307479",
@@ -51,21 +51,12 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2189592",
   "TeamWork Online (all sports, newest)::2190352",
+  "TeamWork Online (all sports, newest)::2191339",
+  "TeamWork Online (all sports, newest)::2191340",
   "TeamWork Online (all sports, newest)::2192037",
   "TeamWork Online (all sports, newest)::2192050",
   "TeamWork Online (all sports, newest)::2192060",
   "TeamWork Online (all sports, newest)::2192122",
-  "TeamWork Online (all sports, newest)::2192178",
-  "TeamWork Online (all sports, newest)::2192220",
-  "TeamWork Online (all sports, newest)::2192221",
-  "TeamWork Online (all sports, newest)::2192222",
-  "TeamWork Online (all sports, newest)::2192223",
-  "TeamWork Online (all sports, newest)::2192224",
-  "TeamWork Online (all sports, newest)::2192225",
-  "TeamWork Online (all sports, newest)::2192226",
-  "TeamWork Online (all sports, newest)::2192227",
-  "TeamWork Online (all sports, newest)::2192228",
-  "TeamWork Online (all sports, newest)::2192229",
   "TeamWork Online (all sports, newest)::2192230",
   "TeamWork Online (all sports, newest)::2192231",
   "TeamWork Online (all sports, newest)::2192232",
@@ -248,10 +239,18 @@
   "TeamWork Online (all sports, newest)::2192429",
   "TeamWork Online (all sports, newest)::2192430",
   "TeamWork Online (all sports, newest)::2192431",
-  "TeamWork Online (all sports, newest)::2192433"
+  "TeamWork Online (all sports, newest)::2192433",
+  "TeamWork Online (all sports, newest)::2192435",
+  "TeamWork Online (all sports, newest)::2192436",
+  "TeamWork Online (all sports, newest)::2192437",
+  "TeamWork Online (all sports, newest)::2192438",
+  "TeamWork Online (all sports, newest)::2192439",
+  "TeamWork Online (all sports, newest)::2192441",
+  "TeamWork Online (all sports, newest)::2192442",
+  "TeamWork Online (all sports, newest)::2192443",
+  "TeamWork Online (all sports, newest)::2192444"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::1897729",
   "TeamWork Online (NFL teams)::2067455",
   "TeamWork Online (NFL teams)::2068238",
   "TeamWork Online (NFL teams)::2076019",
@@ -283,6 +282,7 @@
   "TeamWork Online (NFL teams)::2175952",
   "TeamWork Online (NFL teams)::2176089",
   "TeamWork Online (NFL teams)::2176109",
+  "TeamWork Online (NFL teams)::2176359",
   "TeamWork Online (NFL teams)::2177525",
   "TeamWork Online (NFL teams)::2178142",
   "TeamWork Online (NFL teams)::2178412",
@@ -435,7 +435,6 @@
   "NFL League Office::5176408008",
   "NFL League Office::5201467008",
   "NFL League Office::5253686008",
-  "NFL League Office::5264798008",
   "NFL League Office::5279619008",
   "NFL League Office::5281443008",
   "NFL League Office::5295942008",
@@ -469,7 +468,6 @@
   "NFL League Office::5427009008",
   "NFL League Office::5427937008",
   "NFL League Office::5430310008",
-  "NFL League Office::5430389008",
   "NFL League Office::5431078008",
   "NFL League Office::5431817008",
   "NFL League Office::5435061008"
@@ -737,6 +735,7 @@
  "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/?q=&o=postedDateDesc": [
   "Pittsburgh Pirates::2b54bd7c-2a40-494b-b5e3-bbece5615def",
   "Pittsburgh Pirates::5df61bf7-6829-4d1d-92a2-57786ea43a87",
+  "Pittsburgh Pirates::7a4c07dc-1cad-4fdd-97fe-4d6807ef521e",
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d"
  ],
  "https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO": [
@@ -757,8 +756,7 @@
   "Detroit Tigers::/job/Lakeland/Manager--Brand-Marketing---Communications--Lakeland_R9391-1"
  ],
  "greenhouse:clevelandguardiansbops": [
-  "Cleveland Guardians (Baseball Ops)::8770570002",
-  "Cleveland Guardians (Baseball Ops)::8827470002"
+  "Cleveland Guardians (Baseball Ops)::8770570002"
  ],
  "https://recruiting2.ultipro.com/CHI1000CWS/JobBoard/8e2339b4-b699-46e9-8b91-e3e826e53794/?q=&o=postedDateDesc": [
   "Chicago White Sox::870f7476-e8da-4c43-8f6e-bbe165cd5898",
@@ -975,7 +973,6 @@
   "New England Patriots (Kraft Group)::560451",
   "New England Patriots (Kraft Group)::560733",
   "New England Patriots (Kraft Group)::560978",
-  "New England Patriots (Kraft Group)::561137",
   "New England Patriots (Kraft Group)::561164",
   "New England Patriots (Kraft Group)::561191",
   "New England Patriots (Kraft Group)::561545",
@@ -987,7 +984,8 @@
   "New England Patriots (Kraft Group)::564360",
   "New England Patriots (Kraft Group)::565026",
   "New England Patriots (Kraft Group)::565417",
-  "New England Patriots (Kraft Group)::565675"
+  "New England Patriots (Kraft Group)::565675",
+  "New England Patriots (Kraft Group)::565915"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1106,6 +1104,7 @@
   "PrizePicks::7963079003",
   "PrizePicks::7979930003",
   "PrizePicks::7979943003",
+  "PrizePicks::7981471003",
   "PrizePicks::7984091003",
   "PrizePicks::7984095003",
   "PrizePicks::7984304003",
@@ -1394,6 +1393,8 @@
   "Dallas Cowboys::2174457",
   "Dallas Cowboys::2175903",
   "Dallas Cowboys::2176210",
+  "Dallas Cowboys::2176359",
+  "Dallas Cowboys::2176360",
   "Dallas Cowboys::2176798",
   "Dallas Cowboys::2177256",
   "Dallas Cowboys::2178133",
