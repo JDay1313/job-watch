@@ -49,6 +49,7 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2189830",
   "TeamWork Online (all sports, newest)::2190352",
+  "TeamWork Online (all sports, newest)::2191118",
   "TeamWork Online (all sports, newest)::2191119",
   "TeamWork Online (all sports, newest)::2191120",
   "TeamWork Online (all sports, newest)::2191339",
@@ -61,16 +62,6 @@
   "TeamWork Online (all sports, newest)::2192122",
   "TeamWork Online (all sports, newest)::2192305",
   "TeamWork Online (all sports, newest)::2192319",
-  "TeamWork Online (all sports, newest)::2192324",
-  "TeamWork Online (all sports, newest)::2192326",
-  "TeamWork Online (all sports, newest)::2192327",
-  "TeamWork Online (all sports, newest)::2192328",
-  "TeamWork Online (all sports, newest)::2192329",
-  "TeamWork Online (all sports, newest)::2192330",
-  "TeamWork Online (all sports, newest)::2192331",
-  "TeamWork Online (all sports, newest)::2192332",
-  "TeamWork Online (all sports, newest)::2192333",
-  "TeamWork Online (all sports, newest)::2192334",
   "TeamWork Online (all sports, newest)::2192336",
   "TeamWork Online (all sports, newest)::2192337",
   "TeamWork Online (all sports, newest)::2192338",
@@ -192,6 +183,8 @@
   "TeamWork Online (all sports, newest)::2192479",
   "TeamWork Online (all sports, newest)::2192480",
   "TeamWork Online (all sports, newest)::2192481",
+  "TeamWork Online (all sports, newest)::2192482",
+  "TeamWork Online (all sports, newest)::2192483",
   "TeamWork Online (all sports, newest)::2192484",
   "TeamWork Online (all sports, newest)::2192485",
   "TeamWork Online (all sports, newest)::2192486",
@@ -224,6 +217,7 @@
   "TeamWork Online (all sports, newest)::2192516",
   "TeamWork Online (all sports, newest)::2192517",
   "TeamWork Online (all sports, newest)::2192518",
+  "TeamWork Online (all sports, newest)::2192519",
   "TeamWork Online (all sports, newest)::2192520",
   "TeamWork Online (all sports, newest)::2192521",
   "TeamWork Online (all sports, newest)::2192522",
@@ -246,7 +240,13 @@
   "TeamWork Online (all sports, newest)::2192544",
   "TeamWork Online (all sports, newest)::2192545",
   "TeamWork Online (all sports, newest)::2192546",
-  "TeamWork Online (all sports, newest)::2192547"
+  "TeamWork Online (all sports, newest)::2192547",
+  "TeamWork Online (all sports, newest)::2192548",
+  "TeamWork Online (all sports, newest)::2192549",
+  "TeamWork Online (all sports, newest)::2192550",
+  "TeamWork Online (all sports, newest)::2192551",
+  "TeamWork Online (all sports, newest)::2192552",
+  "TeamWork Online (all sports, newest)::2192557"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -861,6 +861,7 @@
  ],
  "https://ambgroup.wd1.myworkdayjobs.com/AMBSE": [
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Part-Time-Security-Associate_R0029283-3",
+  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Executive-Assistant_R0029341-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Accounting-Manager--Retail_R0029165-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Director--Ticket-Sales-and-Service---NWSL-Atlanta_R0029243-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Housekeeping-PT--Event-Day-Only-_R0027296",
@@ -871,7 +872,6 @@
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Director--Corporate-Partnership-Activation---Atlanta-Falcons_R0029320",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Manager--Corporate-Partnership-Sales_R0029248",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Manager--Partnership-Insights_R0029253-2",
-  "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Executive-Assistant_R0029341-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Seasonal-Youth-Soccer-Coach--Atlanta-United-FC_R0028856-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Seasonal-Youth-Soccer-Coach--Atlanta-United-FC_R0029093-1"
  ],
@@ -1080,8 +1080,8 @@
   "Sportradar::744000152623358",
   "Sportradar::744000152624331",
   "Sportradar::744000152654749",
-  "Sportradar::744000152674170",
-  "Sportradar::744000152681389"
+  "Sportradar::744000152681389",
+  "Sportradar::744000152749419"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1119,6 +1119,7 @@
   "PrizePicks::7994778003",
   "PrizePicks::7996172003",
   "PrizePicks::7996240003",
+  "PrizePicks::7997560003",
   "PrizePicks::7999266003",
   "PrizePicks::8003570003",
   "PrizePicks::8003717003",
