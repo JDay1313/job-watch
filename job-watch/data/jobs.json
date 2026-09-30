@@ -1,5 +1,135 @@
 [
  {
+  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "company": "Intercollegiate",
+  "title": "Athletic Trainer",
+  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192617",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Event Day Attendant",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/event-day-attendant-2192617",
+  "location": "Los Angeles, CA",
+  "description": "Legends Global · Part Time",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192618",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Facilities Manager | Marshall Health Network Arena",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/facilities-manager-marshall-health-network-arena-2192618",
+  "location": "Huntington, WV",
+  "description": "Legends Global · Manager",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192616",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ticketing and Fundraising Specialist - University of Kansas",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/ticketing-and-fundraising-specialist-university-of-kansas-2192616",
+  "location": "Lawrence, KS",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192615",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Baseball Performance Associate (Seasonal)",
+  "url": "https://www.teamworkonline.com/multiple-properties/ilitch-sports/detroit-tigers/baseball-performance-associate-seasonal-2192615",
+  "location": "Detroit, MI",
+  "description": "Detroit Tigers · Entry Level",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192614",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Chief Engineer",
+  "url": "https://www.teamworkonline.com/basketball-jobs/atlanta-hawks-jobs/atlanta-hawks-jobs/chief-engineer-2192614",
+  "location": "Atlanta, GA",
+  "description": "Atlanta Hawks · Senior",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192613",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Culinary Supervisor, Lambeau Field",
+  "url": "https://www.teamworkonline.com/hockey-jobs/boston-bruins-jobs/delaware-north-jobs/culinary-supervisor-lambeau-field-2192613",
+  "location": "Green Bay, WI",
+  "description": "Delaware North · Entry Level",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192612",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Basketball Data Scientist (New Grad Summer 2027)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/utah-jazz-jobs/utah-jazz/basketball-data-scientist-new-grad-summer-2027-2192612",
+  "location": "Salt Lake City, UT",
+  "description": "Utah Jazz · Entry Level",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192611",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Special Events Intern - River Cats",
+  "url": "https://www.teamworkonline.com/baseball-jobs/sacramento-river-cats-jobs/sacramento-river-cats/special-events-intern-river-cats-2192611",
+  "location": "West Sacramento, CA",
+  "description": "Sacramento River Cats · Intern",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192610",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Executive Operations Administrator- River Cats",
+  "url": "https://www.teamworkonline.com/baseball-jobs/sacramento-river-cats-jobs/sacramento-river-cats/executive-operations-administrator-river-cats-2192610",
+  "location": "West Sacramento, CA",
+  "description": "Sacramento River Cats · Manager",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192609",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Coordinator, Lifecycle Marketing",
+  "url": "https://www.teamworkonline.com/soccer-jobs/nashville-sc/nashville-sc/coordinator-lifecycle-marketing-2192609",
+  "location": "Nashville, TN",
+  "description": "Nashville Soccer Club · Entry Level",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192607",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Social Media Specialist",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/img-academy-jobs/img-academy/social-media-specialist-2192607",
+  "location": "Bradenton, FL",
+  "description": "IMG Academy · Manager",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2192608",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Bilingual Customer Support Specialist",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/img-academy-jobs/img-academy/bilingual-customer-support-specialist-2192608",
+  "location": "Bradenton, FL",
+  "description": "IMG Academy · Entry Level",
+  "posted": "",
+  "found": "2026-09-30T21:37:33+00:00"
+ },
+ {
   "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "company": "Intercollegiate",
   "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
@@ -9868,135 +9998,5 @@
   "description": "",
   "posted": "",
   "found": "2026-09-26T03:00:51+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-26T02:00:58+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "company": "Intercollegiate",
-  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
-  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-26T01:33:19+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-26T00:39:44+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191937",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Premium Club Supervisor, TD Garden",
-  "url": "https://www.teamworkonline.com/hockey-jobs/boston-bruins-jobs/delaware-north-jobs/premium-club-supervisor-td-garden-2191937",
-  "location": "Boston, MA",
-  "description": "Delaware North · Entry Level",
-  "posted": "",
-  "found": "2026-09-26T00:39:44+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-26T00:00:56+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191936",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Performance Dietitian",
-  "url": "https://www.teamworkonline.com/college-jobs/collegesportsjobs/ucla/performance-dietitian-2191936",
-  "location": "Los Angeles, CA",
-  "description": "UCLA · Entry Level",
-  "posted": "",
-  "found": "2026-09-26T00:00:56+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-25T23:32:08+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191934",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Event Manager",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/event-manager-2191934",
-  "location": "Columbus, OH",
-  "description": "Legends Global · Manager",
-  "posted": "",
-  "found": "2026-09-25T23:32:08+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191935",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "AP Clerk",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/ap-clerk-2191935",
-  "location": "Long Beach, CA",
-  "description": "Legends Global · Part Time",
-  "posted": "",
-  "found": "2026-09-25T23:32:08+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191933",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Access Control Officer - up to $14.00/hr.",
-  "url": "https://www.teamworkonline.com/entertainment-jobs/six-flags-jobs-careers/six-flags/access-control-officer-up-to-14-00-hr-2191933",
-  "location": "Marietta, GA",
-  "description": "Six Flags · Part Time",
-  "posted": "",
-  "found": "2026-09-25T23:32:08+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191931",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Operations - Maintenance Mechanic II",
-  "url": "https://www.teamworkonline.com/hockey-jobs/nashville-predators/bridgestone-arena-jobs/operations-maintenance-mechanic-ii-2191931",
-  "location": "Nashville, TN",
-  "description": "Bridgestone Arena · Manager",
-  "posted": "",
-  "found": "2026-09-25T23:32:08+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2191932",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Operations - Maintenance Mechanic II",
-  "url": "https://www.teamworkonline.com/hockey-jobs/nashville-predators/nashville-predators/operations-maintenance-mechanic-ii-2191932",
-  "location": "Nashville, TN",
-  "description": "Nashville Predators · Manager",
-  "posted": "",
-  "found": "2026-09-25T23:32:08+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-25T23:00:44+00:00"
  }
 ]
