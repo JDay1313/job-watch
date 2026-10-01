@@ -54,8 +54,8 @@
   "TeamWork Online (all sports, newest)::2191339",
   "TeamWork Online (all sports, newest)::2191340",
   "TeamWork Online (all sports, newest)::2192076",
+  "TeamWork Online (all sports, newest)::2192116",
   "TeamWork Online (all sports, newest)::2192121",
-  "TeamWork Online (all sports, newest)::2192429",
   "TeamWork Online (all sports, newest)::2192430",
   "TeamWork Online (all sports, newest)::2192431",
   "TeamWork Online (all sports, newest)::2192433",
@@ -980,7 +980,9 @@
   "New England Patriots (Kraft Group)::564360",
   "New England Patriots (Kraft Group)::565026",
   "New England Patriots (Kraft Group)::565417",
-  "New England Patriots (Kraft Group)::565675"
+  "New England Patriots (Kraft Group)::565675",
+  "New England Patriots (Kraft Group)::566480",
+  "New England Patriots (Kraft Group)::566493"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1072,8 +1074,8 @@
   "Sportradar::744000152681389",
   "Sportradar::744000152749419",
   "Sportradar::744000152854141",
-  "Sportradar::744000152907586",
-  "Sportradar::744000152928165"
+  "Sportradar::744000152928165",
+  "Sportradar::744000152931740"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1115,7 +1117,9 @@
   "PrizePicks::8003570003",
   "PrizePicks::8003717003",
   "PrizePicks::8008103003",
-  "PrizePicks::8008655003"
+  "PrizePicks::8008655003",
+  "PrizePicks::8009261003",
+  "PrizePicks::8009358003"
  ],
  "greenhouse:underdog": [
   "Underdog::4715995005",
