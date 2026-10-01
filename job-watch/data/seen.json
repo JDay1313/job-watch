@@ -26,17 +26,17 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-football-307584",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-basketball-307573",
   "Intercollegiate::https://intercollegiate.co/job/assistant-golf-coach-men-women-307562",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-fields-groundskeeper-307577",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307567",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307569",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-events-coordinator-307578",
   "Intercollegiate::https://intercollegiate.co/job/athletics-facilities-event-coordinator-i-307579",
   "Intercollegiate::https://intercollegiate.co/job/chief-executive-officer-louisiana-athletics-307570",
   "Intercollegiate::https://intercollegiate.co/job/coach-307565",
   "Intercollegiate::https://intercollegiate.co/job/coordinator-marketing-and-fan-engagement-307571",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-operations-307586",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/game-day-table-crew-ops-307575",
   "Intercollegiate::https://intercollegiate.co/job/graphic-designer-intercollegiate-athletics-307563",
   "Intercollegiate::https://intercollegiate.co/job/quality-control-coach-307585",
@@ -55,11 +55,6 @@
   "TeamWork Online (all sports, newest)::2192427",
   "TeamWork Online (all sports, newest)::2192434",
   "TeamWork Online (all sports, newest)::2192586",
-  "TeamWork Online (all sports, newest)::2192630",
-  "TeamWork Online (all sports, newest)::2192631",
-  "TeamWork Online (all sports, newest)::2192633",
-  "TeamWork Online (all sports, newest)::2192636",
-  "TeamWork Online (all sports, newest)::2192637",
   "TeamWork Online (all sports, newest)::2192638",
   "TeamWork Online (all sports, newest)::2192639",
   "TeamWork Online (all sports, newest)::2192640",
@@ -246,7 +241,12 @@
   "TeamWork Online (all sports, newest)::2192848",
   "TeamWork Online (all sports, newest)::2192849",
   "TeamWork Online (all sports, newest)::2192850",
-  "TeamWork Online (all sports, newest)::2192851"
+  "TeamWork Online (all sports, newest)::2192851",
+  "TeamWork Online (all sports, newest)::2192852",
+  "TeamWork Online (all sports, newest)::2192853",
+  "TeamWork Online (all sports, newest)::2192854",
+  "TeamWork Online (all sports, newest)::2192855",
+  "TeamWork Online (all sports, newest)::2192856"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2084217",
@@ -838,11 +838,11 @@
   "Athletics (Baseball Ops)::8820906002"
  ],
  "https://mariners.wd5.myworkdayjobs.com/en-US/Mariners": [
+  "Seattle Mariners::",
   "Seattle Mariners::/job/Peoria-Arizona/Intern--Minor-League-Development_REQ2026-000031",
   "Seattle Mariners::/job/Remote---United-States/Professional-Scout_REQ2026-000034",
   "Seattle Mariners::/job/Remote---United-States/Professional-Scout_REQ2026-000035",
-  "Seattle Mariners::/job/Remote---United-States/Scout_REQ2026-000033",
-  "Seattle Mariners::/job/Seattle-Washington/Intern--Data-Science_REQ2026-000027"
+  "Seattle Mariners::/job/Remote---United-States/Scout_REQ2026-000033"
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d4e6b608-831f-4a04-bdb6-f61493552d27&ccId=19000101_000001&lang=en_US": [],
  "greenhouse:philadelphiaeagles": [
