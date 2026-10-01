@@ -31,12 +31,12 @@
   "Intercollegiate::https://intercollegiate.co/job/athletic-fields-groundskeeper-307577",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307567",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307569",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-events-coordinator-307578",
   "Intercollegiate::https://intercollegiate.co/job/athletics-facilities-event-coordinator-i-307579",
   "Intercollegiate::https://intercollegiate.co/job/chief-executive-officer-louisiana-athletics-307570",
   "Intercollegiate::https://intercollegiate.co/job/coach-307565",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-operations-307586",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/game-day-table-crew-ops-307575",
   "Intercollegiate::https://intercollegiate.co/job/graphic-designer-intercollegiate-athletics-307563",
   "Intercollegiate::https://intercollegiate.co/job/quality-control-coach-307585",
@@ -47,7 +47,6 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2191118",
   "TeamWork Online (all sports, newest)::2192077",
   "TeamWork Online (all sports, newest)::2192116",
   "TeamWork Online (all sports, newest)::2192146",
@@ -55,10 +54,8 @@
   "TeamWork Online (all sports, newest)::2192427",
   "TeamWork Online (all sports, newest)::2192434",
   "TeamWork Online (all sports, newest)::2192482",
-  "TeamWork Online (all sports, newest)::2192483",
   "TeamWork Online (all sports, newest)::2192528",
   "TeamWork Online (all sports, newest)::2192551",
-  "TeamWork Online (all sports, newest)::2192552",
   "TeamWork Online (all sports, newest)::2192557",
   "TeamWork Online (all sports, newest)::2192558",
   "TeamWork Online (all sports, newest)::2192562",
@@ -246,7 +243,10 @@
   "TeamWork Online (all sports, newest)::2192772",
   "TeamWork Online (all sports, newest)::2192773",
   "TeamWork Online (all sports, newest)::2192774",
-  "TeamWork Online (all sports, newest)::2192775"
+  "TeamWork Online (all sports, newest)::2192775",
+  "TeamWork Online (all sports, newest)::2192776",
+  "TeamWork Online (all sports, newest)::2192777",
+  "TeamWork Online (all sports, newest)::2192779"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2084217",
@@ -907,7 +907,6 @@
   "New England Patriots (Kraft Group)::468993",
   "New England Patriots (Kraft Group)::482174",
   "New England Patriots (Kraft Group)::484483",
-  "New England Patriots (Kraft Group)::495975",
   "New England Patriots (Kraft Group)::498745",
   "New England Patriots (Kraft Group)::498755",
   "New England Patriots (Kraft Group)::508139",
@@ -980,7 +979,6 @@
   "New England Patriots (Kraft Group)::564099",
   "New England Patriots (Kraft Group)::564360",
   "New England Patriots (Kraft Group)::565026",
-  "New England Patriots (Kraft Group)::565417",
   "New England Patriots (Kraft Group)::565675",
   "New England Patriots (Kraft Group)::566480",
   "New England Patriots (Kraft Group)::566590"
