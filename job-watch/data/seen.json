@@ -27,7 +27,6 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-basketball-307573",
   "Intercollegiate::https://intercollegiate.co/job/assistant-golf-coach-men-women-307562",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-creative-video-307560",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-fields-groundskeeper-307577",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307567",
@@ -37,6 +36,7 @@
   "Intercollegiate::https://intercollegiate.co/job/chief-executive-officer-louisiana-athletics-307570",
   "Intercollegiate::https://intercollegiate.co/job/coach-307565",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-operations-307586",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/game-day-table-crew-ops-307575",
   "Intercollegiate::https://intercollegiate.co/job/graphic-designer-intercollegiate-athletics-307563",
   "Intercollegiate::https://intercollegiate.co/job/quality-control-coach-307585",
@@ -235,7 +235,6 @@
   "TeamWork Online (all sports, newest)::2192676",
   "TeamWork Online (all sports, newest)::2192678",
   "TeamWork Online (all sports, newest)::2192680",
-  "TeamWork Online (all sports, newest)::2192681",
   "TeamWork Online (all sports, newest)::2192682",
   "TeamWork Online (all sports, newest)::2192683",
   "TeamWork Online (all sports, newest)::2192684",
@@ -246,7 +245,8 @@
   "TeamWork Online (all sports, newest)::2192689",
   "TeamWork Online (all sports, newest)::2192690",
   "TeamWork Online (all sports, newest)::2192691",
-  "TeamWork Online (all sports, newest)::2192692"
+  "TeamWork Online (all sports, newest)::2192692",
+  "TeamWork Online (all sports, newest)::2192693"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::1897729",
@@ -390,7 +390,8 @@
   "TeamWork Online (NFL teams)::2192530",
   "TeamWork Online (NFL teams)::2192586",
   "TeamWork Online (NFL teams)::2192683",
-  "TeamWork Online (NFL teams)::2192687"
+  "TeamWork Online (NFL teams)::2192687",
+  "TeamWork Online (NFL teams)::2192693"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -461,6 +462,8 @@
   "NFL League Office::5422617008",
   "NFL League Office::5427009008",
   "NFL League Office::5427937008",
+  "NFL League Office::5429054008",
+  "NFL League Office::5429057008",
   "NFL League Office::5430310008",
   "NFL League Office::5431078008",
   "NFL League Office::5431817008",
@@ -523,7 +526,6 @@
   "NASCAR::/job/Daytona-Beach-FL/Seasonal-Tram-Riders---Attendants---Daytona-International-Speedway_JR12589",
   "NASCAR::/job/Daytona-Beach-FL/Security-Event-Staff---Daytona-International-Speedway_JR14160",
   "NASCAR::/job/Daytona-Beach-FL/Senior-Coordinator--Hospitality_JR14274",
-  "NASCAR::/job/Daytona-Beach-FL/Ticket-Operations-Associate---Daytona-International-Speedway_JR12544",
   "NASCAR::/job/Homestead-FL/Coordinator--Event-Operations_JR14218",
   "NASCAR::/job/Homestead-FL/Credential-Event-Staff---Homestead-Miami-Speedway_JR14311",
   "NASCAR::/job/Homestead-FL/Guest-Services-Support-Event-Staff---Homestead-Miami-Speedway_JR14296",
@@ -980,7 +982,8 @@
   "New England Patriots (Kraft Group)::565417",
   "New England Patriots (Kraft Group)::565675",
   "New England Patriots (Kraft Group)::566480",
-  "New England Patriots (Kraft Group)::566493"
+  "New England Patriots (Kraft Group)::566493",
+  "New England Patriots (Kraft Group)::566590"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1195,6 +1198,7 @@
   "DraftKings::/job/Raleigh-NC/Associate-Quality-Control-Analyst--Part-Time-_JR13388-1",
   "DraftKings::/job/Ralston-NE/Operations-Associate--Jackpocket_JR14936-1",
   "DraftKings::/job/Remote---Bulgaria/Lead-NetOps-Engineer_JR14563-1",
+  "DraftKings::/job/Remote---Bulgaria/Lead-iOS-Engineer_JR14684-2",
   "DraftKings::/job/Remote---Canada/Manager--Integrated-Marketing_JR15083-2",
   "DraftKings::/job/Remote---Canada/Senior-Data-Engineer_JR14471-1",
   "DraftKings::/job/Remote---Canada/Senior-Software-Engineer--IOS_JR14529-1",
