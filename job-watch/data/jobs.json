@@ -1,5 +1,15 @@
 [
  {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "company": "Intercollegiate",
+  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
+  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-01T12:03:39+00:00"
+ },
+ {
   "key": "Sportradar::744000152907586",
   "company": "Sportradar",
   "title": "Senior Java Software Engineer",
@@ -9988,15 +9998,5 @@
   "description": "Legends Global · Entry Level",
   "posted": "",
   "found": "2026-09-27T14:00:55+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "company": "Intercollegiate",
-  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
-  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-27T13:01:01+00:00"
  }
 ]
