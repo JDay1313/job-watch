@@ -27,6 +27,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-basketball-307573",
   "Intercollegiate::https://intercollegiate.co/job/assistant-golf-coach-men-women-307562",
   "Intercollegiate::https://intercollegiate.co/job/athletic-fields-groundskeeper-307577",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307567",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307569",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
@@ -36,7 +37,6 @@
   "Intercollegiate::https://intercollegiate.co/job/coach-307565",
   "Intercollegiate::https://intercollegiate.co/job/coordinator-marketing-and-fan-engagement-307571",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-operations-307586",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/game-day-table-crew-ops-307575",
   "Intercollegiate::https://intercollegiate.co/job/graphic-designer-intercollegiate-athletics-307563",
   "Intercollegiate::https://intercollegiate.co/job/quality-control-coach-307585",
@@ -55,13 +55,6 @@
   "TeamWork Online (all sports, newest)::2192427",
   "TeamWork Online (all sports, newest)::2192434",
   "TeamWork Online (all sports, newest)::2192586",
-  "TeamWork Online (all sports, newest)::2192615",
-  "TeamWork Online (all sports, newest)::2192616",
-  "TeamWork Online (all sports, newest)::2192618",
-  "TeamWork Online (all sports, newest)::2192619",
-  "TeamWork Online (all sports, newest)::2192620",
-  "TeamWork Online (all sports, newest)::2192621",
-  "TeamWork Online (all sports, newest)::2192622",
   "TeamWork Online (all sports, newest)::2192623",
   "TeamWork Online (all sports, newest)::2192624",
   "TeamWork Online (all sports, newest)::2192625",
@@ -134,6 +127,7 @@
   "TeamWork Online (all sports, newest)::2192706",
   "TeamWork Online (all sports, newest)::2192707",
   "TeamWork Online (all sports, newest)::2192708",
+  "TeamWork Online (all sports, newest)::2192709",
   "TeamWork Online (all sports, newest)::2192710",
   "TeamWork Online (all sports, newest)::2192711",
   "TeamWork Online (all sports, newest)::2192712",
@@ -246,7 +240,13 @@
   "TeamWork Online (all sports, newest)::2192823",
   "TeamWork Online (all sports, newest)::2192824",
   "TeamWork Online (all sports, newest)::2192825",
-  "TeamWork Online (all sports, newest)::2192829"
+  "TeamWork Online (all sports, newest)::2192829",
+  "TeamWork Online (all sports, newest)::2192830",
+  "TeamWork Online (all sports, newest)::2192832",
+  "TeamWork Online (all sports, newest)::2192835",
+  "TeamWork Online (all sports, newest)::2192836",
+  "TeamWork Online (all sports, newest)::2192838",
+  "TeamWork Online (all sports, newest)::2192841"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2084217",
@@ -621,7 +621,8 @@
   "Philadelphia Phillies (Baseball Ops)::7796442003",
   "Philadelphia Phillies (Baseball Ops)::7993132003",
   "Philadelphia Phillies (Baseball Ops)::8002979003",
-  "Philadelphia Phillies (Baseball Ops)::8005783003"
+  "Philadelphia Phillies (Baseball Ops)::8005783003",
+  "Philadelphia Phillies (Baseball Ops)::8009947003"
  ],
  "https://atlantabravesmlb.wd5.myworkdayjobs.com/AtlantaBraves": [
   "Atlanta Braves::/job/Atlanta-GA/Accounts-Payable-Accountant_R2005-1",
