@@ -29,9 +29,9 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-creative-video-307560",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-fields-groundskeeper-307577",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307567",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307569",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-events-coordinator-307578",
   "Intercollegiate::https://intercollegiate.co/job/athletics-facilities-event-coordinator-i-307579",
   "Intercollegiate::https://intercollegiate.co/job/chief-executive-officer-louisiana-athletics-307570",
@@ -51,14 +51,9 @@
   "TeamWork Online (all sports, newest)::2191118",
   "TeamWork Online (all sports, newest)::2191119",
   "TeamWork Online (all sports, newest)::2191120",
-  "TeamWork Online (all sports, newest)::2191339",
-  "TeamWork Online (all sports, newest)::2191340",
   "TeamWork Online (all sports, newest)::2192076",
   "TeamWork Online (all sports, newest)::2192116",
   "TeamWork Online (all sports, newest)::2192121",
-  "TeamWork Online (all sports, newest)::2192444",
-  "TeamWork Online (all sports, newest)::2192445",
-  "TeamWork Online (all sports, newest)::2192446",
   "TeamWork Online (all sports, newest)::2192447",
   "TeamWork Online (all sports, newest)::2192448",
   "TeamWork Online (all sports, newest)::2192449",
@@ -242,11 +237,16 @@
   "TeamWork Online (all sports, newest)::2192668",
   "TeamWork Online (all sports, newest)::2192669",
   "TeamWork Online (all sports, newest)::2192670",
+  "TeamWork Online (all sports, newest)::2192671",
   "TeamWork Online (all sports, newest)::2192672",
   "TeamWork Online (all sports, newest)::2192673",
   "TeamWork Online (all sports, newest)::2192674",
   "TeamWork Online (all sports, newest)::2192675",
-  "TeamWork Online (all sports, newest)::2192676"
+  "TeamWork Online (all sports, newest)::2192676",
+  "TeamWork Online (all sports, newest)::2192678",
+  "TeamWork Online (all sports, newest)::2192680",
+  "TeamWork Online (all sports, newest)::2192681",
+  "TeamWork Online (all sports, newest)::2192682"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::1897729",
@@ -455,7 +455,6 @@
   "NFL League Office::5418679008",
   "NFL League Office::5418708008",
   "NFL League Office::5419267008",
-  "NFL League Office::5419863008",
   "NFL League Office::5421785008",
   "NFL League Office::5422617008",
   "NFL League Office::5427009008",
@@ -481,7 +480,6 @@
   "NASCAR::/job/Braselton-GA/Corner-Marshal_JR14086",
   "NASCAR::/job/Braselton-GA/General-Maintenance-Laborer_JR14380",
   "NASCAR::/job/Braselton-GA/Office-Coordinator_JR14403",
-  "NASCAR::/job/Brooklyn-MI/Account-Executive--Track-Group-Sales_JR14290",
   "NASCAR::/job/CHICAGO---JOLIET/Fire-Safety-Event-Staff----Chicagoland-Speedway_JR13994",
   "NASCAR::/job/Charlotte-NC/Coordinator--Community-Impact_JR14355",
   "NASCAR::/job/Charlotte-NC/Manager--Creative-Operations_JR14372",
@@ -722,7 +720,6 @@
   "Boston Red Sox::0104b0a3-e57d-406d-9d81-9e4fab7298ea",
   "Boston Red Sox::19464218-3a77-4c77-ab75-5d94ba038c84",
   "Boston Red Sox::28fff1b0-8010-4c27-99b3-bfc582862217",
-  "Boston Red Sox::40f96420-5b9a-41f9-b809-fd4d6595f113",
   "Boston Red Sox::5d8d7a39-515b-4732-99bd-59b3d0a3d947",
   "Boston Red Sox::5dfdf4f8-66af-4861-b506-4100d45e52ad",
   "Boston Red Sox::87afbd8b-1c56-456b-ae65-19f593414205",
@@ -755,7 +752,8 @@
   "Detroit Tigers::/job/Lakeland/Manager--Brand-Marketing---Communications--Lakeland_R9391-1"
  ],
  "greenhouse:clevelandguardiansbops": [
-  "Cleveland Guardians (Baseball Ops)::8770570002"
+  "Cleveland Guardians (Baseball Ops)::8770570002",
+  "Cleveland Guardians (Baseball Ops)::8860044002"
  ],
  "https://recruiting2.ultipro.com/CHI1000CWS/JobBoard/8e2339b4-b699-46e9-8b91-e3e826e53794/?q=&o=postedDateDesc": [
   "Chicago White Sox::870f7476-e8da-4c43-8f6e-bbe165cd5898",
