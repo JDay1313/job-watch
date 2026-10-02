@@ -31,7 +31,6 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-men-s-women-s-track-field-coach-307660",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-external-relations-307646",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-athletics-sports-performance-307666",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/asst-coach-track-cross-country-307653",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307650",
@@ -39,6 +38,7 @@
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-for-administration-and-chief-of-staff-307658",
   "Intercollegiate::https://intercollegiate.co/job/development-officer-i-ii-fundraising-partnerships-307637",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athlete-compensation-307664",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/merchandise-manager-307647",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletic-director-for-revenue-generation-307657",
   "Intercollegiate::https://intercollegiate.co/job/ticket-operations-assistant-307663"
@@ -53,15 +53,7 @@
   "TeamWork Online (all sports, newest)::2192828",
   "TeamWork Online (all sports, newest)::2192831",
   "TeamWork Online (all sports, newest)::2192912",
-  "TeamWork Online (all sports, newest)::2192938",
-  "TeamWork Online (all sports, newest)::2192939",
-  "TeamWork Online (all sports, newest)::2192940",
-  "TeamWork Online (all sports, newest)::2192941",
   "TeamWork Online (all sports, newest)::2192942",
-  "TeamWork Online (all sports, newest)::2192943",
-  "TeamWork Online (all sports, newest)::2192944",
-  "TeamWork Online (all sports, newest)::2192945",
-  "TeamWork Online (all sports, newest)::2192946",
   "TeamWork Online (all sports, newest)::2192947",
   "TeamWork Online (all sports, newest)::2192948",
   "TeamWork Online (all sports, newest)::2192949",
@@ -231,6 +223,7 @@
   "TeamWork Online (all sports, newest)::2193122",
   "TeamWork Online (all sports, newest)::2193123",
   "TeamWork Online (all sports, newest)::2193124",
+  "TeamWork Online (all sports, newest)::2193125",
   "TeamWork Online (all sports, newest)::2193126",
   "TeamWork Online (all sports, newest)::2193127",
   "TeamWork Online (all sports, newest)::2193129",
@@ -246,7 +239,14 @@
   "TeamWork Online (all sports, newest)::2193139",
   "TeamWork Online (all sports, newest)::2193140",
   "TeamWork Online (all sports, newest)::2193141",
-  "TeamWork Online (all sports, newest)::2193142"
+  "TeamWork Online (all sports, newest)::2193142",
+  "TeamWork Online (all sports, newest)::2193143",
+  "TeamWork Online (all sports, newest)::2193144",
+  "TeamWork Online (all sports, newest)::2193145",
+  "TeamWork Online (all sports, newest)::2193146",
+  "TeamWork Online (all sports, newest)::2193147",
+  "TeamWork Online (all sports, newest)::2193148",
+  "TeamWork Online (all sports, newest)::2193149"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -651,6 +651,7 @@
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Minor-League-Athletic-Trainer_R1506",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Minor-League-Strength---Conditioning-Coach_R1507",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Director--MiLB-Rehabilitation_R1510",
+  "New York Mets::/job/New-York-Mets-Complex--Dominican-Republic/Associate--Video---Technology--International-Scouting-_R1522-1",
   "New York Mets::/job/New-York-Mets-Complex--Dominican-Republic/Medical---Rehabilitation-Coordinator--Latin-America_R1516-1"
  ],
  "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/?q=&o=postedDateDesc": [
@@ -977,7 +978,8 @@
   "New England Patriots (Kraft Group)::565675",
   "New England Patriots (Kraft Group)::566480",
   "New England Patriots (Kraft Group)::566590",
-  "New England Patriots (Kraft Group)::567145"
+  "New England Patriots (Kraft Group)::567145",
+  "New England Patriots (Kraft Group)::567312"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1309,7 +1311,6 @@
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/paralegal-specialist/391/100823954784",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/programming-coordinator-format-analysis/391/101054729440",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/video-editor/391/101280659328"
