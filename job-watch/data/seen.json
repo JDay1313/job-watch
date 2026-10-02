@@ -49,10 +49,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2191213",
   "TeamWork Online (all sports, newest)::2192709",
-  "TeamWork Online (all sports, newest)::2192715",
-  "TeamWork Online (all sports, newest)::2192717",
-  "TeamWork Online (all sports, newest)::2192718",
-  "TeamWork Online (all sports, newest)::2192719",
   "TeamWork Online (all sports, newest)::2192720",
   "TeamWork Online (all sports, newest)::2192721",
   "TeamWork Online (all sports, newest)::2192733",
@@ -246,7 +242,11 @@
   "TeamWork Online (all sports, newest)::2192946",
   "TeamWork Online (all sports, newest)::2192947",
   "TeamWork Online (all sports, newest)::2192948",
-  "TeamWork Online (all sports, newest)::2192949"
+  "TeamWork Online (all sports, newest)::2192949",
+  "TeamWork Online (all sports, newest)::2192950",
+  "TeamWork Online (all sports, newest)::2192951",
+  "TeamWork Online (all sports, newest)::2192952",
+  "TeamWork Online (all sports, newest)::2192953"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2076019",
@@ -641,6 +641,7 @@
   "New York Mets::/job/Citi-Field--Queens-New-York/Payroll-Administrator_R1502",
   "New York Mets::/job/Citi-Field--Queens-New-York/Senior-Data-Scientist--Baseball-Analytics_R1415",
   "New York Mets::/job/Citi-Field--Queens-New-York/Senior-Director--Partner-Solutions_R1437",
+  "New York Mets::/job/Citi-Field--Queens-New-York/Software-Engineer--Baseball-Systems_R1520",
   "New York Mets::/job/Citi-Field--Queens-New-York/Software-Engineering-Associate--Baseball-Systems_R1433",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Affiliate-Hitting-Coach_R1355",
   "New York Mets::/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Baseball-Technology---Video_R1509",
@@ -687,7 +688,8 @@
   "Miami Marlins::2191323",
   "Miami Marlins::2191366",
   "Miami Marlins::2191369",
-  "Miami Marlins::2191413"
+  "Miami Marlins::2191413",
+  "Miami Marlins::2192951"
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?source=TeamWork&client=nyyanks&ccId=19000101_000001&cid=5ebae4fe-1105-47a5-b26d-e74868af6e86&lang=en_US&selectedMenuKey=CareerCenter": [
   "New York Yankees::9201864727913_1",
@@ -1205,6 +1207,7 @@
   "DraftKings::/job/Remote---US/New-Business-Executive_JR15055-1",
   "DraftKings::/job/Remote---US/Revenue-Operations-Specialist_JR15193-1",
   "DraftKings::/job/Remote---US/Salesforce-Administrator_JR14950-3",
+  "DraftKings::/job/Remote---US/Senior-Associate--Revenue-Operations_JR15189-1",
   "DraftKings::/job/Remote---US/Senior-Associate-Delivery-Manager_JR14679-2",
   "DraftKings::/job/Remote---US/Senior-Lead-Database-Reliability-Engineer_JR14624-1",
   "DraftKings::/job/Remote---US/Senior-Lead-Software-Engineer--Backend_JR14836-2",
