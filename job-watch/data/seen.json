@@ -34,11 +34,11 @@
   "Intercollegiate::https://intercollegiate.co/job/asst-coach-track-cross-country-307653",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307650",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-development-coordinator-advancement-professional-i-307640",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-for-administration-and-chief-of-staff-307658",
   "Intercollegiate::https://intercollegiate.co/job/development-officer-i-ii-fundraising-partnerships-307637",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athlete-compensation-307664",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/merchandise-manager-307647",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletic-director-for-revenue-generation-307657",
   "Intercollegiate::https://intercollegiate.co/job/ticket-operations-assistant-307663"
@@ -48,11 +48,8 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2191213",
+  "TeamWork Online (all sports, newest)::2191485",
   "TeamWork Online (all sports, newest)::2192709",
-  "TeamWork Online (all sports, newest)::2192745",
-  "TeamWork Online (all sports, newest)::2192746",
-  "TeamWork Online (all sports, newest)::2192747",
-  "TeamWork Online (all sports, newest)::2192753",
   "TeamWork Online (all sports, newest)::2192754",
   "TeamWork Online (all sports, newest)::2192755",
   "TeamWork Online (all sports, newest)::2192756",
@@ -193,6 +190,7 @@
   "TeamWork Online (all sports, newest)::2192909",
   "TeamWork Online (all sports, newest)::2192910",
   "TeamWork Online (all sports, newest)::2192911",
+  "TeamWork Online (all sports, newest)::2192912",
   "TeamWork Online (all sports, newest)::2192915",
   "TeamWork Online (all sports, newest)::2192916",
   "TeamWork Online (all sports, newest)::2192918",
@@ -246,7 +244,9 @@
   "TeamWork Online (all sports, newest)::2192970",
   "TeamWork Online (all sports, newest)::2192971",
   "TeamWork Online (all sports, newest)::2192972",
-  "TeamWork Online (all sports, newest)::2192973"
+  "TeamWork Online (all sports, newest)::2192973",
+  "TeamWork Online (all sports, newest)::2192978",
+  "TeamWork Online (all sports, newest)::2192981"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -859,8 +859,8 @@
  ],
  "https://ambgroup.wd1.myworkdayjobs.com/AMBSE": [
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Part-Time-Security-Associate_R0029283-3",
+  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Director--Ticket-Sales-and-Service---NWSL-Atlanta_R0029243-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Accounting-Manager--Retail_R0029165-1",
-  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Director--Ticket-Sales-and-Service---NWSL-Atlanta_R0029243-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Housekeeping-PT--Event-Day-Only-_R0027296",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Plumber_R0029307-3",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer---Part-Time_R0028882-2",
