@@ -31,14 +31,14 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-men-s-women-s-track-field-coach-307660",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-external-relations-307646",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-athletics-sports-performance-307666",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/asst-coach-track-cross-country-307653",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307650",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-development-coordinator-advancement-professional-i-307640",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-for-administration-and-chief-of-staff-307658",
   "Intercollegiate::https://intercollegiate.co/job/development-officer-i-ii-fundraising-partnerships-307637",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athlete-compensation-307664",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/merchandise-manager-307647",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletic-director-for-revenue-generation-307657",
   "Intercollegiate::https://intercollegiate.co/job/ticket-operations-assistant-307663"
@@ -1070,7 +1070,10 @@
   "Sportradar::744000152854141",
   "Sportradar::744000152928165",
   "Sportradar::744000152931740",
-  "Sportradar::744000153198342"
+  "Sportradar::744000153198342",
+  "Sportradar::744000153210159",
+  "Sportradar::744000153210255",
+  "Sportradar::744000153212009"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1171,7 +1174,6 @@
   "DraftKings::/job/Dublin-IE/Senior-Software-Engineer-Backend_JR15087",
   "DraftKings::/job/Dublin-IE/Software-Engineering-Manager--Backend_JR14911-1",
   "DraftKings::/job/Las-Vegas-NV/Senior-IT-Services-Technician_JR15112-2",
-  "DraftKings::/job/London-UK/Senior-Data-Platform-Engineer_JR14227-1",
   "DraftKings::/job/London-UK/Senior-Data-Science-Engineer_JR13436-1",
   "DraftKings::/job/London-UK/Senior-Data-Science-Engineer_JR14490-1",
   "DraftKings::/job/Manchester-NH/Operations-Associate--Jackpocket--Part-Time-_JR14460-1",
