@@ -1,5 +1,45 @@
 [
  {
+  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "company": "Intercollegiate",
+  "title": "Athletic Trainer",
+  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-05T15:05:24+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-athletic-trainer-ii-251925",
+  "company": "Intercollegiate",
+  "title": "Assistant Athletic Trainer (Athletic Trainer II) ($4,908-$7,150/month)",
+  "url": "https://intercollegiate.co/job/assistant-athletic-trainer-athletic-trainer-ii-251925",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-05T15:05:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193241",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Account Executive, Ticket Sales",
+  "url": "https://www.teamworkonline.com/hockey-jobs/sphl-league/fayetteville-marksmen/account-executive-ticket-sales-2193241",
+  "location": "Fayetteville, NC",
+  "description": "Fayetteville Marksmen Hockey Team · Entry Level",
+  "posted": "",
+  "found": "2026-10-05T15:05:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193240",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Social Media Coordinator",
+  "url": "https://www.teamworkonline.com/hockey-jobs/sphl-league/fayetteville-marksmen/social-media-coordinator-2193240",
+  "location": "Fayetteville, NC",
+  "description": "Fayetteville Marksmen Hockey Team · Entry Level",
+  "posted": "",
+  "found": "2026-10-05T15:05:24+00:00"
+ },
+ {
   "key": "PrizePicks::7824303003",
   "company": "PrizePicks",
   "title": "Senior Site Reliability Engineer (SRE)",
@@ -9958,45 +9998,5 @@
   "description": "Monumental Sports & Entertainment · Entry Level",
   "posted": "",
   "found": "2026-09-30T20:35:51+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2192587",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "General Manager (Peak Promo Supply)",
-  "url": "https://www.teamworkonline.com/college-jobs/peak-sports-management-jobs/peak-sports-mgmt-jobs/general-manager-peak-promo-supply-2192587",
-  "location": "Allen, TX",
-  "description": "Peak Sports Management · Entry Level",
-  "posted": "",
-  "found": "2026-09-30T20:01:29+00:00"
- },
- {
-  "key": "Detroit Tigers::/job/Detroit-MI/Applied-Performance-Scientist_R9475",
-  "company": "Detroit Tigers",
-  "title": "Applied Performance Scientist",
-  "url": "https://ilitch.wd5.myworkdayjobs.com/Detroit-Tigers/job/Detroit-MI/Applied-Performance-Scientist_R9475",
-  "location": "Detroit, MI",
-  "description": "R9475",
-  "posted": "Posted Today",
-  "found": "2026-09-30T20:01:29+00:00"
- },
- {
-  "key": "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1875592",
-  "company": "Cleveland Browns",
-  "title": "Coordinator, Accounts Payable",
-  "url": "https://clevelandbrowns.isolvedhire.com/jobs/1875592",
-  "location": "76 Lou Groza Boulevard, Berea, OH, USA",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-30T20:01:29+00:00"
- },
- {
-  "key": "Cincinnati Reds::8a7883a8a0abfc6b01a0f391b0ed1aa4",
-  "company": "Cincinnati Reds",
-  "title": "Sr. Maintenance Worker",
-  "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07c5da337017c9998a2cb1623&id=8a7883a8a0abfc6b01a0f391b0ed1aa4&source=&lang=en",
-  "location": "Cincinnati, OH",
-  "description": "",
-  "posted": "",
-  "found": "2026-09-30T20:01:29+00:00"
  }
 ]
