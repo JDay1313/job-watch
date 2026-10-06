@@ -24,7 +24,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-equipment-manager-1-307838",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-lacrosse-vol-307860",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-marketing-fan-experience-tennessee-athletics-utk-307832",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307855",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/baseball-operations-assistant-307836",
@@ -47,19 +47,11 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2190978",
   "TeamWork Online (all sports, newest)::2191415",
+  "TeamWork Online (all sports, newest)::2191461",
   "TeamWork Online (all sports, newest)::2191464",
   "TeamWork Online (all sports, newest)::2191683",
   "TeamWork Online (all sports, newest)::2191688",
   "TeamWork Online (all sports, newest)::2193242",
-  "TeamWork Online (all sports, newest)::2193260",
-  "TeamWork Online (all sports, newest)::2193261",
-  "TeamWork Online (all sports, newest)::2193262",
-  "TeamWork Online (all sports, newest)::2193264",
-  "TeamWork Online (all sports, newest)::2193266",
-  "TeamWork Online (all sports, newest)::2193267",
-  "TeamWork Online (all sports, newest)::2193269",
-  "TeamWork Online (all sports, newest)::2193270",
-  "TeamWork Online (all sports, newest)::2193271",
   "TeamWork Online (all sports, newest)::2193273",
   "TeamWork Online (all sports, newest)::2193274",
   "TeamWork Online (all sports, newest)::2193275",
@@ -237,6 +229,7 @@
   "TeamWork Online (all sports, newest)::2193464",
   "TeamWork Online (all sports, newest)::2193465",
   "TeamWork Online (all sports, newest)::2193466",
+  "TeamWork Online (all sports, newest)::2193467",
   "TeamWork Online (all sports, newest)::2193468",
   "TeamWork Online (all sports, newest)::2193469",
   "TeamWork Online (all sports, newest)::2193470",
@@ -244,7 +237,14 @@
   "TeamWork Online (all sports, newest)::2193472",
   "TeamWork Online (all sports, newest)::2193474",
   "TeamWork Online (all sports, newest)::2193475",
-  "TeamWork Online (all sports, newest)::2193476"
+  "TeamWork Online (all sports, newest)::2193476",
+  "TeamWork Online (all sports, newest)::2193477",
+  "TeamWork Online (all sports, newest)::2193478",
+  "TeamWork Online (all sports, newest)::2193479",
+  "TeamWork Online (all sports, newest)::2193480",
+  "TeamWork Online (all sports, newest)::2193481",
+  "TeamWork Online (all sports, newest)::2193482",
+  "TeamWork Online (all sports, newest)::2193483"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::1897729",
@@ -417,7 +417,8 @@
   "MLB League Office::8247168",
   "MLB League Office::8247181",
   "MLB League Office::8249001",
-  "MLB League Office::8249002"
+  "MLB League Office::8249002",
+  "MLB League Office::8250132"
  ],
  "greenhouse:nflcareers": [
   "NFL League Office::5127328008",
@@ -981,8 +982,8 @@
   "New England Patriots (Kraft Group)::568184",
   "New England Patriots (Kraft Group)::568197",
   "New England Patriots (Kraft Group)::568210",
-  "New England Patriots (Kraft Group)::568228",
-  "New England Patriots (Kraft Group)::568558"
+  "New England Patriots (Kraft Group)::568558",
+  "New England Patriots (Kraft Group)::568584"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1207,7 +1208,6 @@
   "DraftKings::/job/Remote---US/Corporate-Counsel--Prediction-Markets_JR14655-1",
   "DraftKings::/job/Remote---US/Events---Experiences-Specialist_JR15020-3",
   "DraftKings::/job/Remote---US/Lead-Product-Designer--Platform_JR14459",
-  "DraftKings::/job/Remote---US/New-Business-Executive--Predictions_JR14743-1",
   "DraftKings::/job/Remote---US/New-Business-Executive--Predictions_JR15065-1",
   "DraftKings::/job/Remote---US/New-Business-Executive_JR15055-1",
   "DraftKings::/job/Remote---US/Revenue-Operations-Specialist_JR15193-1",
