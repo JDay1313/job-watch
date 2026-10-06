@@ -27,7 +27,6 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-lacrosse-vol-307860",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-marketing-fan-experience-tennessee-athletics-utk-307832",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307855",
   "Intercollegiate::https://intercollegiate.co/job/baseball-operations-assistant-307836",
   "Intercollegiate::https://intercollegiate.co/job/coach-associate-307846",
@@ -37,6 +36,7 @@
   "Intercollegiate::https://intercollegiate.co/job/defensive-analyst-307861",
   "Intercollegiate::https://intercollegiate.co/job/director-football-operations-307837",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-operations-307851",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/electronics-technician-athletics-facilities-operations-307831",
   "Intercollegiate::https://intercollegiate.co/job/performance-nutrition-fellow-307840",
   "Intercollegiate::https://intercollegiate.co/job/senior-director-of-development-307853",
@@ -55,7 +55,7 @@
   "TeamWork Online (all sports, newest)::2191688",
   "TeamWork Online (all sports, newest)::2192578",
   "TeamWork Online (all sports, newest)::2192962",
-  "TeamWork Online (all sports, newest)::2193209",
+  "TeamWork Online (all sports, newest)::2193210",
   "TeamWork Online (all sports, newest)::2193211",
   "TeamWork Online (all sports, newest)::2193213",
   "TeamWork Online (all sports, newest)::2193214",
@@ -1306,7 +1306,8 @@
   "FanDuel::8234113",
   "FanDuel::8234180",
   "FanDuel::8234341",
-  "FanDuel::8242267"
+  "FanDuel::8242267",
+  "FanDuel::8258210"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
