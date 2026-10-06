@@ -26,6 +26,7 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-marketing-fan-experience-tennessee-athletics-utk-307832",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307855",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/baseball-operations-assistant-307836",
   "Intercollegiate::https://intercollegiate.co/job/coach-associate-307846",
   "Intercollegiate::https://intercollegiate.co/job/creative-graphics-intern-307834",
@@ -34,7 +35,6 @@
   "Intercollegiate::https://intercollegiate.co/job/defensive-analyst-307861",
   "Intercollegiate::https://intercollegiate.co/job/director-football-operations-307837",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-operations-307851",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/electronics-technician-athletics-facilities-operations-307831",
   "Intercollegiate::https://intercollegiate.co/job/performance-nutrition-fellow-307840",
   "Intercollegiate::https://intercollegiate.co/job/senior-director-of-development-307853",
@@ -52,11 +52,7 @@
   "TeamWork Online (all sports, newest)::2191688",
   "TeamWork Online (all sports, newest)::2192578",
   "TeamWork Online (all sports, newest)::2193242",
-  "TeamWork Online (all sports, newest)::2193245",
-  "TeamWork Online (all sports, newest)::2193247",
   "TeamWork Online (all sports, newest)::2193249",
-  "TeamWork Online (all sports, newest)::2193250",
-  "TeamWork Online (all sports, newest)::2193251",
   "TeamWork Online (all sports, newest)::2193252",
   "TeamWork Online (all sports, newest)::2193253",
   "TeamWork Online (all sports, newest)::2193254",
@@ -244,7 +240,11 @@
   "TeamWork Online (all sports, newest)::2193459",
   "TeamWork Online (all sports, newest)::2193460",
   "TeamWork Online (all sports, newest)::2193461",
-  "TeamWork Online (all sports, newest)::2193462"
+  "TeamWork Online (all sports, newest)::2193462",
+  "TeamWork Online (all sports, newest)::2193463",
+  "TeamWork Online (all sports, newest)::2193464",
+  "TeamWork Online (all sports, newest)::2193465",
+  "TeamWork Online (all sports, newest)::2193466"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::1897729",
@@ -413,6 +413,7 @@
   "MLB League Office::8233443",
   "MLB League Office::8233444",
   "MLB League Office::8233448",
+  "MLB League Office::8247168",
   "MLB League Office::8247181",
   "MLB League Office::8249001",
   "MLB League Office::8249002"
@@ -687,7 +688,8 @@
   "Miami Marlins::2191366",
   "Miami Marlins::2191369",
   "Miami Marlins::2191413",
-  "Miami Marlins::2192951"
+  "Miami Marlins::2192951",
+  "Miami Marlins::2193465"
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?source=TeamWork&client=nyyanks&ccId=19000101_000001&cid=5ebae4fe-1105-47a5-b26d-e74868af6e86&lang=en_US&selectedMenuKey=CareerCenter": [
   "New York Yankees::9201864727913_1",
@@ -972,7 +974,6 @@
   "New England Patriots (Kraft Group)::566590",
   "New England Patriots (Kraft Group)::567145",
   "New England Patriots (Kraft Group)::567312",
-  "New England Patriots (Kraft Group)::567931",
   "New England Patriots (Kraft Group)::568184",
   "New England Patriots (Kraft Group)::568197",
   "New England Patriots (Kraft Group)::568210",
@@ -1304,6 +1305,7 @@
   "FanDuel::8234180",
   "FanDuel::8234341",
   "FanDuel::8242267",
+  "FanDuel::8249241",
   "FanDuel::8258210"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
