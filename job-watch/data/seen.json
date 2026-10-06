@@ -27,7 +27,6 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-lacrosse-vol-307860",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-marketing-fan-experience-tennessee-athletics-utk-307832",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307855",
   "Intercollegiate::https://intercollegiate.co/job/baseball-operations-assistant-307836",
   "Intercollegiate::https://intercollegiate.co/job/coach-associate-307846",
@@ -37,6 +36,7 @@
   "Intercollegiate::https://intercollegiate.co/job/defensive-analyst-307861",
   "Intercollegiate::https://intercollegiate.co/job/director-football-operations-307837",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-operations-307851",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/electronics-technician-athletics-facilities-operations-307831",
   "Intercollegiate::https://intercollegiate.co/job/performance-nutrition-fellow-307840",
   "Intercollegiate::https://intercollegiate.co/job/senior-director-of-development-307853",
@@ -55,8 +55,6 @@
   "TeamWork Online (all sports, newest)::2191688",
   "TeamWork Online (all sports, newest)::2192578",
   "TeamWork Online (all sports, newest)::2192962",
-  "TeamWork Online (all sports, newest)::2193220",
-  "TeamWork Online (all sports, newest)::2193221",
   "TeamWork Online (all sports, newest)::2193222",
   "TeamWork Online (all sports, newest)::2193223",
   "TeamWork Online (all sports, newest)::2193224",
@@ -246,7 +244,9 @@
   "TeamWork Online (all sports, newest)::2193431",
   "TeamWork Online (all sports, newest)::2193432",
   "TeamWork Online (all sports, newest)::2193434",
-  "TeamWork Online (all sports, newest)::2193435"
+  "TeamWork Online (all sports, newest)::2193435",
+  "TeamWork Online (all sports, newest)::2193436",
+  "TeamWork Online (all sports, newest)::2193438"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::1897729",
@@ -544,7 +544,6 @@
   "NASCAR::/job/Newton-IA/Part-Time-Security-Event-Staff---Iowa-Speedway_JR13936",
   "NASCAR::/job/Newton-IA/XMLNAME--Emergency-Services--Firefighter---EMT---Paramedic-Event-Staff---Iowa-Speedway_JR13979",
   "NASCAR::/job/North-Carolina---Field/Part-Time-Technical-Inspector_JR14228",
-  "NASCAR::/job/Richmond-VA/Coordinator--Ticket-Operations_JR14289",
   "NASCAR::/job/Richmond-VA/General-Maintenance_JR14365",
   "NASCAR::/job/Richmond-VA/General-Maintenance_JR14413",
   "NASCAR::/job/Richmond-VA/Street-Team-Event-Staff---Richmond-Raceway_JR14046",
@@ -652,7 +651,6 @@
   "Washington Nationals::33fb00ac-a872-4921-8b36-c5029f84d9ae",
   "Washington Nationals::3e4f0e64-5cd1-430c-820d-f39368f6cdd6",
   "Washington Nationals::44e3e5ce-b2d4-411c-872b-def965540184",
-  "Washington Nationals::513ac4ff-62d0-47bb-bf37-824163b7ae83",
   "Washington Nationals::59e91faf-2307-4bd0-b376-14dfdcf78b06",
   "Washington Nationals::5df33161-28a7-45dc-b711-3ef7f918c348",
   "Washington Nationals::5e0be171-fbd5-4b95-8867-f430ddddecf1",
@@ -727,6 +725,7 @@
   "Boston Red Sox::5d8d7a39-515b-4732-99bd-59b3d0a3d947",
   "Boston Red Sox::5dfdf4f8-66af-4861-b506-4100d45e52ad",
   "Boston Red Sox::87afbd8b-1c56-456b-ae65-19f593414205",
+  "Boston Red Sox::bea41374-bd87-4d0e-8ff0-63270ff0a3c2",
   "Boston Red Sox::bfcc82c4-03b9-41e2-9284-32893ed23a2c",
   "Boston Red Sox::c322f97b-5e32-463c-8d82-239b39ccbabf",
   "Boston Red Sox::c3a29325-5fe6-4613-9799-1c19e80e5f47"
@@ -871,7 +870,6 @@
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer_R0029246-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Director--Corporate-Partnership-Activation---Atlanta-Falcons_R0029320",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Manager--Corporate-Partnership-Sales_R0029248",
-  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Manager--Partnership-Insights_R0029253-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Seasonal-Youth-Soccer-Coach--Atlanta-United-FC_R0028856-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Seasonal-Youth-Soccer-Coach--Atlanta-United-FC_R0029093-1"
  ],
