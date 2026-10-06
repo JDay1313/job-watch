@@ -26,7 +26,6 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-marketing-fan-experience-tennessee-athletics-utk-307832",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-307855",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/baseball-operations-assistant-307836",
   "Intercollegiate::https://intercollegiate.co/job/coach-associate-307846",
   "Intercollegiate::https://intercollegiate.co/job/creative-graphics-intern-307834",
@@ -35,6 +34,7 @@
   "Intercollegiate::https://intercollegiate.co/job/defensive-analyst-307861",
   "Intercollegiate::https://intercollegiate.co/job/director-football-operations-307837",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-operations-307851",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/electronics-technician-athletics-facilities-operations-307831",
   "Intercollegiate::https://intercollegiate.co/job/performance-nutrition-fellow-307840",
   "Intercollegiate::https://intercollegiate.co/job/senior-director-of-development-307853",
@@ -51,7 +51,6 @@
   "TeamWork Online (all sports, newest)::2192556",
   "TeamWork Online (all sports, newest)::2192599",
   "TeamWork Online (all sports, newest)::2193313",
-  "TeamWork Online (all sports, newest)::2193414",
   "TeamWork Online (all sports, newest)::2193415",
   "TeamWork Online (all sports, newest)::2193416",
   "TeamWork Online (all sports, newest)::2193417",
@@ -203,6 +202,7 @@
   "TeamWork Online (all sports, newest)::2193583",
   "TeamWork Online (all sports, newest)::2193584",
   "TeamWork Online (all sports, newest)::2193586",
+  "TeamWork Online (all sports, newest)::2193588",
   "TeamWork Online (all sports, newest)::2193589",
   "TeamWork Online (all sports, newest)::2193590",
   "TeamWork Online (all sports, newest)::2193591",
@@ -1230,6 +1230,7 @@
   "DraftKings::/job/Remote---US/VIP-Host--Detroit_JR14106-2",
   "DraftKings::/job/Remote---US/VIP-Host--Pennsylvania_JR15165-1",
   "DraftKings::/job/Remote---US/VIP-Host--Predictions_JR15066-1",
+  "DraftKings::/job/Remote---US/VIP-Services-Representative_JR15237-1",
   "DraftKings::/job/Remote---Ukraine/Lead-Software-Engineer_JR14975",
   "DraftKings::/job/Remote---Ukraine/Senior-Site-Reliability-Engineer_JR14814-1",
   "DraftKings::/job/Scottsdale-AZ/Sportsbook-Floor-Security-Representative_JR15167-1",
@@ -1323,13 +1324,13 @@
   "FanDuel::8258210"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/anaheim/senior-fire-protection-engineer/391/97236079888",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/anaheim/tenaya-stone-spa-hiring-event-october-13th-or-october-29th-2026/391/101332033040",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/burbank/staff-software-engineer/391/97537828304",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/new-york/lifecycle-marketing-lead-disney-entertainment/391/101626022288",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/new-york/senior-software-engineer-android/391/96601300032",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/seattle/lead-product-software-engineer-kotlin/391/98050531456",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/toronto/production-supervisor/391/97824695392"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/paralegal-specialist/391/100823954784",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-associate-director-ii/391/101612672672",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/video-editor/391/101280659328",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/new-york/analyst-business-development-and-innovation/391/101576379072"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
