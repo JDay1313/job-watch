@@ -30,6 +30,7 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/asst-director-of-marketing-307950",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-ticket-and-game-operations-assistant-307958",
   "Intercollegiate::https://intercollegiate.co/job/director-of-football-analytics-artificial-intelligence-307953",
   "Intercollegiate::https://intercollegiate.co/job/mental-performance-consultant-athletics-307969",
@@ -48,10 +49,6 @@
   "TeamWork Online (all sports, newest)::2193246",
   "TeamWork Online (all sports, newest)::2193303",
   "TeamWork Online (all sports, newest)::2193570",
-  "TeamWork Online (all sports, newest)::2193632",
-  "TeamWork Online (all sports, newest)::2193633",
-  "TeamWork Online (all sports, newest)::2193634",
-  "TeamWork Online (all sports, newest)::2193635",
   "TeamWork Online (all sports, newest)::2193636",
   "TeamWork Online (all sports, newest)::2193637",
   "TeamWork Online (all sports, newest)::2193638",
@@ -242,7 +239,11 @@
   "TeamWork Online (all sports, newest)::2193838",
   "TeamWork Online (all sports, newest)::2193839",
   "TeamWork Online (all sports, newest)::2193840",
-  "TeamWork Online (all sports, newest)::2193842"
+  "TeamWork Online (all sports, newest)::2193842",
+  "TeamWork Online (all sports, newest)::2193843",
+  "TeamWork Online (all sports, newest)::2193845",
+  "TeamWork Online (all sports, newest)::2193846",
+  "TeamWork Online (all sports, newest)::2193847"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -1216,6 +1217,7 @@
   "DraftKings::/job/Remote---US/Senior-Lead-Software-Engineer--Backend_JR14836-2",
   "DraftKings::/job/Remote---US/Senior-Product-Manager--Fraud-Risk-Platforms_JR15262-1",
   "DraftKings::/job/Remote---US/VIP-Host--Detroit_JR14106-2",
+  "DraftKings::/job/Remote---US/VIP-Host--New-York_JR15168-1",
   "DraftKings::/job/Remote---US/VIP-Host--Pennsylvania_JR15165-1",
   "DraftKings::/job/Remote---US/VIP-Host--Predictions_JR15066-1",
   "DraftKings::/job/Remote---US/VIP-Services-Representative_JR15237-1",
@@ -1313,7 +1315,6 @@
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/coordinator-client-services/391/99422466736",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/paralegal-specialist/391/100823954784",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-associate-director-ii/391/101612672672",
