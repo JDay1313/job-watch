@@ -1,5 +1,315 @@
 [
  {
+  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "company": "Intercollegiate",
+  "title": "Athletic Trainer",
+  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193842",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Stat Keeper and Scorekeeper - Oakland, CA",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/youth-sports-careers/open-gym-premier-jobs/stat-keeper-and-scorekeeper-oakland-ca-2193842",
+  "location": "Oakland, CA",
+  "description": "Open Gym Premier · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193840",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Mascot",
+  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/mascot-2193840",
+  "location": "Danbury, CT",
+  "description": "Danbury Westerners · Intern",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193825",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Event Staff Lead - Oakland, CA",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/youth-sports-careers/open-gym-premier-jobs/event-staff-lead-oakland-ca-2193825",
+  "location": "Oakland, CA",
+  "description": "Open Gym Premier · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193839",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Stage Manager - WinterWorld",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/804-live-jobs/stage-manager-winterworld-2193839",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Manager",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193837",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Wardrobe Technician",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/804-live-jobs/wardrobe-technician-2193837",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193838",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director of Group Sales",
+  "url": "https://www.teamworkonline.com/hockey-jobs/buffalosports/buffalo-sabres-29560/director-of-group-sales-2193838",
+  "location": "Buffalo, NY",
+  "description": "Buffalo Sabres · Director",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193836",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Seasonal Holiday Elf / Character Performer",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/804-live-jobs/seasonal-holiday-elf-character-performer-2193836",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193835",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ice Supervisor",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/804-live-jobs/ice-supervisor-2193835",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193834",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Decor Staff",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/richmond-flying-squirrels/decor-staff-2193834",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193832",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Event Staff - Ice Skate",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/richmond-flying-squirrels/event-staff-ice-skate-2193832",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193824",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Swing (2)",
+  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/swing-2-2193824",
+  "location": "Danbury, CT",
+  "description": "Danbury Westerners · Intern",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193833",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Part-Time Parking Attendant",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/part-time-parking-attendant-2193833",
+  "location": "Houston, TX",
+  "description": "Legends Global · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193831",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Event Staff - Ice Slide",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/richmond-flying-squirrels/event-staff-ice-slide-2193831",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193830",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "WinterWorld Event Staff",
+  "url": "https://www.teamworkonline.com/baseball-jobs/richmond-flying-squirrels/richmond-flying-squirrels/winterworld-event-staff-2193830",
+  "location": "Richmond, VA",
+  "description": "WinterWorld - 804Live · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193829",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Assistant Minor League Physical Therapist",
+  "url": "https://www.teamworkonline.com/baseball-jobs/atlanta-braves/atlanta-braves-jobs/assistant-minor-league-physical-therapist-2193829",
+  "location": "Venice, FL",
+  "description": "Atlanta Braves · Entry Level",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193827",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "DOD Skillbridge Military Intern - Clubhouse Maintenance",
+  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/tpc-network-jobs/dod-skillbridge-military-intern-clubhouse-maintenance-2193827",
+  "location": "Las Vegas, NV",
+  "description": "TPC Network · Entry Level",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193828",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "General Utility-Dishwasher",
+  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/tpc-network-jobs/general-utility-dishwasher-2193828",
+  "location": "Las Vegas, NV",
+  "description": "TPC Network · Entry Level",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193826",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Electrician",
+  "url": "https://www.teamworkonline.com/baseball-jobs/texasbaseball/texas-rangers/electrician-2193826",
+  "location": "Arlington, TX",
+  "description": "Texas Rangers · Entry Level",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193823",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Public Relations Intern",
+  "url": "https://www.teamworkonline.com/basketball-jobs/utah-jazz-jobs/utah-jazz/public-relations-intern-2193823",
+  "location": "Sandy, UT",
+  "description": "Utah Jazz · Intern",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193821",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Show Control Specialist",
+  "url": "https://www.teamworkonline.com/entertainment-jobs/six-flags-jobs-careers/six-flags/show-control-specialist-2193821",
+  "location": "Buena Park, CA",
+  "description": "Six Flags · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193798",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "On-Fiel Host Intern Summer 2027",
+  "url": "https://www.teamworkonline.com/baseball-jobs/northwoodsleague/green-bay-rockers-jobs/on-fiel-host-intern-summer-2027-2193798",
+  "location": "Green Bay, WI",
+  "description": "Green Bay Rockers · Intern",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193819",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Product Knowledge and Enablement Manager - AXS",
+  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/axs-jobs/product-knowledge-and-enablement-manager-axs-2193819",
+  "location": "Los Angeles, CA",
+  "description": "AXS · Manager",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193818",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Marketing Director",
+  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/aeg-presents/marketing-director-2193818",
+  "location": "West Palm Beach, FL",
+  "description": "AEG Presents · Director",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193815",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Transportation Escort",
+  "url": "https://www.teamworkonline.com/live-event-jobs/tms-jobs/tms-jobs/transportation-escort-2193815",
+  "location": "Denver, CO",
+  "description": "TMS · Part Time",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193816",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Inside Sales Associate",
+  "url": "https://www.teamworkonline.com/multiple-properties/neworleanssaintspels/neworleanspelicanssaints/inside-sales-associate-2193816",
+  "location": "Metairie, LA",
+  "description": "New Orleans Saints and Pelicans · Entry Level",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193817",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ticket Operations Associate",
+  "url": "https://www.teamworkonline.com/multiple-properties/neworleanssaintspels/neworleanspelicanssaints/ticket-operations-associate-2193817",
+  "location": "Metairie, LA",
+  "description": "New Orleans Saints and Pelicans · Entry Level",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193814",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Videographer",
+  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/videographer-2193814",
+  "location": "Danbury, CT · Hybrid",
+  "description": "Danbury Westerners · Intern",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193812",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Social Media Features Contributor",
+  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/social-media-features-contributor-2193812",
+  "location": "Danbury, CT · Hybrid",
+  "description": "Danbury Westerners · Intern",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "Atlanta Braves::/job/US-North-Port/Assistant-Minor-League-Physical-Therapist_R2106",
+  "company": "Atlanta Braves",
+  "title": "Assistant Minor League Physical Therapist",
+  "url": "https://atlantabravesmlb.wd5.myworkdayjobs.com/AtlantaBraves/job/US-North-Port/Assistant-Minor-League-Physical-Therapist_R2106",
+  "location": "US North Port",
+  "description": "R2106",
+  "posted": "Posted Today",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
+  "key": "New England Patriots (Kraft Group)::569566",
+  "company": "New England Patriots (Kraft Group)",
+  "title": "Forklift Operator",
+  "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=569566",
+  "location": "Rand Whitney Industries Boylston MA - Boylston, MA 01505",
+  "description": "Operate powered industrial trucks to load and unload materials and deliveries and move them to and from storage areas, machines and loading docks, i...",
+  "posted": "",
+  "found": "2026-10-07T20:38:11+00:00"
+ },
+ {
   "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "company": "Intercollegiate",
   "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
@@ -9688,315 +9998,5 @@
   "description": "Green Bay Packers · Part Time",
   "posted": "",
   "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "TeamWork Online (NFL teams)::2193174",
-  "company": "TeamWork Online (NFL teams)",
-  "title": "Retail Call Center Associate",
-  "url": "https://www.teamworkonline.com/football-jobs/greenbay-packers-jobs/green-bay-packers-/retail-call-center-associate-2193174",
-  "location": "Green Bay, WI",
-  "description": "Green Bay Packers",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "TeamWork Online (NFL teams)::2193176",
-  "company": "TeamWork Online (NFL teams)",
-  "title": "Retail Store Associate",
-  "url": "https://www.teamworkonline.com/football-jobs/greenbay-packers-jobs/green-bay-packers-/retail-store-associate-2193176",
-  "location": "Green Bay, WI",
-  "description": "Green Bay Packers",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "TeamWork Online (NFL teams)::2193175",
-  "company": "TeamWork Online (NFL teams)",
-  "title": "Retail Distribution Center Associate",
-  "url": "https://www.teamworkonline.com/football-jobs/greenbay-packers-jobs/green-bay-packers-/retail-distribution-center-associate-2193175",
-  "location": "Green Bay, WI",
-  "description": "Green Bay Packers",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "TeamWork Online (NFL teams)::2067455",
-  "company": "TeamWork Online (NFL teams)",
-  "title": "Future Consideration Application",
-  "url": "https://www.teamworkonline.com/football-jobs/detroit-lions/lions/future-consideration-application-2067455",
-  "location": "Detroit, MI",
-  "description": "Detroit Lions",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "Green Bay Packers::2193174",
-  "company": "Green Bay Packers",
-  "title": "Retail Call Center Associate",
-  "url": "https://www.teamworkonline.com/football-jobs/greenbay-packers-jobs/green-bay-packers-/retail-call-center-associate-2193174",
-  "location": "Green Bay, WI",
-  "description": "Green Bay Packers",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "Green Bay Packers::2193176",
-  "company": "Green Bay Packers",
-  "title": "Retail Store Associate",
-  "url": "https://www.teamworkonline.com/football-jobs/greenbay-packers-jobs/green-bay-packers-/retail-store-associate-2193176",
-  "location": "Green Bay, WI",
-  "description": "Green Bay Packers",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "Green Bay Packers::2193175",
-  "company": "Green Bay Packers",
-  "title": "Retail Distribution Center Associate",
-  "url": "https://www.teamworkonline.com/football-jobs/greenbay-packers-jobs/green-bay-packers-/retail-distribution-center-associate-2193175",
-  "location": "Green Bay, WI",
-  "description": "Green Bay Packers",
-  "posted": "",
-  "found": "2026-10-03T14:45:24+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T11:24:29+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T10:39:35+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "company": "Intercollegiate",
-  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
-  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T09:36:34+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T09:03:45+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T08:36:20+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T07:39:06+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/head-coach-cross-country-men-s-women-s-307752",
-  "company": "Intercollegiate",
-  "title": "Head Coach, Cross Country, Men's & Women's",
-  "url": "https://intercollegiate.co/job/head-coach-cross-country-men-s-women-s-307752",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T07:39:06+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "company": "Intercollegiate",
-  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
-  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T07:08:36+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/hourly-pooled-wyoming-athletics-gameday-crew-marketing-branding-307751",
-  "company": "Intercollegiate",
-  "title": "Hourly Pooled - Wyoming Athletics Gameday Crew, Marketing & Branding ($12/hr)",
-  "url": "https://intercollegiate.co/job/hourly-pooled-wyoming-athletics-gameday-crew-marketing-branding-307751",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T07:08:36+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-ticket-office-student-assistant-307750",
-  "company": "Intercollegiate",
-  "title": "Athletic Ticket Office Student Assistant ($10/hr)",
-  "url": "https://intercollegiate.co/job/athletic-ticket-office-student-assistant-307750",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T07:08:36+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/cal-athletics-fund-intern-5171u-intercollegiate-athletics-89090-307749",
-  "company": "Intercollegiate",
-  "title": "Cal Athletics Fund Intern (5171U), Intercollegiate Athletics #89090 ($26/hr)",
-  "url": "https://intercollegiate.co/job/cal-athletics-fund-intern-5171u-intercollegiate-athletics-89090-307749",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T07:08:36+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/hourly-student-employment-pirate-video-student-assistants-307736",
-  "company": "Intercollegiate",
-  "title": "Hourly Student Employment - Pirate Video Student Assistants ($8-$10/hr)",
-  "url": "https://intercollegiate.co/job/hourly-student-employment-pirate-video-student-assistants-307736",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communication-307728",
-  "company": "Intercollegiate",
-  "title": "Associate Athletic Director for Communication ($60,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-athletic-director-for-communication-307728",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/extra-help-athletics-game-operations-307729",
-  "company": "Intercollegiate",
-  "title": "Extra Help - Athletics Game Operations ($16.20/hr)",
-  "url": "https://intercollegiate.co/job/extra-help-athletics-game-operations-307729",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/temporary-assistant-coach-for-men-s-women-s-swimming-diving-307747",
-  "company": "Intercollegiate",
-  "title": "Temporary Assistant Coach for Men's & Women's Swimming & Diving ($25/hr)",
-  "url": "https://intercollegiate.co/job/temporary-assistant-coach-for-men-s-women-s-swimming-diving-307747",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-coach-for-men-s-women-s-swimming-diving-307748",
-  "company": "Intercollegiate",
-  "title": "Graduate Assistant Coach for Men's & Women's Swimming & Diving ($888/biweekly)",
-  "url": "https://intercollegiate.co/job/graduate-assistant-coach-for-men-s-women-s-swimming-diving-307748",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-director-of-athletic-communications-307746",
-  "company": "Intercollegiate",
-  "title": "Athletics - Assistant Director of Athletic Communications ($47,050-$58,960/yr)",
-  "url": "https://intercollegiate.co/job/athletics-assistant-director-of-athletic-communications-307746",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-or-associate-athletic-director-business-operations-swa-307745",
-  "company": "Intercollegiate",
-  "title": "Athletics - Assistant or Associate Athletic Director, Business Operations & SWA ($90,000/yr)",
-  "url": "https://intercollegiate.co/job/athletics-assistant-or-associate-athletic-director-business-operations-swa-307745",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-communication-accepting-applications-307744",
-  "company": "Intercollegiate",
-  "title": "Assistant Director, Athletic Communication- Accepting Applications",
-  "url": "https://intercollegiate.co/job/assistant-director-athletic-communication-accepting-applications-307744",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-coach-women-s-soccer-goalkeeping-307743",
-  "company": "Intercollegiate",
-  "title": "Assistant Coach, Women’s Soccer (Goalkeeping) ($8,000-$9,000/yr)",
-  "url": "https://intercollegiate.co/job/assistant-coach-women-s-soccer-goalkeeping-307743",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-to-the-director-of-athletics-307742",
-  "company": "Intercollegiate",
-  "title": "Assistant to the Director of Athletics ($60,000-$66,000/yr)",
-  "url": "https://intercollegiate.co/job/assistant-to-the-director-of-athletics-307742",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/game-day-assistant-307741",
-  "company": "Intercollegiate",
-  "title": "Game Day Assistant ($16.94/hr)",
-  "url": "https://intercollegiate.co/job/game-day-assistant-307741",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-4007-307740",
-  "company": "Intercollegiate",
-  "title": "Director of Athletics (4007)",
-  "url": "https://intercollegiate.co/job/director-of-athletics-4007-307740",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-03T06:50:54+00:00"
  }
 ]
