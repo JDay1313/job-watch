@@ -29,8 +29,9 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-men-s-squash-coach-pt-307941",
   "Intercollegiate::https://intercollegiate.co/job/assistant-volleyball-coach-307967",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/asst-director-of-marketing-307950",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-ticket-and-game-operations-assistant-307958",
   "Intercollegiate::https://intercollegiate.co/job/director-of-football-analytics-artificial-intelligence-307953",
   "Intercollegiate::https://intercollegiate.co/job/mental-performance-consultant-athletics-307969",
@@ -51,11 +52,6 @@
   "TeamWork Online (all sports, newest)::2193570",
   "TeamWork Online (all sports, newest)::2193588",
   "TeamWork Online (all sports, newest)::2193591",
-  "TeamWork Online (all sports, newest)::2193601",
-  "TeamWork Online (all sports, newest)::2193603",
-  "TeamWork Online (all sports, newest)::2193604",
-  "TeamWork Online (all sports, newest)::2193605",
-  "TeamWork Online (all sports, newest)::2193606",
   "TeamWork Online (all sports, newest)::2193607",
   "TeamWork Online (all sports, newest)::2193608",
   "TeamWork Online (all sports, newest)::2193609",
@@ -243,7 +239,12 @@
   "TeamWork Online (all sports, newest)::2193802",
   "TeamWork Online (all sports, newest)::2193803",
   "TeamWork Online (all sports, newest)::2193804",
-  "TeamWork Online (all sports, newest)::2193805"
+  "TeamWork Online (all sports, newest)::2193805",
+  "TeamWork Online (all sports, newest)::2193806",
+  "TeamWork Online (all sports, newest)::2193807",
+  "TeamWork Online (all sports, newest)::2193808",
+  "TeamWork Online (all sports, newest)::2193809",
+  "TeamWork Online (all sports, newest)::2193811"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -820,6 +821,7 @@
   "Texas Rangers::/job/Arlington-TX/ADA-Shuttle-Driver_R2098",
   "Texas Rangers::/job/Arlington-TX/Area-Scout--Alabama--Mississippi-and-West-Tennessee-_R2402",
   "Texas Rangers::/job/Arlington-TX/Data-Apprentice_R2405",
+  "Texas Rangers::/job/Arlington-TX/Electrician_R2322-1",
   "Texas Rangers::/job/Arlington-TX/Event-Conversion-Staff---Part-Time_R1969",
   "Texas Rangers::/job/Arlington-TX/Event-Security_R2133",
   "Texas Rangers::/job/Arlington-TX/General-Maintenance-Technician_R2365-1",
@@ -872,7 +874,6 @@
   "Arizona Cardinals::d8ea2771-1a87-4412-a08e-ad94d5e9d327"
  ],
  "https://ambgroup.wd1.myworkdayjobs.com/AMBSE": [
-  "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Part-Time-Security-Associate_R0029283-3",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Staff-Accountant_R0029385-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Accounting-Manager--Retail_R0029165-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Housekeeping-PT--Event-Day-Only-_R0027296",
@@ -984,7 +985,8 @@
   "New England Patriots (Kraft Group)::569062",
   "New England Patriots (Kraft Group)::569089",
   "New England Patriots (Kraft Group)::569335",
-  "New England Patriots (Kraft Group)::569357"
+  "New England Patriots (Kraft Group)::569357",
+  "New England Patriots (Kraft Group)::569558"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1155,10 +1157,10 @@
   "DraftKings::/job/Boston-MA/Director--Leadership-Effectiveness_JR14689-1",
   "DraftKings::/job/Boston-MA/Growth-Marketing-Specialist--Influencer-Partnerships_JR14909-3",
   "DraftKings::/job/Boston-MA/Lead-Site-Reliability-Engineer_JR14727-1",
+  "DraftKings::/job/Boston-MA/Manager--Content---Employer-Brand_JR15216-1",
   "DraftKings::/job/Boston-MA/Principal-Site-Reliability-Engineer_JR14582-2",
   "DraftKings::/job/Boston-MA/Procurement-Business-Partner--Technology_JR14789-1",
   "DraftKings::/job/Boston-MA/Senior-Accountant_JR14500-1",
-  "DraftKings::/job/Boston-MA/Senior-Data-Engineer_JR14519-1",
   "DraftKings::/job/Boston-MA/Senior-Data-Science-Engineering-Manager--Marketing_JR15126-1",
   "DraftKings::/job/Boston-MA/Senior-Manager--HR-Systems_JR14740-1",
   "DraftKings::/job/Boston-MA/Senior-Platform-Engineer_JR14940-1",
@@ -1190,6 +1192,7 @@
   "DraftKings::/job/Portland-OR/Operations-Associate--Jackpocket_JR13407-1",
   "DraftKings::/job/Pueblo-CO/Operations-Associate--Jackpocket_JR13404-2",
   "DraftKings::/job/Raleigh-NC/Associate-Quality-Control-Analyst--Part-Time-_JR13388-1",
+  "DraftKings::/job/Ralston-NE/Operations-Associate--Jackpocket_JR13427-3",
   "DraftKings::/job/Remote---Bulgaria/Lead-NetOps-Engineer_JR14563-1",
   "DraftKings::/job/Remote---Bulgaria/Lead-iOS-Engineer_JR14684-2",
   "DraftKings::/job/Remote---Bulgaria/Pick6-Operations-Associate--US-hours-_JR14890-1",
