@@ -2,6 +2,7 @@
  "ashby:teamworks": [
   "Teamworks::0127e5e5-5a05-423c-b79e-5a1188695a24",
   "Teamworks::04a58306-fe35-40eb-a59d-cac677c5f23e",
+  "Teamworks::1822ebad-6eaf-4216-ac81-821b2086d1ed",
   "Teamworks::1ec5a82d-c1e0-477e-be4c-fd7af52141e6",
   "Teamworks::2cd27848-f9e0-481a-ac96-5c38f04a42bc",
   "Teamworks::5c1c1de7-2130-4af6-b3a7-9ce04b2d3ca0",
@@ -26,7 +27,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-ticketing-308040",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-aztec-club-administrator-i-308039",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-ncaa-compliance-as7675-308047",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-camp-coach-men-s-cross-country-2026-fall-semester-308041",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-camp-coach-tennis-2026-fall-semester-308042",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
@@ -49,10 +50,6 @@
   "TeamWork Online (all sports, newest)::2193303",
   "TeamWork Online (all sports, newest)::2193570",
   "TeamWork Online (all sports, newest)::2193587",
-  "TeamWork Online (all sports, newest)::2193709",
-  "TeamWork Online (all sports, newest)::2193710",
-  "TeamWork Online (all sports, newest)::2193711",
-  "TeamWork Online (all sports, newest)::2193712",
   "TeamWork Online (all sports, newest)::2193713",
   "TeamWork Online (all sports, newest)::2193714",
   "TeamWork Online (all sports, newest)::2193715",
@@ -202,10 +199,12 @@
   "TeamWork Online (all sports, newest)::2193869",
   "TeamWork Online (all sports, newest)::2193870",
   "TeamWork Online (all sports, newest)::2193871",
+  "TeamWork Online (all sports, newest)::2193872",
   "TeamWork Online (all sports, newest)::2193873",
   "TeamWork Online (all sports, newest)::2193874",
   "TeamWork Online (all sports, newest)::2193875",
   "TeamWork Online (all sports, newest)::2193876",
+  "TeamWork Online (all sports, newest)::2193877",
   "TeamWork Online (all sports, newest)::2193878",
   "TeamWork Online (all sports, newest)::2193879",
   "TeamWork Online (all sports, newest)::2193880",
@@ -243,7 +242,9 @@
   "TeamWork Online (all sports, newest)::2193914",
   "TeamWork Online (all sports, newest)::2193915",
   "TeamWork Online (all sports, newest)::2193916",
-  "TeamWork Online (all sports, newest)::2193917"
+  "TeamWork Online (all sports, newest)::2193917",
+  "TeamWork Online (all sports, newest)::2193919",
+  "TeamWork Online (all sports, newest)::2193920"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2084217",
@@ -616,7 +617,6 @@
   "Philadelphia Phillies (Baseball Ops)::8013373003"
  ],
  "https://atlantabravesmlb.wd5.myworkdayjobs.com/AtlantaBraves": [
-  "Atlanta Braves::/job/Atlanta-GA/Accounts-Payable-Accountant_R2005-1",
   "Atlanta Braves::/job/Atlanta-GA/Braves-Retail-Operations_R1934",
   "Atlanta Braves::/job/Atlanta-GA/Gameday-Merchandising-Associate_R2092",
   "Atlanta Braves::/job/Atlanta-GA/Grand-Slam-Sellers_R2003-1",
@@ -989,7 +989,10 @@
   "New England Patriots (Kraft Group)::569335",
   "New England Patriots (Kraft Group)::569357",
   "New England Patriots (Kraft Group)::569558",
-  "New England Patriots (Kraft Group)::569566"
+  "New England Patriots (Kraft Group)::569566",
+  "New England Patriots (Kraft Group)::569778",
+  "New England Patriots (Kraft Group)::569792",
+  "New England Patriots (Kraft Group)::569808"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1216,6 +1219,7 @@
   "DraftKings::/job/Remote---US/Senior-Lead-Database-Reliability-Engineer_JR14624-1",
   "DraftKings::/job/Remote---US/Senior-Lead-Software-Engineer--Backend_JR14836-2",
   "DraftKings::/job/Remote---US/Senior-Product-Manager--Fraud-Risk-Platforms_JR15262-1",
+  "DraftKings::/job/Remote---US/Software-Architect_JR15202-1",
   "DraftKings::/job/Remote---US/VIP-Host--Detroit_JR14106-2",
   "DraftKings::/job/Remote---US/VIP-Host--New-York_JR15168-1",
   "DraftKings::/job/Remote---US/VIP-Host--Pennsylvania_JR15165-1",
