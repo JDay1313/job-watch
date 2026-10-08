@@ -1,5 +1,215 @@
 [
  {
+  "key": "Las Vegas Raiders::9201282182406_1",
+  "company": "Las Vegas Raiders",
+  "title": "Warehouse Associate",
+  "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=58d2d945-3a8e-4bea-81f1-e18a4a93c137&ccId=19000101_000001&lang=en_US&jobId=9201282182406_1",
+  "location": "Henderson, NV",
+  "description": "",
+  "posted": "2026-10-08T16:00:00.000-04:00",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "company": "Intercollegiate",
+  "title": "Athletic Trainer",
+  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194005",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Game Day Assistant (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-hamilton-jobs/game-day-assistant-contractor-2194005",
+  "location": "Hamilton, ON, Canada",
+  "description": "PWHL Hamilton · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194003",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Promotional Crew Member (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-hamilton-jobs/promotional-crew-member-contractor-2194003",
+  "location": "Hamilton, ON, Canada",
+  "description": "PWHL Hamilton · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194008",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Event Services Regional Manager - Operations",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/allied-event-jobs/allied-events-services-jobs/event-services-regional-manager-operations-2194008",
+  "location": "Austin, TX",
+  "description": "Allied Universal Event Services · Director",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194000",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Stage/Floor Manager (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-hamilton-jobs/stage-floor-manager-contractor-2194000",
+  "location": "Hamilton, ON, Canada",
+  "description": "PWHL Hamilton · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193999",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "In-Arena DJ (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-hamilton-jobs/in-arena-dj-contractor-2193999",
+  "location": "Hamilton, ON, Canada",
+  "description": "PWHL Hamilton · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193998",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "In-Arena Host (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-hamilton-jobs/in-arena-host-contractor-2193998",
+  "location": "Hamilton, ON, Canada",
+  "description": "PWHL Hamilton · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193995",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Public Address (PA) Announcer (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-hamilton-jobs/public-address-pa-announcer-contractor-2193995",
+  "location": "Hamilton, ON, Canada",
+  "description": "PWHL Hamilton · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193953",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Game Day Assistant (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-detroit-jobs/game-day-assistant-contractor-2193953",
+  "location": "Detroit, MI",
+  "description": "PWHL Detroit · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193949",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Promotional Crew Member (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-detroit-jobs/promotional-crew-member-contractor-2193949",
+  "location": "Detroit, MI",
+  "description": "PWHL Detroit · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193946",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Stage/Floor Manager (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-detroit-jobs/stage-floor-manager-contractor-2193946",
+  "location": "Detroit, MI",
+  "description": "PWHL Detroit · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193943",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "In-Arena DJ (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-detroit-jobs/in-arena-dj-contractor-2193943",
+  "location": "Detroit, MI",
+  "description": "PWHL Detroit · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193942",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "In-Arena Host (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-detroit-jobs/in-arena-host-contractor-2193942",
+  "location": "Detroit, MI",
+  "description": "PWHL Detroit · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194007",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Mascot Performer",
+  "url": "https://www.teamworkonline.com/hockey-jobs/spire-hockey/greenville-swamp-rabbits/mascot-performer-2194007",
+  "location": "Greenville, SC",
+  "description": "Greenville Swamp Rabbits · Part Time",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2193941",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Public Address (PA) Announcer (Contractor)",
+  "url": "https://www.teamworkonline.com/hockey-jobs/pwhl-jobs/pwhl-detroit-jobs/public-address-pa-announcer-contractor-2193941",
+  "location": "Detroit, MI",
+  "description": "PWHL Detroit · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194006",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Manager, Mascot Programs & Outreach",
+  "url": "https://www.teamworkonline.com/hockey-jobs/spire-hockey/greenville-swamp-rabbits/manager-mascot-programs-outreach-2194006",
+  "location": "Greenville, SC",
+  "description": "Greenville Swamp Rabbits · Manager",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194002",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director of Fan Development",
+  "url": "https://www.teamworkonline.com/baseball-jobs/midwestleague/lake-county-captains-28709/director-of-fan-development-2194002",
+  "location": "Eastlake, OH",
+  "description": "Lake County Captains · Director",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2194001",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Account Executive, Corporate Partnerships",
+  "url": "https://www.teamworkonline.com/baseball-jobs/californialeague/rancho-cucamonga-quakes/account-executive-corporate-partnerships-2194001",
+  "location": "Rancho Cucamonga, CA",
+  "description": "Rancho Cucamonga Quakes · Entry Level",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "Minnesota Twins::8a78879ea0f4259701a11cffeb68170b",
+  "company": "Minnesota Twins",
+  "title": "Performance Dietitian",
+  "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08b729b3e018b72dc67f6007f&id=8a78879ea0f4259701a11cffeb68170b&source=&lang=en",
+  "location": "Fort Myers, FL",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
+  "key": "Minnesota Twins::8a78879ea0f4259701a11cc72814017a",
+  "company": "Minnesota Twins",
+  "title": "Coach, Strength & Conditioning - Wichita Wind Surge",
+  "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08b729b3e018b72dc67f6007f&id=8a78879ea0f4259701a11cc72814017a&source=&lang=en",
+  "location": "Wichita, KS",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-08T20:03:47+00:00"
+ },
+ {
   "key": "Pittsburgh Pirates::0708ad96-3e97-4ea1-99e1-1365ed993226",
   "company": "Pittsburgh Pirates",
   "title": "Coach - Applied Mental Performance - Minor League",
@@ -9788,215 +9998,5 @@
   "description": "Oak View Group · Part Time",
   "posted": "",
   "found": "2026-10-05T22:35:23+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193372",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Event Custodian | Part-Time | TD Station",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/event-custodian-part-time-td-station-2193372",
-  "location": "Saint John, NB, Canada",
-  "description": "Oak View Group · Part Time",
-  "posted": "",
-  "found": "2026-10-05T22:35:23+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193371",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Camp Sales Advisor",
-  "url": "https://www.teamworkonline.com/youth-sports-jobs/img-academy-jobs/img-academy/camp-sales-advisor-2193371",
-  "location": "Bradenton, FL",
-  "description": "IMG Academy · Manager",
-  "posted": "",
-  "found": "2026-10-05T22:35:23+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193370",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Los Angeles Angels-2027 Season Part Time, Security Host",
-  "url": "https://www.teamworkonline.com/baseball-jobs/los-angeles-angels-jobs/los-angeles-angels/los-angeles-angels-2027-season-part-time-security-host-2193370",
-  "location": "Anaheim, CA",
-  "description": "Los Angeles Angels · Part Time",
-  "posted": "",
-  "found": "2026-10-05T22:35:23+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-05T22:02:20+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193369",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Sports Data Reporter",
-  "url": "https://www.teamworkonline.com/sports-technology-jobs/akara-markets-jobs/akara-markets-jobs/sports-data-reporter-2193369",
-  "location": "Nashville, TN · Remote",
-  "description": "Akara Markets · Part Time",
-  "posted": "",
-  "found": "2026-10-05T22:02:20+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193368",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Minor League Strength and Conditioning Coach",
-  "url": "https://www.teamworkonline.com/baseball-jobs/stl-cardinals/st--louis-cardinals/minor-league-strength-and-conditioning-coach-2193368",
-  "location": "St. Louis, MO",
-  "description": "St. Louis Cardinals · Manager",
-  "posted": "",
-  "found": "2026-10-05T22:02:20+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193367",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Minor League Strength and Conditioning Coach - Memphis, Tennessee",
-  "url": "https://www.teamworkonline.com/baseball-jobs/stl-cardinals/st--louis-cardinals/minor-league-strength-and-conditioning-coach-memphis-tennessee-2193367",
-  "location": "Memphis, TN",
-  "description": "St. Louis Cardinals · Director",
-  "posted": "",
-  "found": "2026-10-05T22:02:20+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193366",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Minor League Athletic Trainer - Dominican Republic",
-  "url": "https://www.teamworkonline.com/baseball-jobs/stl-cardinals/st--louis-cardinals/minor-league-athletic-trainer-dominican-republic-2193366",
-  "location": "Boca Chica, Dominican Republic",
-  "description": "St. Louis Cardinals · Entry Level",
-  "posted": "",
-  "found": "2026-10-05T22:02:20+00:00"
- },
- {
-  "key": "Los Angeles Angels::e11e0844-2ba9-4fae-a736-f87e2c61acc7",
-  "company": "Los Angeles Angels",
-  "title": "Los Angeles Angels-2027 Season Part Time, Security Host",
-  "url": "https://recruiting2.ultipro.com/ANG1000ANGEL/JobBoard/c2c34b69-1480-428d-a3a9-c45e8297edb3/OpportunityDetail?opportunityId=e11e0844-2ba9-4fae-a736-f87e2c61acc7",
-  "location": "Anaheim, CA",
-  "description": "Angels Baseball is required by Major League Baseball to enforce all of the rules and regulations concerning security. This Security Host position is directly responsible for any person that enters stadium areas and for the strict enforcement of the MLB…",
-  "posted": "2026-10-05T21:22:32.784Z",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "Pittsburgh Pirates::c67d0b97-1252-4b2e-8e84-d6940d01b7b1",
-  "company": "Pittsburgh Pirates",
-  "title": "Analyst - Baseball Strategy",
-  "url": "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/OpportunityDetail?opportunityId=c67d0b97-1252-4b2e-8e84-d6940d01b7b1",
-  "location": "Pittsburgh, PA",
-  "description": "The Strategy team with the Pittsburgh Pirates exists to give the Major League coaching staff the information and tools they need to make elite in-game decisions. The group’s analysts translate information into clear, actionable plans that support both daily…",
-  "posted": "2026-10-05T19:38:14.148Z",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193365",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "IT Support Services Technician",
-  "url": "https://www.teamworkonline.com/multiple-properties/haslam-sports-group-jobs/columbus-nwsl-2028-jobs-careers/it-support-services-technician-2193365",
-  "location": "Columbus, OH",
-  "description": "Columbus NWSL 2028 · Entry Level",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193342",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Office Operations Coordinator",
-  "url": "https://www.teamworkonline.com/soccer-jobs/denver-summit-fc-jobs/denver-summit-fc-jobs/office-operations-coordinator-2193342",
-  "location": "Denver, CO · Centennial, CO",
-  "description": "Denver Summit FC · Part Time",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193363",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Photographer",
-  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/photographer-2193363",
-  "location": "Danbury, CT · Hybrid",
-  "description": "Danbury Westerners · Intern",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193364",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Staff Accountant",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/staff-accountant-2193364",
-  "location": "North Charleston, SC",
-  "description": "Legends Global · Entry Level",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193362",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Associate Manager, Shotlink Production",
-  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/pga-tour-/associate-manager-shotlink-production-2193362",
-  "location": "Ponte Vedra Beach, FL",
-  "description": "PGA Tour · Manager",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193361",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Director, Special Events & Strategic Sourcing",
-  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pga-of-america/pga-of-america-jobs/director-special-events-strategic-sourcing-2193361",
-  "location": "Frisco, TX",
-  "description": "PGA of America Corporate · Director",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193357",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "On Field Emcees (2)",
-  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/on-field-emcees-2-2193357",
-  "location": "Danbury, CT",
-  "description": "Danbury Westerners · Intern",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193359",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Dessert Cart Attendant, Truist Park",
-  "url": "https://www.teamworkonline.com/hockey-jobs/boston-bruins-jobs/delaware-north-jobs/dessert-cart-attendant-truist-park-2193359",
-  "location": "Atlanta, GA",
-  "description": "Delaware North · Part Time",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193360",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Executive Chef, TD Garden",
-  "url": "https://www.teamworkonline.com/hockey-jobs/boston-bruins-jobs/delaware-north-jobs/executive-chef-td-garden-2193360",
-  "location": "Boston, MA",
-  "description": "Delaware North · Director",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193358",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Minor League Athletic Trainer (Seasonal) - Jupiter, Florida",
-  "url": "https://www.teamworkonline.com/baseball-jobs/stl-cardinals/st--louis-cardinals/minor-league-athletic-trainer-seasonal-jupiter-florida-2193358",
-  "location": "Jupiter, FL",
-  "description": "St. Louis Cardinals · Entry Level",
-  "posted": "",
-  "found": "2026-10-05T21:38:22+00:00"
  }
 ]
