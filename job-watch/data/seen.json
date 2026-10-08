@@ -29,11 +29,11 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-camp-coach-men-s-cross-country-2026-fall-semester-308041",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-camp-coach-tennis-2026-fall-semester-308042",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/broncos-empowered-and-varsity-w-club-specialist-308028",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-associate-women-s-volleyball-coach-308036",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-chief-development-officer-for-athletics-308038",
   "Intercollegiate::https://intercollegiate.co/job/director-of-fan-experience-and-engagement-308050",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/game-clock-operator-athletics-temp-casual-308035",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-assistant-coach-men-s-tennis-308030",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-assistant-coach-women-s-tennis-308031",
@@ -45,21 +45,10 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2172793",
-  "TeamWork Online (all sports, newest)::2192367",
   "TeamWork Online (all sports, newest)::2193246",
   "TeamWork Online (all sports, newest)::2193303",
   "TeamWork Online (all sports, newest)::2193570",
   "TeamWork Online (all sports, newest)::2193587",
-  "TeamWork Online (all sports, newest)::2193663",
-  "TeamWork Online (all sports, newest)::2193699",
-  "TeamWork Online (all sports, newest)::2193700",
-  "TeamWork Online (all sports, newest)::2193701",
-  "TeamWork Online (all sports, newest)::2193702",
-  "TeamWork Online (all sports, newest)::2193703",
-  "TeamWork Online (all sports, newest)::2193704",
-  "TeamWork Online (all sports, newest)::2193705",
-  "TeamWork Online (all sports, newest)::2193707",
-  "TeamWork Online (all sports, newest)::2193708",
   "TeamWork Online (all sports, newest)::2193709",
   "TeamWork Online (all sports, newest)::2193710",
   "TeamWork Online (all sports, newest)::2193711",
@@ -235,6 +224,7 @@
   "TeamWork Online (all sports, newest)::2193893",
   "TeamWork Online (all sports, newest)::2193894",
   "TeamWork Online (all sports, newest)::2193895",
+  "TeamWork Online (all sports, newest)::2193896",
   "TeamWork Online (all sports, newest)::2193897",
   "TeamWork Online (all sports, newest)::2193898",
   "TeamWork Online (all sports, newest)::2193899",
@@ -243,11 +233,19 @@
   "TeamWork Online (all sports, newest)::2193902",
   "TeamWork Online (all sports, newest)::2193903",
   "TeamWork Online (all sports, newest)::2193904",
-  "TeamWork Online (all sports, newest)::2193905"
+  "TeamWork Online (all sports, newest)::2193905",
+  "TeamWork Online (all sports, newest)::2193907",
+  "TeamWork Online (all sports, newest)::2193908",
+  "TeamWork Online (all sports, newest)::2193909",
+  "TeamWork Online (all sports, newest)::2193911",
+  "TeamWork Online (all sports, newest)::2193912",
+  "TeamWork Online (all sports, newest)::2193913",
+  "TeamWork Online (all sports, newest)::2193914",
+  "TeamWork Online (all sports, newest)::2193915",
+  "TeamWork Online (all sports, newest)::2193916",
+  "TeamWork Online (all sports, newest)::2193917"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2068238",
-  "TeamWork Online (NFL teams)::2076019",
   "TeamWork Online (NFL teams)::2084217",
   "TeamWork Online (NFL teams)::2116280",
   "TeamWork Online (NFL teams)::2125879",
@@ -389,7 +387,9 @@
   "TeamWork Online (NFL teams)::2193437",
   "TeamWork Online (NFL teams)::2193579",
   "TeamWork Online (NFL teams)::2193593",
-  "TeamWork Online (NFL teams)::2193645"
+  "TeamWork Online (NFL teams)::2193645",
+  "TeamWork Online (NFL teams)::2193907",
+  "TeamWork Online (NFL teams)::2193908"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -830,9 +830,7 @@
   "Texas Rangers::/job/Arlington-TX/General-Maintenance-Technician_R2365-1",
   "Texas Rangers::/job/Arlington-TX/HVAC-Technician--Maintenance_R2401",
   "Texas Rangers::/job/Arlington-TX/HVAC-Technician_R2364-2",
-  "Texas Rangers::/job/Arlington-TX/IT-Technician_R2392",
   "Texas Rangers::/job/Arlington-TX/Infrastructure--Applications--and-Data-Platform-Engineer_R2390",
-  "Texas Rangers::/job/Arlington-TX/Network-Engineer_R2389",
   "Texas Rangers::/job/Arlington-TX/Parking-Attendant_R2203",
   "Texas Rangers::/job/Arlington-TX/Parking-Security_R2099",
   "Texas Rangers::/job/Arlington-TX/Representative-I--Complex-Maintenance_R2008",
@@ -860,7 +858,8 @@
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d4e6b608-831f-4a04-bdb6-f61493552d27&ccId=19000101_000001&lang=en_US": [],
  "greenhouse:philadelphiaeagles": [
-  "Philadelphia Eagles::4698955006"
+  "Philadelphia Eagles::4698955006",
+  "Philadelphia Eagles::4719672006"
  ],
  "https://recruiting2.ultipro.com/ARI1001CARD/JobBoard/bfe37693-2c0a-46b6-af4e-f984b08a8e7f/?q=&o=postedDateDesc": [
   "Arizona Cardinals::188c7cdd-8b87-4cda-8e3a-c6d591a263a1",
@@ -1340,7 +1339,8 @@
   "Cincinnati Reds::8a78879ea0f4259701a10d23907a19ef"
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08b729b3e018b72dc67f6007f": [
-  "Minnesota Twins::8a7885aca0abfc6901a0cf18303c0159"
+  "Minnesota Twins::8a7885aca0abfc6901a0cf18303c0159",
+  "Minnesota Twins::8a78879ea0f4259701a11c2fe07c4bde"
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c662cbb4070162d48197a73653": [],
  "rss:None": [
@@ -1442,7 +1442,9 @@
   "Green Bay Packers::2192414",
   "Green Bay Packers::2193174",
   "Green Bay Packers::2193175",
-  "Green Bay Packers::2193176"
+  "Green Bay Packers::2193176",
+  "Green Bay Packers::2193907",
+  "Green Bay Packers::2193908"
  ],
  "https://jobs.dayforcehcm.com/bensonenterprises/SAINTSPELSCAREERS#backup": []
 }
