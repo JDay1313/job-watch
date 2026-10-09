@@ -27,7 +27,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-and-conditioning-coach-308129",
   "Intercollegiate::https://intercollegiate.co/job/assistant-supervisor-athletic-equipment-308147",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-development-major-gifts-308140",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/digital-media-strategist-videographer-308128",
   "Intercollegiate::https://intercollegiate.co/job/director-of-event-operations-308152",
   "Intercollegiate::https://intercollegiate.co/job/director-of-sport-operations-men-s-basketball-308127",
@@ -60,9 +60,6 @@
   "TeamWork Online (all sports, newest)::2193587",
   "TeamWork Online (all sports, newest)::2193730",
   "TeamWork Online (all sports, newest)::2193856",
-  "TeamWork Online (all sports, newest)::2193857",
-  "TeamWork Online (all sports, newest)::2193858",
-  "TeamWork Online (all sports, newest)::2193859",
   "TeamWork Online (all sports, newest)::2193860",
   "TeamWork Online (all sports, newest)::2193861",
   "TeamWork Online (all sports, newest)::2193862",
@@ -242,10 +239,12 @@
   "TeamWork Online (all sports, newest)::2194051",
   "TeamWork Online (all sports, newest)::2194052",
   "TeamWork Online (all sports, newest)::2194053",
-  "TeamWork Online (all sports, newest)::2194054"
+  "TeamWork Online (all sports, newest)::2194054",
+  "TeamWork Online (all sports, newest)::2194056",
+  "TeamWork Online (all sports, newest)::2194057",
+  "TeamWork Online (all sports, newest)::2194058"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2147716",
   "TeamWork Online (NFL teams)::2147717",
   "TeamWork Online (NFL teams)::2151141",
   "TeamWork Online (NFL teams)::2151683",
@@ -388,7 +387,8 @@
   "TeamWork Online (NFL teams)::2193968",
   "TeamWork Online (NFL teams)::2193970",
   "TeamWork Online (NFL teams)::2193972",
-  "TeamWork Online (NFL teams)::2193974"
+  "TeamWork Online (NFL teams)::2193974",
+  "TeamWork Online (NFL teams)::2194058"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -744,7 +744,9 @@
   "Pittsburgh Pirates::5df61bf7-6829-4d1d-92a2-57786ea43a87",
   "Pittsburgh Pirates::7a4c07dc-1cad-4fdd-97fe-4d6807ef521e",
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d",
+  "Pittsburgh Pirates::989c33e9-a098-4279-a074-0e9bdebed5fa",
   "Pittsburgh Pirates::c67d0b97-1252-4b2e-8e84-d6940d01b7b1",
+  "Pittsburgh Pirates::d79ebd2f-2288-480f-8b95-6254df81b763",
   "Pittsburgh Pirates::f3cae72f-c3f7-445e-bdde-9d9ac7d42b44"
  ],
  "https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO": [
@@ -1065,7 +1067,6 @@
   "Sportradar::744000152029639",
   "Sportradar::744000152319949",
   "Sportradar::744000152360379",
-  "Sportradar::744000152360569",
   "Sportradar::744000152396509",
   "Sportradar::744000152425773",
   "Sportradar::744000152623358",
@@ -1089,7 +1090,9 @@
   "Sportradar::744000154364539",
   "Sportradar::744000154416379",
   "Sportradar::744000154429189",
-  "Sportradar::744000154621760"
+  "Sportradar::744000154621760",
+  "Sportradar::744000154675387",
+  "Sportradar::744000154680429"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
