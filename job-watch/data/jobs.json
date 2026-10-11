@@ -1,5 +1,35 @@
 [
  {
+  "key": "PrizePicks::7984822003",
+  "company": "PrizePicks",
+  "title": "Engineering Manager",
+  "url": "http://prizepicks.com/position?gh_jid=7984822003",
+  "location": "Remote",
+  "description": "At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of…",
+  "posted": "2026-10-11T08:00:00-04:00",
+  "found": "2026-10-11T12:02:01+00:00"
+ },
+ {
+  "key": "PrizePicks::7849807003",
+  "company": "PrizePicks",
+  "title": "Senior Software Engineer (GO)",
+  "url": "http://prizepicks.com/position?gh_jid=7849807003",
+  "location": "Remote",
+  "description": "At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of…",
+  "posted": "2026-10-11T08:00:00-04:00",
+  "found": "2026-10-11T12:02:01+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
+  "company": "Intercollegiate",
+  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
+  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-11T12:02:01+00:00"
+ },
+ {
   "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "company": "Intercollegiate",
   "title": "Associate/Senior Associate Athletics Director of Development",
@@ -9968,35 +9998,5 @@
   "description": "",
   "posted": "",
   "found": "2026-10-07T08:04:05+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-07T07:39:21+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletics-communications-307978",
-  "company": "Intercollegiate",
-  "title": "Assistant Director- Athletics Communications ($70,304/yr)",
-  "url": "https://intercollegiate.co/job/assistant-director-athletics-communications-307978",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-07T07:39:21+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/part-time-assistant-athletic-trainer-307976",
-  "company": "Intercollegiate",
-  "title": "Part-Time Assistant Athletic Trainer ($50-$55/hr)",
-  "url": "https://intercollegiate.co/job/part-time-assistant-athletic-trainer-307976",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-07T07:39:21+00:00"
  }
 ]
