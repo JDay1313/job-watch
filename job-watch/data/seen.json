@@ -24,6 +24,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-development-revenue-generation-308192",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-marketing-308202",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-and-field-coach-throws-308278",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-ticket-operations-308209",
   "Intercollegiate::https://intercollegiate.co/job/athletic-director-naia-308207",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
@@ -31,7 +32,6 @@
   "Intercollegiate::https://intercollegiate.co/job/development-officer-athletics-308201",
   "Intercollegiate::https://intercollegiate.co/job/director-of-marketing-and-fan-experience-308205",
   "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-operations-308194",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/executive-director-brand-strategy-storytelling-communications-athletics-308279",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-ga-intercollegiate-athletics-advancement-308277",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-ga-intercollegiate-athletics-strength-and-conditioning-308276",
@@ -45,9 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2088263",
   "TeamWork Online (all sports, newest)::2193749",
-  "TeamWork Online (all sports, newest)::2194048",
-  "TeamWork Online (all sports, newest)::2194049",
-  "TeamWork Online (all sports, newest)::2194050",
   "TeamWork Online (all sports, newest)::2194051",
   "TeamWork Online (all sports, newest)::2194052",
   "TeamWork Online (all sports, newest)::2194053",
@@ -242,7 +239,10 @@
   "TeamWork Online (all sports, newest)::2194253",
   "TeamWork Online (all sports, newest)::2194254",
   "TeamWork Online (all sports, newest)::2194255",
-  "TeamWork Online (all sports, newest)::2194256"
+  "TeamWork Online (all sports, newest)::2194256",
+  "TeamWork Online (all sports, newest)::2194257",
+  "TeamWork Online (all sports, newest)::2194258",
+  "TeamWork Online (all sports, newest)::2194259"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
