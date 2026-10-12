@@ -1,5 +1,55 @@
 [
  {
+  "key": "Chicago White Sox::997d0adf-9e33-4392-b2ec-ca286b0b8929",
+  "company": "Chicago White Sox",
+  "title": "Player Development Affiliate Intern",
+  "url": "https://recruiting2.ultipro.com/CHI1000CWS/JobBoard/8e2339b4-b699-46e9-8b91-e3e826e53794/OpportunityDetail?opportunityId=997d0adf-9e33-4392-b2ec-ca286b0b8929",
+  "location": "AZSIT / NCSIT / Alabama",
+  "description": "The Chicago White Sox are seeking multiple seasonal Player Development Affiliate Interns for the upcoming 2027 season. This internship opportunity will provide individuals with a wide range of experiences across professional baseball. These positions will…",
+  "posted": "2026-10-12T17:58:47.926Z",
+  "found": "2026-10-12T18:02:09+00:00"
+ },
+ {
+  "key": "Washington Nationals::5e8a94c9-aefb-45aa-a07b-fc25c58c1b43",
+  "company": "Washington Nationals",
+  "title": "Manager, Field",
+  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=5e8a94c9-aefb-45aa-a07b-fc25c58c1b43",
+  "location": "Washington, DC",
+  "description": "Reporting to the Director of Field Operations, the Field Manager is responsible for supporting the overall upkeep and maintenance practices for the playing field and surrounding landscape areas. This position supervises the part-time employees as well as…",
+  "posted": "2026-10-12T17:58:16.879Z",
+  "found": "2026-10-12T18:02:09+00:00"
+ },
+ {
+  "key": "Washington Nationals::9f81695c-9256-488b-88e8-2b69e06b0a21",
+  "company": "Washington Nationals",
+  "title": "Analyst, Business Intelligence & Data Engineering",
+  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=9f81695c-9256-488b-88e8-2b69e06b0a21",
+  "location": "Washington, DC",
+  "description": "The Analyst, Business Intelligence & Data Engineering, reporting to the Senior Manager, Business Intelligence & Data Engineering, is responsible for managing ETL (extract, transform, load) pipelines, ensuring seamless data flow and accessibility across…",
+  "posted": "2026-10-12T17:56:43.311Z",
+  "found": "2026-10-12T18:02:09+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "company": "Intercollegiate",
+  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
+  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-12T18:02:09+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "company": "Intercollegiate",
+  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
+  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-12T18:02:09+00:00"
+ },
+ {
   "key": "NFL League Office::5439717008",
   "company": "NFL League Office",
   "title": "Sr. Manager, Club Revenue Analytics & Data Science",
@@ -9946,56 +9996,6 @@
   "url": "https://www.teamworkonline.com/entertainment-jobs/hershey-entertainment-resorts/hershey-entertainment-and-resorts-jobs/houseperson-hershey-inn-suites-2193785",
   "location": "Hummelstown, PA",
   "description": "Hershey Entertainment and Resorts · Entry Level",
-  "posted": "",
-  "found": "2026-10-07T18:43:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193784",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Room Service (PT)",
-  "url": "https://www.teamworkonline.com/entertainment-jobs/hershey-entertainment-resorts/hershey-entertainment-and-resorts-jobs/room-service-pt-2193784",
-  "location": "Hershey, PA",
-  "description": "Hershey Entertainment and Resorts · Part Time",
-  "posted": "",
-  "found": "2026-10-07T18:43:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193779",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Systems Support Specialist",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/systems-support-specialist-2193779",
-  "location": "Philadelphia, PA",
-  "description": "Legends Global · Entry Level",
-  "posted": "",
-  "found": "2026-10-07T18:43:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193778",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "RIC - Receiving and Issuing Clerk",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/ric-receiving-and-issuing-clerk-2193778",
-  "location": "San Francisco, CA",
-  "description": "Legends Global · Entry Level",
-  "posted": "",
-  "found": "2026-10-07T18:43:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193780",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Guest Services Supervisor",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/guest-services-supervisor-2193780",
-  "location": "Tucson, AZ",
-  "description": "Legends Global · Entry Level",
-  "posted": "",
-  "found": "2026-10-07T18:43:22+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2193781",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Staff Accountant",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/staff-accountant-2193781",
-  "location": "Tucson, AZ",
-  "description": "Legends Global · Entry Level",
   "posted": "",
   "found": "2026-10-07T18:43:22+00:00"
  }
