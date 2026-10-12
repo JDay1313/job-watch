@@ -28,8 +28,8 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-director-ticket-operations-308209",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-director-naia-308207",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308204",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/development-officer-athletics-308201",
   "Intercollegiate::https://intercollegiate.co/job/director-of-marketing-and-fan-experience-308205",
   "Intercollegiate::https://intercollegiate.co/job/executive-director-brand-strategy-storytelling-communications-athletics-308279",
@@ -47,7 +47,6 @@
   "TeamWork Online (all sports, newest)::2193749",
   "TeamWork Online (all sports, newest)::2194074",
   "TeamWork Online (all sports, newest)::2194098",
-  "TeamWork Online (all sports, newest)::2194102",
   "TeamWork Online (all sports, newest)::2194103",
   "TeamWork Online (all sports, newest)::2194104",
   "TeamWork Online (all sports, newest)::2194105",
@@ -242,7 +241,8 @@
   "TeamWork Online (all sports, newest)::2194304",
   "TeamWork Online (all sports, newest)::2194305",
   "TeamWork Online (all sports, newest)::2194306",
-  "TeamWork Online (all sports, newest)::2194307"
+  "TeamWork Online (all sports, newest)::2194307",
+  "TeamWork Online (all sports, newest)::2194309"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2125879",
@@ -430,7 +430,6 @@
   "NFL League Office::5127328008",
   "NFL League Office::5143255008",
   "NFL League Office::5176408008",
-  "NFL League Office::5201467008",
   "NFL League Office::5253686008",
   "NFL League Office::5279619008",
   "NFL League Office::5281443008",
