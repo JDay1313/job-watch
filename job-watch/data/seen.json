@@ -45,9 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
   "TeamWork Online (all sports, newest)::2194130",
-  "TeamWork Online (all sports, newest)::2194214",
-  "TeamWork Online (all sports, newest)::2194215",
-  "TeamWork Online (all sports, newest)::2194216",
   "TeamWork Online (all sports, newest)::2194217",
   "TeamWork Online (all sports, newest)::2194218",
   "TeamWork Online (all sports, newest)::2194219",
@@ -242,7 +239,10 @@
   "TeamWork Online (all sports, newest)::2194419",
   "TeamWork Online (all sports, newest)::2194420",
   "TeamWork Online (all sports, newest)::2194421",
-  "TeamWork Online (all sports, newest)::2194422"
+  "TeamWork Online (all sports, newest)::2194422",
+  "TeamWork Online (all sports, newest)::2194425",
+  "TeamWork Online (all sports, newest)::2194427",
+  "TeamWork Online (all sports, newest)::2194428"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130545",
@@ -458,6 +458,7 @@
   "NFL League Office::5430310008",
   "NFL League Office::5431078008",
   "NFL League Office::5439717008",
+  "NFL League Office::5446043008",
   "NFL League Office::5446095008",
   "NFL League Office::5450454008"
  ],
