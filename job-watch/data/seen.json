@@ -25,13 +25,13 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-marketing-308202",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-and-field-coach-throws-308278",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-308280",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-ticket-operations-308209",
   "Intercollegiate::https://intercollegiate.co/job/athletic-director-naia-308207",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308204",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/development-officer-athletics-308201",
   "Intercollegiate::https://intercollegiate.co/job/director-of-marketing-and-fan-experience-308205",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/executive-director-brand-strategy-storytelling-communications-athletics-308279",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-ga-intercollegiate-athletics-advancement-308277",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-ga-intercollegiate-athletics-strength-and-conditioning-308276",
@@ -45,9 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
   "TeamWork Online (all sports, newest)::2194130",
-  "TeamWork Online (all sports, newest)::2194172",
-  "TeamWork Online (all sports, newest)::2194173",
-  "TeamWork Online (all sports, newest)::2194174",
   "TeamWork Online (all sports, newest)::2194175",
   "TeamWork Online (all sports, newest)::2194176",
   "TeamWork Online (all sports, newest)::2194177",
@@ -242,10 +239,12 @@
   "TeamWork Online (all sports, newest)::2194377",
   "TeamWork Online (all sports, newest)::2194378",
   "TeamWork Online (all sports, newest)::2194379",
-  "TeamWork Online (all sports, newest)::2194380"
+  "TeamWork Online (all sports, newest)::2194380",
+  "TeamWork Online (all sports, newest)::2194381",
+  "TeamWork Online (all sports, newest)::2194382",
+  "TeamWork Online (all sports, newest)::2194383"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2130545",
   "TeamWork Online (NFL teams)::2147716",
   "TeamWork Online (NFL teams)::2147717",
   "TeamWork Online (NFL teams)::2151141",
@@ -388,7 +387,8 @@
   "TeamWork Online (NFL teams)::2194251",
   "TeamWork Online (NFL teams)::2194317",
   "TeamWork Online (NFL teams)::2194366",
-  "TeamWork Online (NFL teams)::2194379"
+  "TeamWork Online (NFL teams)::2194379",
+  "TeamWork Online (NFL teams)::2194382"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
