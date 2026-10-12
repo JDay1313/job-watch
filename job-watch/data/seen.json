@@ -26,8 +26,8 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-and-field-coach-throws-308278",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-trainer-308280",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-ticket-operations-308209",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-director-naia-308207",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308204",
   "Intercollegiate::https://intercollegiate.co/job/development-officer-athletics-308201",
   "Intercollegiate::https://intercollegiate.co/job/director-of-marketing-and-fan-experience-308205",
@@ -45,8 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
   "TeamWork Online (all sports, newest)::2194130",
-  "TeamWork Online (all sports, newest)::2194212",
-  "TeamWork Online (all sports, newest)::2194213",
   "TeamWork Online (all sports, newest)::2194214",
   "TeamWork Online (all sports, newest)::2194215",
   "TeamWork Online (all sports, newest)::2194216",
@@ -242,7 +240,9 @@
   "TeamWork Online (all sports, newest)::2194417",
   "TeamWork Online (all sports, newest)::2194418",
   "TeamWork Online (all sports, newest)::2194419",
-  "TeamWork Online (all sports, newest)::2194420"
+  "TeamWork Online (all sports, newest)::2194420",
+  "TeamWork Online (all sports, newest)::2194421",
+  "TeamWork Online (all sports, newest)::2194422"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130545",
@@ -452,14 +452,14 @@
   "NFL League Office::5416747008",
   "NFL League Office::5418679008",
   "NFL League Office::5418708008",
-  "NFL League Office::5422617008",
   "NFL League Office::5427009008",
   "NFL League Office::5429054008",
   "NFL League Office::5429057008",
   "NFL League Office::5430310008",
   "NFL League Office::5431078008",
   "NFL League Office::5439717008",
-  "NFL League Office::5446095008"
+  "NFL League Office::5446095008",
+  "NFL League Office::5450454008"
  ],
  "https://nascar.wd1.myworkdayjobs.com/NASCAR": [
   "NASCAR::/job/Avondale-AZ/General-Maintenance--Event-_JR10234",
@@ -841,6 +841,9 @@
  "https://mariners.wd5.myworkdayjobs.com/en-US/Mariners": [
   "Seattle Mariners::/job/Peoria-Arizona/Affiliate-Pitching-Coach_REQ2026-000036",
   "Seattle Mariners::/job/Peoria-Arizona/Intern--Minor-League-Development_REQ2026-000031",
+  "Seattle Mariners::/job/Peoria-Arizona/Major-League-Assistant-Strength---Conditioning-Coach_REQ2026-000040",
+  "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Rehab-Strength---Conditioning-Coach_REQ2026-000039",
+  "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Strength---Conditioning-Coordinator_REQ2026-000038",
   "Seattle Mariners::/job/Remote---United-States/Professional-Scout_REQ2026-000034",
   "Seattle Mariners::/job/Remote---United-States/Professional-Scout_REQ2026-000035"
  ],
@@ -1301,6 +1304,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-associate-director-ii/391/101612672672",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/video-editor/391/101280659328"
  ],
  "https://daiwa.us/pages/careers-page": [
