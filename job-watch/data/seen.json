@@ -26,12 +26,12 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-for-sprints-and-jumps-308311",
   "Intercollegiate::https://intercollegiate.co/job/assistant-wrestling-coach-308321",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-academic-services-81543-308303",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-men-s-basketball-141349-308315",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/coach-308314",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-308296",
   "Intercollegiate::https://intercollegiate.co/job/director-of-herd-cares-308305",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/director-or-senior-director-of-donor-experiences-and-special-events-308322",
   "Intercollegiate::https://intercollegiate.co/job/executive-assistant-to-the-director-of-athletics-confidential-administrative-support-ii-308309",
   "Intercollegiate::https://intercollegiate.co/job/external-relations-specialist-308310",
@@ -45,8 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
   "TeamWork Online (all sports, newest)::2194130",
-  "TeamWork Online (all sports, newest)::2194224",
-  "TeamWork Online (all sports, newest)::2194225",
   "TeamWork Online (all sports, newest)::2194226",
   "TeamWork Online (all sports, newest)::2194227",
   "TeamWork Online (all sports, newest)::2194228",
@@ -242,7 +240,9 @@
   "TeamWork Online (all sports, newest)::2194433",
   "TeamWork Online (all sports, newest)::2194434",
   "TeamWork Online (all sports, newest)::2194435",
-  "TeamWork Online (all sports, newest)::2194436"
+  "TeamWork Online (all sports, newest)::2194436",
+  "TeamWork Online (all sports, newest)::2194437",
+  "TeamWork Online (all sports, newest)::2194439"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130545",
@@ -975,7 +975,6 @@
   "New England Patriots (Kraft Group)::568210",
   "New England Patriots (Kraft Group)::568558",
   "New England Patriots (Kraft Group)::569062",
-  "New England Patriots (Kraft Group)::569089",
   "New England Patriots (Kraft Group)::569335",
   "New England Patriots (Kraft Group)::569357",
   "New England Patriots (Kraft Group)::569558",
@@ -1028,6 +1027,8 @@
   "Sportradar::744000149803209",
   "Sportradar::744000149831759",
   "Sportradar::744000149848669",
+  "Sportradar::744000150084230",
+  "Sportradar::744000150084829",
   "Sportradar::744000150313500",
   "Sportradar::744000150597989",
   "Sportradar::744000150598049",
@@ -1082,6 +1083,7 @@
   "Sportradar::744000154675387",
   "Sportradar::744000154680429",
   "Sportradar::744000154693938",
+  "Sportradar::744000155224709",
   "Sportradar::744000155254039"
  ],
  "greenhouse:prizepicks": [
@@ -1093,7 +1095,6 @@
   "PrizePicks::7824303003",
   "PrizePicks::7824397003",
   "PrizePicks::7824471003",
-  "PrizePicks::7826215003",
   "PrizePicks::7826517003",
   "PrizePicks::7829676003",
   "PrizePicks::7849807003",
