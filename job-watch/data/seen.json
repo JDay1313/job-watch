@@ -26,12 +26,12 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-for-sprints-and-jumps-308311",
   "Intercollegiate::https://intercollegiate.co/job/assistant-wrestling-coach-308321",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-academic-services-81543-308303",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-men-s-basketball-141349-308315",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/coach-308314",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-308296",
   "Intercollegiate::https://intercollegiate.co/job/director-of-herd-cares-308305",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/director-or-senior-director-of-donor-experiences-and-special-events-308322",
   "Intercollegiate::https://intercollegiate.co/job/executive-assistant-to-the-director-of-athletics-confidential-administrative-support-ii-308309",
   "Intercollegiate::https://intercollegiate.co/job/external-relations-specialist-308310",
@@ -45,7 +45,7 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
   "TeamWork Online (all sports, newest)::2194130",
-  "TeamWork Online (all sports, newest)::2194218",
+  "TeamWork Online (all sports, newest)::2194217",
   "TeamWork Online (all sports, newest)::2194221",
   "TeamWork Online (all sports, newest)::2194222",
   "TeamWork Online (all sports, newest)::2194223",
@@ -1082,7 +1082,9 @@
   "Sportradar::744000154621760",
   "Sportradar::744000154675387",
   "Sportradar::744000154680429",
-  "Sportradar::744000154693938"
+  "Sportradar::744000154693938",
+  "Sportradar::744000155211004",
+  "Sportradar::744000155214249"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
