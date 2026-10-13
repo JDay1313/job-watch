@@ -27,11 +27,11 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-wrestling-coach-308321",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-academic-services-81543-308303",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-men-s-basketball-141349-308315",
   "Intercollegiate::https://intercollegiate.co/job/coach-308314",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-308296",
   "Intercollegiate::https://intercollegiate.co/job/director-of-herd-cares-308305",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/director-or-senior-director-of-donor-experiences-and-special-events-308322",
   "Intercollegiate::https://intercollegiate.co/job/executive-assistant-to-the-director-of-athletics-confidential-administrative-support-ii-308309",
   "Intercollegiate::https://intercollegiate.co/job/external-relations-specialist-308310",
@@ -44,7 +44,6 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
-  "TeamWork Online (all sports, newest)::2194240",
   "TeamWork Online (all sports, newest)::2194241",
   "TeamWork Online (all sports, newest)::2194242",
   "TeamWork Online (all sports, newest)::2194243",
@@ -242,9 +241,11 @@
   "TeamWork Online (all sports, newest)::2194450",
   "TeamWork Online (all sports, newest)::2194451",
   "TeamWork Online (all sports, newest)::2194452",
-  "TeamWork Online (all sports, newest)::2194453"
+  "TeamWork Online (all sports, newest)::2194453",
+  "TeamWork Online (all sports, newest)::2194456"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
+  "TeamWork Online (NFL teams)::2130541",
   "TeamWork Online (NFL teams)::2130545",
   "TeamWork Online (NFL teams)::2147716",
   "TeamWork Online (NFL teams)::2147717",
@@ -347,7 +348,6 @@
   "TeamWork Online (NFL teams)::2192100",
   "TeamWork Online (NFL teams)::2192166",
   "TeamWork Online (NFL teams)::2192217",
-  "TeamWork Online (NFL teams)::2192338",
   "TeamWork Online (NFL teams)::2192414",
   "TeamWork Online (NFL teams)::2192529",
   "TeamWork Online (NFL teams)::2192530",
@@ -429,6 +429,7 @@
  "greenhouse:nflcareers": [
   "NFL League Office::5127328008",
   "NFL League Office::5143255008",
+  "NFL League Office::5176307008",
   "NFL League Office::5176408008",
   "NFL League Office::5253686008",
   "NFL League Office::5279619008",
@@ -481,7 +482,6 @@
   "NASCAR::/job/Charlotte-NC/Senior-Business-Manager--NASCAR-O-Reilly-Auto-Parts-Series_JR14392",
   "NASCAR::/job/Charlotte-NC/Senior-Business-Manager--NASCAR-Truck-Series_JR14394",
   "NASCAR::/job/Charlotte-NC/Senior-Business-Manager--NASCAR-Whelen-Modified-Tour_JR14393-1",
-  "NASCAR::/job/Charlotte-NC/Senior-Director--Brand-Content---Production_JR14369",
   "NASCAR::/job/Charlotte-NC/Senior-Director--Head-of-YouTube_JR14370",
   "NASCAR::/job/Charlotte-NC/Senior-Manager--Business-Systems_JR14364",
   "NASCAR::/job/Concord-NC/Computational-Fluid-Dynamics---Aerodynamics-Engineer_JR14383",
@@ -1303,8 +1303,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-associate-director-ii/391/101612672672",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/video-editor/391/101280659328"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
