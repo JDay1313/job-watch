@@ -26,7 +26,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-for-sprints-and-jumps-308311",
   "Intercollegiate::https://intercollegiate.co/job/assistant-wrestling-coach-308321",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-academic-services-81543-308303",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-men-s-basketball-141349-308315",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/coach-308314",
@@ -45,10 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192166",
   "TeamWork Online (all sports, newest)::2194130",
-  "TeamWork Online (all sports, newest)::2194218",
-  "TeamWork Online (all sports, newest)::2194221",
-  "TeamWork Online (all sports, newest)::2194222",
-  "TeamWork Online (all sports, newest)::2194223",
   "TeamWork Online (all sports, newest)::2194224",
   "TeamWork Online (all sports, newest)::2194225",
   "TeamWork Online (all sports, newest)::2194226",
@@ -146,6 +142,7 @@
   "TeamWork Online (all sports, newest)::2194325",
   "TeamWork Online (all sports, newest)::2194326",
   "TeamWork Online (all sports, newest)::2194327",
+  "TeamWork Online (all sports, newest)::2194328",
   "TeamWork Online (all sports, newest)::2194329",
   "TeamWork Online (all sports, newest)::2194330",
   "TeamWork Online (all sports, newest)::2194331",
@@ -241,7 +238,11 @@
   "TeamWork Online (all sports, newest)::2194429",
   "TeamWork Online (all sports, newest)::2194430",
   "TeamWork Online (all sports, newest)::2194431",
-  "TeamWork Online (all sports, newest)::2194432"
+  "TeamWork Online (all sports, newest)::2194432",
+  "TeamWork Online (all sports, newest)::2194433",
+  "TeamWork Online (all sports, newest)::2194434",
+  "TeamWork Online (all sports, newest)::2194435",
+  "TeamWork Online (all sports, newest)::2194436"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130545",
@@ -451,6 +452,9 @@
   "NFL League Office::5418679008",
   "NFL League Office::5418708008",
   "NFL League Office::5427009008",
+  "NFL League Office::5427059008",
+  "NFL League Office::5427066008",
+  "NFL League Office::5427079008",
   "NFL League Office::5429054008",
   "NFL League Office::5429057008",
   "NFL League Office::5430310008",
@@ -823,7 +827,6 @@
   "Texas Rangers::/job/Arlington-TX/Parking-Attendant_R2203",
   "Texas Rangers::/job/Arlington-TX/Parking-Security_R2099",
   "Texas Rangers::/job/Arlington-TX/Representative-I--Complex-Maintenance_R2008",
-  "Texas Rangers::/job/Arlington-TX/Risk-Management-Coordinator_R2378",
   "Texas Rangers::/job/Arlington-TX/Seasonal-Ballpark-Entertainment-Control-Room_R2005",
   "Texas Rangers::/job/Arlington-TX/Six-Shooter_R2396-1",
   "Texas Rangers::/job/Arlington-TX/Toll-Attendant_R2100",
@@ -868,6 +871,7 @@
  "https://ambgroup.wd1.myworkdayjobs.com/AMBSE": [
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Staff-Accountant_R0029385-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Accounting-Manager--Retail_R0029165-1",
+  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Director--Digital-and-Social-Media---Atlanta-City-FC_R0029399",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Housekeeping-PT--Event-Day-Only-_R0027296",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer---Part-Time_R0028882-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer--PT-_R0028292-1",
@@ -961,7 +965,6 @@
   "New England Patriots (Kraft Group)::561545",
   "New England Patriots (Kraft Group)::562174",
   "New England Patriots (Kraft Group)::562627",
-  "New England Patriots (Kraft Group)::563013",
   "New England Patriots (Kraft Group)::564099",
   "New England Patriots (Kraft Group)::565026",
   "New England Patriots (Kraft Group)::566480",
@@ -1078,7 +1081,8 @@
   "Sportradar::744000154621760",
   "Sportradar::744000154675387",
   "Sportradar::744000154680429",
-  "Sportradar::744000154693938"
+  "Sportradar::744000154693938",
+  "Sportradar::744000155254039"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1192,6 +1196,7 @@
   "DraftKings::/job/Remote---US/Corporate-Counsel--IP-Litigation_JR15014-1",
   "DraftKings::/job/Remote---US/Corporate-Counsel--Prediction-Markets_JR14655-1",
   "DraftKings::/job/Remote---US/Lead-Product-Designer--Platform_JR14459",
+  "DraftKings::/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
   "DraftKings::/job/Remote---US/New-Business-Executive--Predictions_JR15065-1",
   "DraftKings::/job/Remote---US/Player-Development-Executive_JR15244-1",
   "DraftKings::/job/Remote---US/Revenue-Operations-Specialist_JR15193-1",
@@ -1299,7 +1304,6 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-associate-director-ii/391/101612672672",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/video-editor/391/101280659328"
  ],
  "https://daiwa.us/pages/careers-page": [
