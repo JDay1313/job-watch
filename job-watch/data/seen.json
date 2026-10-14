@@ -29,12 +29,12 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-of-integrated-behavioral-health-308454",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-student-athlete-academic-support-services-308474",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-academic-advisor-308452",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-ii-308473",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-production-coordinator-308462",
   "Intercollegiate::https://intercollegiate.co/job/director-of-premium-seating-35090-308447",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/head-coach-women-s-varsity-flag-football-81648-308466",
   "Intercollegiate::https://intercollegiate.co/job/head-women-s-rugby-coach-308449",
   "Intercollegiate::https://intercollegiate.co/job/ops-strategy-tutor-the-hawkins-center-308445",
@@ -50,10 +50,6 @@
   "TeamWork Online (all sports, newest)::2194476",
   "TeamWork Online (all sports, newest)::2194481",
   "TeamWork Online (all sports, newest)::2194578",
-  "TeamWork Online (all sports, newest)::2194589",
-  "TeamWork Online (all sports, newest)::2194590",
-  "TeamWork Online (all sports, newest)::2194591",
-  "TeamWork Online (all sports, newest)::2194592",
   "TeamWork Online (all sports, newest)::2194593",
   "TeamWork Online (all sports, newest)::2194594",
   "TeamWork Online (all sports, newest)::2194595",
@@ -243,9 +239,14 @@
   "TeamWork Online (all sports, newest)::2194798",
   "TeamWork Online (all sports, newest)::2194799",
   "TeamWork Online (all sports, newest)::2194800",
-  "TeamWork Online (all sports, newest)::2194801"
+  "TeamWork Online (all sports, newest)::2194801",
+  "TeamWork Online (all sports, newest)::2194802",
+  "TeamWork Online (all sports, newest)::2194803",
+  "TeamWork Online (all sports, newest)::2194804",
+  "TeamWork Online (all sports, newest)::2194805"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
+  "TeamWork Online (NFL teams)::2116280",
   "TeamWork Online (NFL teams)::2125879",
   "TeamWork Online (NFL teams)::2128896",
   "TeamWork Online (NFL teams)::2130243",
@@ -270,7 +271,6 @@
   "TeamWork Online (NFL teams)::2176359",
   "TeamWork Online (NFL teams)::2178142",
   "TeamWork Online (NFL teams)::2178412",
-  "TeamWork Online (NFL teams)::2178884",
   "TeamWork Online (NFL teams)::2181225",
   "TeamWork Online (NFL teams)::2181436",
   "TeamWork Online (NFL teams)::2181488",
@@ -804,7 +804,8 @@
   "San Francisco Giants::d7408726-823f-4298-9776-48d26bdfcbd4"
  ],
  "https://recruiting2.ultipro.com/COL1047COLBA/JobBoard/17b65dc7-8957-462f-bbe5-957d054a4367/?q=&o=postedDateDesc": [
-  "Colorado Rockies::6c606bfa-edad-41e0-9440-f99670a626f3"
+  "Colorado Rockies::6c606bfa-edad-41e0-9440-f99670a626f3",
+  "Colorado Rockies::c02f334a-0394-44e4-8251-9949abc39918"
  ],
  "https://recruiting2.ultipro.com/ANG1000ANGEL/JobBoard/c2c34b69-1480-428d-a3a9-c45e8297edb3/?q=&o=postedDateDesc": [
   "Los Angeles Angels::050591b5-14d8-4952-8c15-6010ce70ea24",
