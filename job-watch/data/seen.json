@@ -29,12 +29,12 @@
   "Intercollegiate::https://intercollegiate.co/job/assoc-director-communications-multiple-sports-baseball-primary-308446",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-of-integrated-behavioral-health-308454",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-student-athlete-academic-support-services-308474",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-academic-advisor-308452",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-ii-308473",
   "Intercollegiate::https://intercollegiate.co/job/athletics-production-coordinator-308462",
   "Intercollegiate::https://intercollegiate.co/job/director-of-premium-seating-35090-308447",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/head-coach-women-s-varsity-flag-football-81648-308466",
   "Intercollegiate::https://intercollegiate.co/job/head-women-s-rugby-coach-308449",
   "Intercollegiate::https://intercollegiate.co/job/ops-strategy-tutor-the-hawkins-center-308445",
@@ -52,8 +52,6 @@
   "TeamWork Online (all sports, newest)::2193502",
   "TeamWork Online (all sports, newest)::2193810",
   "TeamWork Online (all sports, newest)::2194401",
-  "TeamWork Online (all sports, newest)::2194407",
-  "TeamWork Online (all sports, newest)::2194408",
   "TeamWork Online (all sports, newest)::2194409",
   "TeamWork Online (all sports, newest)::2194410",
   "TeamWork Online (all sports, newest)::2194411",
@@ -243,7 +241,9 @@
   "TeamWork Online (all sports, newest)::2194616",
   "TeamWork Online (all sports, newest)::2194617",
   "TeamWork Online (all sports, newest)::2194618",
-  "TeamWork Online (all sports, newest)::2194619"
+  "TeamWork Online (all sports, newest)::2194619",
+  "TeamWork Online (all sports, newest)::2194620",
+  "TeamWork Online (all sports, newest)::2194622"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130243",
@@ -659,7 +659,6 @@
   "Washington Nationals::9f81695c-9256-488b-88e8-2b69e06b0a21",
   "Washington Nationals::a499d27e-cd34-4f33-98e7-268d37c3beb7",
   "Washington Nationals::aa9591a7-0c6a-4644-8678-bec31f9d262e",
-  "Washington Nationals::b24bcf2f-706b-47f6-94d8-cd62c1ed200b",
   "Washington Nationals::b3bf5294-264e-4287-8daf-fc26694a539a",
   "Washington Nationals::cd27001d-fe39-4587-a170-1a157afcfbd6",
   "Washington Nationals::dd34e334-4cd0-4f49-9fc7-97a81929a7da",
@@ -727,7 +726,8 @@
   "Boston Red Sox::bea41374-bd87-4d0e-8ff0-63270ff0a3c2",
   "Boston Red Sox::bfcc82c4-03b9-41e2-9284-32893ed23a2c",
   "Boston Red Sox::c322f97b-5e32-463c-8d82-239b39ccbabf",
-  "Boston Red Sox::c3a29325-5fe6-4613-9799-1c19e80e5f47"
+  "Boston Red Sox::c3a29325-5fe6-4613-9799-1c19e80e5f47",
+  "Boston Red Sox::d82bc9b2-31b6-49a9-8815-fd76d8c8a5d9"
  ],
  "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/?q=&o=postedDateDesc": [
   "Pittsburgh Pirates::0708ad96-3e97-4ea1-99e1-1365ed993226",
@@ -875,6 +875,7 @@
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/AMB-Family-Office/Staff-Accountant_R0029385-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Director--Digital-and-Social-Media---Atlanta-City-FC_R0029399",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Housekeeping-PT--Event-Day-Only-_R0027296",
+  "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Seasonal-Fan-Experience-Associate_R0029404",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer---Part-Time_R0028882-2",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer--PT-_R0028292-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Security-Officer_R0029246-2",
@@ -883,9 +884,7 @@
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Seasonal-Youth-Soccer-Coach--Atlanta-United-FC_R0028856-1",
   "Atlanta Falcons (AMB Sports + Entertainment)::/job/United-Training-Facility/Seasonal-Youth-Soccer-Coach--Atlanta-United-FC_R0029403"
  ],
- "https://recruiting.ultipro.com/HOC10001BFLO/JobBoard/fe63f75a-e850-45d2-8772-63a210927fdc/?q=&o=postedDateDesc": [
-  "Buffalo Bills::228594de-1a11-4919-9f66-103be2f25724"
- ],
+ "https://recruiting.ultipro.com/HOC10001BFLO/JobBoard/fe63f75a-e850-45d2-8772-63a210927fdc/?q=&o=postedDateDesc": [],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0103272e-a631-4293-97b2-7da68f74bc1f&ccId=19000101_000001&type=MP&lang=en_US": [],
  "https://clevelandbrowns.isolvedhire.com/jobs/": [
   "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1742952",
@@ -1310,7 +1309,6 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-associate-director-ii/391/101612672672",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
