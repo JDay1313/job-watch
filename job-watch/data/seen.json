@@ -20,10 +20,10 @@
  ],
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/academic-counselor-student-athlete-academic-services-308532",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-creative-services-308504",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-strategic-communications-308523",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-compliance-and-governance-308525",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/athletics-compliance-director-308500",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-personnel-and-recruiting-assistant-308520",
@@ -50,18 +50,6 @@
   "TeamWork Online (all sports, newest)::2194483",
   "TeamWork Online (all sports, newest)::2194544",
   "TeamWork Online (all sports, newest)::2194769",
-  "TeamWork Online (all sports, newest)::2194794",
-  "TeamWork Online (all sports, newest)::2194795",
-  "TeamWork Online (all sports, newest)::2194796",
-  "TeamWork Online (all sports, newest)::2194797",
-  "TeamWork Online (all sports, newest)::2194798",
-  "TeamWork Online (all sports, newest)::2194800",
-  "TeamWork Online (all sports, newest)::2194801",
-  "TeamWork Online (all sports, newest)::2194802",
-  "TeamWork Online (all sports, newest)::2194803",
-  "TeamWork Online (all sports, newest)::2194804",
-  "TeamWork Online (all sports, newest)::2194805",
-  "TeamWork Online (all sports, newest)::2194806",
   "TeamWork Online (all sports, newest)::2194807",
   "TeamWork Online (all sports, newest)::2194808",
   "TeamWork Online (all sports, newest)::2194809",
@@ -153,8 +141,6 @@
   "TeamWork Online (all sports, newest)::2194906",
   "TeamWork Online (all sports, newest)::2194907",
   "TeamWork Online (all sports, newest)::2194908",
-  "TeamWork Online (all sports, newest)::2194910",
-  "TeamWork Online (all sports, newest)::2194911",
   "TeamWork Online (all sports, newest)::2194912",
   "TeamWork Online (all sports, newest)::2194914",
   "TeamWork Online (all sports, newest)::2194915",
@@ -186,7 +172,6 @@
   "TeamWork Online (all sports, newest)::2194943",
   "TeamWork Online (all sports, newest)::2194944",
   "TeamWork Online (all sports, newest)::2194945",
-  "TeamWork Online (all sports, newest)::2194946",
   "TeamWork Online (all sports, newest)::2194947",
   "TeamWork Online (all sports, newest)::2194948",
   "TeamWork Online (all sports, newest)::2194949",
@@ -243,7 +228,22 @@
   "TeamWork Online (all sports, newest)::2195011",
   "TeamWork Online (all sports, newest)::2195012",
   "TeamWork Online (all sports, newest)::2195013",
-  "TeamWork Online (all sports, newest)::2195014"
+  "TeamWork Online (all sports, newest)::2195014",
+  "TeamWork Online (all sports, newest)::2195015",
+  "TeamWork Online (all sports, newest)::2195016",
+  "TeamWork Online (all sports, newest)::2195017",
+  "TeamWork Online (all sports, newest)::2195018",
+  "TeamWork Online (all sports, newest)::2195019",
+  "TeamWork Online (all sports, newest)::2195020",
+  "TeamWork Online (all sports, newest)::2195021",
+  "TeamWork Online (all sports, newest)::2195022",
+  "TeamWork Online (all sports, newest)::2195023",
+  "TeamWork Online (all sports, newest)::2195024",
+  "TeamWork Online (all sports, newest)::2195025",
+  "TeamWork Online (all sports, newest)::2195026",
+  "TeamWork Online (all sports, newest)::2195027",
+  "TeamWork Online (all sports, newest)::2195028",
+  "TeamWork Online (all sports, newest)::2195029"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -612,7 +612,7 @@
   "Atlanta Braves::/job/Atlanta-GA/Event-Captain_R2107",
   "Atlanta Braves::/job/US-North-Port/Assistant-Minor-League-Physical-Therapist_R2106",
   "Atlanta Braves::/job/US-North-Port/People-Capital-Leader--North-Port--FL-_R2104",
-  "Atlanta Braves::/job/US-Warehouse/Offsite-Retail-Warehouse-Assistant_R1621",
+  "Atlanta Braves::/job/US-Warehouse/Offsite-Retail-Warehouse-Assistant_R2109",
   "Atlanta Braves::/job/US-Warehouse/Offsite-Retail-Warehouse-Keyholder_R1936",
   "Atlanta Braves::/job/US-Warehouse/Retail-Truck-Driver_R2095"
  ],
@@ -917,6 +917,7 @@
   "Las Vegas Raiders::9201243039244_1",
   "Las Vegas Raiders::9201269001314_1",
   "Las Vegas Raiders::9201294025396_1",
+  "Las Vegas Raiders::9201294182680_1",
   "Las Vegas Raiders::9201294239879_1",
   "Las Vegas Raiders::9201294244387_1",
   "Las Vegas Raiders::9201299301086_1",
@@ -1322,7 +1323,8 @@
   "FanDuel::8242267",
   "FanDuel::8249241",
   "FanDuel::8258210",
-  "FanDuel::8282377"
+  "FanDuel::8282377",
+  "FanDuel::8285118"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
@@ -1330,8 +1332,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
