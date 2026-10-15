@@ -20,11 +20,11 @@
  ],
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/academic-counselor-student-athlete-academic-services-308532",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-creative-services-308504",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-strategic-communications-308523",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-compliance-and-governance-308525",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-compliance-director-308500",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-personnel-and-recruiting-assistant-308520",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-quality-control-308521",
@@ -46,17 +46,8 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2184578",
   "TeamWork Online (all sports, newest)::2194466",
-  "TeamWork Online (all sports, newest)::2194478",
-  "TeamWork Online (all sports, newest)::2194483",
   "TeamWork Online (all sports, newest)::2194544",
   "TeamWork Online (all sports, newest)::2194769",
-  "TeamWork Online (all sports, newest)::2194809",
-  "TeamWork Online (all sports, newest)::2194810",
-  "TeamWork Online (all sports, newest)::2194811",
-  "TeamWork Online (all sports, newest)::2194812",
-  "TeamWork Online (all sports, newest)::2194813",
-  "TeamWork Online (all sports, newest)::2194814",
-  "TeamWork Online (all sports, newest)::2194815",
   "TeamWork Online (all sports, newest)::2194816",
   "TeamWork Online (all sports, newest)::2194817",
   "TeamWork Online (all sports, newest)::2194818",
@@ -240,10 +231,19 @@
   "TeamWork Online (all sports, newest)::2195025",
   "TeamWork Online (all sports, newest)::2195026",
   "TeamWork Online (all sports, newest)::2195027",
-  "TeamWork Online (all sports, newest)::2195028",
   "TeamWork Online (all sports, newest)::2195029",
   "TeamWork Online (all sports, newest)::2195030",
-  "TeamWork Online (all sports, newest)::2195031"
+  "TeamWork Online (all sports, newest)::2195031",
+  "TeamWork Online (all sports, newest)::2195032",
+  "TeamWork Online (all sports, newest)::2195033",
+  "TeamWork Online (all sports, newest)::2195034",
+  "TeamWork Online (all sports, newest)::2195036",
+  "TeamWork Online (all sports, newest)::2195037",
+  "TeamWork Online (all sports, newest)::2195038",
+  "TeamWork Online (all sports, newest)::2195039",
+  "TeamWork Online (all sports, newest)::2195040",
+  "TeamWork Online (all sports, newest)::2195041",
+  "TeamWork Online (all sports, newest)::2195042"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -465,7 +465,8 @@
   "NFL League Office::5441072008",
   "NFL League Office::5446043008",
   "NFL League Office::5446095008",
-  "NFL League Office::5450454008"
+  "NFL League Office::5450454008",
+  "NFL League Office::5454741008"
  ],
  "https://nascar.wd1.myworkdayjobs.com/NASCAR": [
   "NASCAR::/job/Avondale-AZ/General-Maintenance--Event-_JR10234",
@@ -1331,8 +1332,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
