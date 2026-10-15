@@ -23,7 +23,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-creative-services-308504",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-strategic-communications-308523",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-compliance-and-governance-308525",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-compliance-director-308500",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-personnel-and-recruiting-assistant-308520",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-quality-control-308521",
@@ -54,11 +54,6 @@
   "TeamWork Online (all sports, newest)::2194483",
   "TeamWork Online (all sports, newest)::2194623",
   "TeamWork Online (all sports, newest)::2194624",
-  "TeamWork Online (all sports, newest)::2194644",
-  "TeamWork Online (all sports, newest)::2194645",
-  "TeamWork Online (all sports, newest)::2194646",
-  "TeamWork Online (all sports, newest)::2194647",
-  "TeamWork Online (all sports, newest)::2194648",
   "TeamWork Online (all sports, newest)::2194649",
   "TeamWork Online (all sports, newest)::2194650",
   "TeamWork Online (all sports, newest)::2194651",
@@ -243,7 +238,12 @@
   "TeamWork Online (all sports, newest)::2194849",
   "TeamWork Online (all sports, newest)::2194850",
   "TeamWork Online (all sports, newest)::2194851",
-  "TeamWork Online (all sports, newest)::2194852"
+  "TeamWork Online (all sports, newest)::2194852",
+  "TeamWork Online (all sports, newest)::2194853",
+  "TeamWork Online (all sports, newest)::2194855",
+  "TeamWork Online (all sports, newest)::2194856",
+  "TeamWork Online (all sports, newest)::2194857",
+  "TeamWork Online (all sports, newest)::2194858"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2084217",
@@ -458,6 +458,7 @@
   "NFL League Office::5429057008",
   "NFL League Office::5430310008",
   "NFL League Office::5439717008",
+  "NFL League Office::5439757008",
   "NFL League Office::5441072008",
   "NFL League Office::5446043008",
   "NFL League Office::5446095008",
@@ -745,6 +746,7 @@
   "Pittsburgh Pirates::f3cae72f-c3f7-445e-bdde-9d9ac7d42b44"
  ],
  "https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO": [
+  "Chicago Cubs::/job/Chicago-Illinois/Fan-Engagement-Manager_R001451",
   "Chicago Cubs::/job/Mesa-Arizona/Associate--Baseball-Technology_R001447"
  ],
  "https://stlcardinals.aaimtrack.com/jobs/": [
@@ -1159,7 +1161,6 @@
  "https://draftkings.wd1.myworkdayjobs.com/DraftKings": [
   "DraftKings::/job/Boston-MA/Analyst-II--Casino-Analytics_JR14842-2",
   "DraftKings::/job/Boston-MA/Director--HR-Business-Partnership_JR14600-1",
-  "DraftKings::/job/Boston-MA/Director--Leadership-Effectiveness_JR14689-1",
   "DraftKings::/job/Boston-MA/Growth-Marketing-Specialist--Influencer-Partnerships_JR14909-3",
   "DraftKings::/job/Boston-MA/Lead-Site-Reliability-Engineer_JR14727-1",
   "DraftKings::/job/Boston-MA/Manager--Content---Employer-Brand_JR15216-1",
