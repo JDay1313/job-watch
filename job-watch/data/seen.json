@@ -29,12 +29,12 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-of-integrated-behavioral-health-308454",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-student-athlete-academic-support-services-308474",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-academic-advisor-308452",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-ii-308473",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-production-coordinator-308462",
   "Intercollegiate::https://intercollegiate.co/job/director-of-premium-seating-35090-308447",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/head-coach-women-s-varsity-flag-football-81648-308466",
   "Intercollegiate::https://intercollegiate.co/job/head-women-s-rugby-coach-308449",
   "Intercollegiate::https://intercollegiate.co/job/ops-strategy-tutor-the-hawkins-center-308445",
@@ -52,7 +52,6 @@
   "TeamWork Online (all sports, newest)::2194481",
   "TeamWork Online (all sports, newest)::2194483",
   "TeamWork Online (all sports, newest)::2194578",
-  "TeamWork Online (all sports, newest)::2194610",
   "TeamWork Online (all sports, newest)::2194611",
   "TeamWork Online (all sports, newest)::2194612",
   "TeamWork Online (all sports, newest)::2194613",
@@ -243,10 +242,10 @@
   "TeamWork Online (all sports, newest)::2194817",
   "TeamWork Online (all sports, newest)::2194818",
   "TeamWork Online (all sports, newest)::2194819",
-  "TeamWork Online (all sports, newest)::2194820"
+  "TeamWork Online (all sports, newest)::2194820",
+  "TeamWork Online (all sports, newest)::2194821"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2116280",
   "TeamWork Online (NFL teams)::2125879",
   "TeamWork Online (NFL teams)::2128896",
   "TeamWork Online (NFL teams)::2130243",
@@ -389,7 +388,8 @@
   "TeamWork Online (NFL teams)::2194366",
   "TeamWork Online (NFL teams)::2194379",
   "TeamWork Online (NFL teams)::2194382",
-  "TeamWork Online (NFL teams)::2194401"
+  "TeamWork Online (NFL teams)::2194401",
+  "TeamWork Online (NFL teams)::2194821"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
