@@ -19,20 +19,20 @@
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
+  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-spirit-squad-308547",
   "Intercollegiate::https://intercollegiate.co/job/assistant-cheer-coach-81520-308561",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-81676-308562",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-and-women-s-swimming-308568",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-conditioning-coach-308546",
   "Intercollegiate::https://intercollegiate.co/job/associate-manager-athletics-annual-giving-308551",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-academic-advisor-i-308567",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-special-advisor-to-uh-athletics-308550",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308559",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-services-308574",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-golf-308557",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-development-308563",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/human-resources-business-partner-hrbp-308555",
   "Intercollegiate::https://intercollegiate.co/job/mental-health-clinician-308558",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletics-director-business-financial-strategy-308564",
@@ -48,7 +48,6 @@
   "TeamWork Online (all sports, newest)::2194466",
   "TeamWork Online (all sports, newest)::2194544",
   "TeamWork Online (all sports, newest)::2194769",
-  "TeamWork Online (all sports, newest)::2194824",
   "TeamWork Online (all sports, newest)::2194825",
   "TeamWork Online (all sports, newest)::2194826",
   "TeamWork Online (all sports, newest)::2194827",
@@ -243,7 +242,8 @@
   "TeamWork Online (all sports, newest)::2195047",
   "TeamWork Online (all sports, newest)::2195048",
   "TeamWork Online (all sports, newest)::2195051",
-  "TeamWork Online (all sports, newest)::2195052"
+  "TeamWork Online (all sports, newest)::2195052",
+  "TeamWork Online (all sports, newest)::2195053"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -591,6 +591,7 @@
   "IndyCar::3d2a6a74-9945-487b-85dc-cb97196709c7",
   "IndyCar::4506f695-f2bd-440b-a560-ae3cd48cd11a",
   "IndyCar::49f36234-410a-428d-9959-bee6dd19f25d",
+  "IndyCar::7176bd68-f1b5-4029-98bf-2d0dcd2a590b",
   "IndyCar::842a5890-5cc7-488c-8539-6754f12cc555",
   "IndyCar::93aeec61-61e7-478f-9fd2-eabd9d41a949",
   "IndyCar::93ca84be-76cb-4dea-b132-e124db09a61f",
