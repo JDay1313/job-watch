@@ -22,15 +22,15 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-81676-308562",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-and-women-s-swimming-308568",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-conditioning-coach-308546",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/associate-manager-athletics-annual-giving-308551",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-academic-advisor-i-308567",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-special-advisor-to-uh-athletics-308550",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308559",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-services-308574",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-golf-308557",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-development-308563",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/human-resources-business-partner-hrbp-308555",
   "Intercollegiate::https://intercollegiate.co/job/mental-health-clinician-308558",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletics-director-business-financial-strategy-308564",
@@ -42,13 +42,7 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2195004",
-  "TeamWork Online (all sports, newest)::2195005",
-  "TeamWork Online (all sports, newest)::2195006",
-  "TeamWork Online (all sports, newest)::2195007",
-  "TeamWork Online (all sports, newest)::2195008",
   "TeamWork Online (all sports, newest)::2195009",
-  "TeamWork Online (all sports, newest)::2195010",
   "TeamWork Online (all sports, newest)::2195011",
   "TeamWork Online (all sports, newest)::2195012",
   "TeamWork Online (all sports, newest)::2195013",
@@ -241,7 +235,13 @@
   "TeamWork Online (all sports, newest)::2195214",
   "TeamWork Online (all sports, newest)::2195215",
   "TeamWork Online (all sports, newest)::2195216",
-  "TeamWork Online (all sports, newest)::2195217"
+  "TeamWork Online (all sports, newest)::2195217",
+  "TeamWork Online (all sports, newest)::2195218",
+  "TeamWork Online (all sports, newest)::2195220",
+  "TeamWork Online (all sports, newest)::2195222",
+  "TeamWork Online (all sports, newest)::2195223",
+  "TeamWork Online (all sports, newest)::2195224",
+  "TeamWork Online (all sports, newest)::2195225"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2107214",
@@ -860,13 +860,12 @@
   "Athletics (Baseball Ops)::8820906002"
  ],
  "https://mariners.wd5.myworkdayjobs.com/en-US/Mariners": [
+  "Seattle Mariners::",
   "Seattle Mariners::/job/Peoria-Arizona/Affiliate-Pitching-Coach_REQ2026-000036",
   "Seattle Mariners::/job/Peoria-Arizona/Intern--Minor-League-Development_REQ2026-000031",
   "Seattle Mariners::/job/Peoria-Arizona/Major-League-Assistant-Strength---Conditioning-Coach_REQ2026-000040",
   "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Rehab-Strength---Conditioning-Coach_REQ2026-000039",
-  "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Strength---Conditioning-Coordinator_REQ2026-000038",
-  "Seattle Mariners::/job/Remote---United-States/Professional-Scout_REQ2026-000034",
-  "Seattle Mariners::/job/Remote---United-States/Professional-Scout_REQ2026-000035"
+  "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Strength---Conditioning-Coordinator_REQ2026-000038"
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d4e6b608-831f-4a04-bdb6-f61493552d27&ccId=19000101_000001&lang=en_US": [],
  "greenhouse:philadelphiaeagles": [
