@@ -24,15 +24,15 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-81676-308562",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-and-women-s-swimming-308568",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-conditioning-coach-308546",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
   "Intercollegiate::https://intercollegiate.co/job/associate-manager-athletics-annual-giving-308551",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-academic-advisor-i-308567",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-special-advisor-to-uh-athletics-308550",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308559",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-services-308574",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-golf-308557",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-development-308563",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/human-resources-business-partner-hrbp-308555",
   "Intercollegiate::https://intercollegiate.co/job/mental-health-clinician-308558",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletics-director-business-financial-strategy-308564",
@@ -45,17 +45,7 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2184578",
-  "TeamWork Online (all sports, newest)::2194466",
   "TeamWork Online (all sports, newest)::2194544",
-  "TeamWork Online (all sports, newest)::2194831",
-  "TeamWork Online (all sports, newest)::2194832",
-  "TeamWork Online (all sports, newest)::2194833",
-  "TeamWork Online (all sports, newest)::2194834",
-  "TeamWork Online (all sports, newest)::2194835",
-  "TeamWork Online (all sports, newest)::2194836",
-  "TeamWork Online (all sports, newest)::2194837",
-  "TeamWork Online (all sports, newest)::2194838",
-  "TeamWork Online (all sports, newest)::2194839",
   "TeamWork Online (all sports, newest)::2194840",
   "TeamWork Online (all sports, newest)::2194841",
   "TeamWork Online (all sports, newest)::2194842",
@@ -243,7 +233,17 @@
   "TeamWork Online (all sports, newest)::2195057",
   "TeamWork Online (all sports, newest)::2195058",
   "TeamWork Online (all sports, newest)::2195059",
-  "TeamWork Online (all sports, newest)::2195060"
+  "TeamWork Online (all sports, newest)::2195060",
+  "TeamWork Online (all sports, newest)::2195061",
+  "TeamWork Online (all sports, newest)::2195062",
+  "TeamWork Online (all sports, newest)::2195063",
+  "TeamWork Online (all sports, newest)::2195064",
+  "TeamWork Online (all sports, newest)::2195065",
+  "TeamWork Online (all sports, newest)::2195066",
+  "TeamWork Online (all sports, newest)::2195067",
+  "TeamWork Online (all sports, newest)::2195068",
+  "TeamWork Online (all sports, newest)::2195069",
+  "TeamWork Online (all sports, newest)::2195070"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -299,7 +299,6 @@
   "TeamWork Online (NFL teams)::2185336",
   "TeamWork Online (NFL teams)::2185691",
   "TeamWork Online (NFL teams)::2185692",
-  "TeamWork Online (NFL teams)::2186089",
   "TeamWork Online (NFL teams)::2187325",
   "TeamWork Online (NFL teams)::2187506",
   "TeamWork Online (NFL teams)::2187823",
@@ -389,7 +388,8 @@
   "TeamWork Online (NFL teams)::2194891",
   "TeamWork Online (NFL teams)::2194920",
   "TeamWork Online (NFL teams)::2194924",
-  "TeamWork Online (NFL teams)::2194963"
+  "TeamWork Online (NFL teams)::2194963",
+  "TeamWork Online (NFL teams)::2195064"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -710,7 +710,8 @@
   "Toronto Blue Jays::383",
   "Toronto Blue Jays::384",
   "Toronto Blue Jays::385",
-  "Toronto Blue Jays::386"
+  "Toronto Blue Jays::386",
+  "Toronto Blue Jays::387"
  ],
  "greenhouse:baltimoreorioles": [
   "Baltimore Orioles::5993678004",
@@ -719,7 +720,8 @@
   "Baltimore Orioles::6174750004",
   "Baltimore Orioles::6174979004",
   "Baltimore Orioles::6205209004",
-  "Baltimore Orioles::6205406004"
+  "Baltimore Orioles::6205406004",
+  "Baltimore Orioles::6226582004"
  ],
  "lever:redsox": [
   "Boston Red Sox::0104b0a3-e57d-406d-9d81-9e4fab7298ea",
@@ -740,6 +742,7 @@
   "Pittsburgh Pirates::5df61bf7-6829-4d1d-92a2-57786ea43a87",
   "Pittsburgh Pirates::7a4c07dc-1cad-4fdd-97fe-4d6807ef521e",
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d",
+  "Pittsburgh Pirates::83fa5ef0-62c6-43e4-8f52-d8cf64d02285",
   "Pittsburgh Pirates::989c33e9-a098-4279-a074-0e9bdebed5fa",
   "Pittsburgh Pirates::c67d0b97-1252-4b2e-8e84-d6940d01b7b1",
   "Pittsburgh Pirates::d79ebd2f-2288-480f-8b95-6254df81b763"
@@ -995,7 +998,6 @@
   "New England Patriots (Kraft Group)::571619",
   "New England Patriots (Kraft Group)::571666",
   "New England Patriots (Kraft Group)::571898",
-  "New England Patriots (Kraft Group)::571943",
   "New England Patriots (Kraft Group)::571957",
   "New England Patriots (Kraft Group)::571972",
   "New England Patriots (Kraft Group)::571986",
@@ -1326,8 +1328,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
