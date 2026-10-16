@@ -45,8 +45,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2184578",
   "TeamWork Online (all sports, newest)::2194544",
-  "TeamWork Online (all sports, newest)::2194852",
-  "TeamWork Online (all sports, newest)::2194853",
   "TeamWork Online (all sports, newest)::2194855",
   "TeamWork Online (all sports, newest)::2194856",
   "TeamWork Online (all sports, newest)::2194857",
@@ -242,7 +240,9 @@
   "TeamWork Online (all sports, newest)::2195082",
   "TeamWork Online (all sports, newest)::2195084",
   "TeamWork Online (all sports, newest)::2195086",
-  "TeamWork Online (all sports, newest)::2195087"
+  "TeamWork Online (all sports, newest)::2195087",
+  "TeamWork Online (all sports, newest)::2195088",
+  "TeamWork Online (all sports, newest)::2195089"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -293,7 +293,6 @@
   "TeamWork Online (NFL teams)::2184701",
   "TeamWork Online (NFL teams)::2184979",
   "TeamWork Online (NFL teams)::2185079",
-  "TeamWork Online (NFL teams)::2185080",
   "TeamWork Online (NFL teams)::2185133",
   "TeamWork Online (NFL teams)::2185336",
   "TeamWork Online (NFL teams)::2185691",
@@ -741,6 +740,7 @@
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d",
   "Pittsburgh Pirates::83fa5ef0-62c6-43e4-8f52-d8cf64d02285",
   "Pittsburgh Pirates::989c33e9-a098-4279-a074-0e9bdebed5fa",
+  "Pittsburgh Pirates::c60de3d3-fddf-4a24-bab3-357250d36c0a",
   "Pittsburgh Pirates::c67d0b97-1252-4b2e-8e84-d6940d01b7b1",
   "Pittsburgh Pirates::d79ebd2f-2288-480f-8b95-6254df81b763"
  ],
@@ -775,7 +775,8 @@
  "https://recruiting2.ultipro.com/CHI1000CWS/JobBoard/8e2339b4-b699-46e9-8b91-e3e826e53794/?q=&o=postedDateDesc": [
   "Chicago White Sox::870f7476-e8da-4c43-8f6e-bbe165cd5898",
   "Chicago White Sox::997d0adf-9e33-4392-b2ec-ca286b0b8929",
-  "Chicago White Sox::ad2297ca-30db-40cd-87b0-8b5b8047de29"
+  "Chicago White Sox::ad2297ca-30db-40cd-87b0-8b5b8047de29",
+  "Chicago White Sox::d733c927-7252-4996-99fa-fec7d444bf26"
  ],
  "https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/?q=&o=postedDateDesc": [
   "Los Angeles Dodgers::20423a68-4102-4a60-929a-d562b37746ca",
@@ -1328,8 +1329,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
