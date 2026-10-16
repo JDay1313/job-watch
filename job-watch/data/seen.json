@@ -19,20 +19,20 @@
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-spirit-squad-308547",
   "Intercollegiate::https://intercollegiate.co/job/assistant-cheer-coach-81520-308561",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-81676-308562",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-and-women-s-swimming-308568",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-conditioning-coach-308546",
   "Intercollegiate::https://intercollegiate.co/job/associate-manager-athletics-annual-giving-308551",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-academic-advisor-i-308567",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-special-advisor-to-uh-athletics-308550",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308559",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-services-308574",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-golf-308557",
   "Intercollegiate::https://intercollegiate.co/job/director-of-player-development-308563",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/human-resources-business-partner-hrbp-308555",
   "Intercollegiate::https://intercollegiate.co/job/mental-health-clinician-308558",
   "Intercollegiate::https://intercollegiate.co/job/senior-associate-athletics-director-business-financial-strategy-308564",
@@ -47,9 +47,7 @@
   "TeamWork Online (all sports, newest)::2184578",
   "TeamWork Online (all sports, newest)::2194466",
   "TeamWork Online (all sports, newest)::2194544",
-  "TeamWork Online (all sports, newest)::2194769",
   "TeamWork Online (all sports, newest)::2194825",
-  "TeamWork Online (all sports, newest)::2194826",
   "TeamWork Online (all sports, newest)::2194827",
   "TeamWork Online (all sports, newest)::2194828",
   "TeamWork Online (all sports, newest)::2194830",
@@ -243,7 +241,9 @@
   "TeamWork Online (all sports, newest)::2195048",
   "TeamWork Online (all sports, newest)::2195051",
   "TeamWork Online (all sports, newest)::2195052",
-  "TeamWork Online (all sports, newest)::2195053"
+  "TeamWork Online (all sports, newest)::2195053",
+  "TeamWork Online (all sports, newest)::2195054",
+  "TeamWork Online (all sports, newest)::2195055"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -707,7 +707,6 @@
   "Toronto Blue Jays::376",
   "Toronto Blue Jays::378",
   "Toronto Blue Jays::379",
-  "Toronto Blue Jays::382",
   "Toronto Blue Jays::383",
   "Toronto Blue Jays::384",
   "Toronto Blue Jays::385",
@@ -743,8 +742,7 @@
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d",
   "Pittsburgh Pirates::989c33e9-a098-4279-a074-0e9bdebed5fa",
   "Pittsburgh Pirates::c67d0b97-1252-4b2e-8e84-d6940d01b7b1",
-  "Pittsburgh Pirates::d79ebd2f-2288-480f-8b95-6254df81b763",
-  "Pittsburgh Pirates::f3cae72f-c3f7-445e-bdde-9d9ac7d42b44"
+  "Pittsburgh Pirates::d79ebd2f-2288-480f-8b95-6254df81b763"
  ],
  "https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO": [
   "Chicago Cubs::/job/Chicago-Illinois/Fan-Engagement-Manager_R001451",
