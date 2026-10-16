@@ -12,14 +12,12 @@
   "Teamworks::97d78d6f-15dd-444a-b313-b629a8c4bdf0",
   "Teamworks::cfc2044f-4d86-4ae2-aa45-86e16ab5936c",
   "Teamworks::d06155a1-8eac-46f5-b13c-f5291762f465",
-  "Teamworks::dae5437e-6c81-487f-8684-74b66c4a3f98",
   "Teamworks::e07cdd09-6ad9-47c2-9322-3766405c3473",
   "Teamworks::ebd874bf-521c-4059-9563-af919281a037",
   "Teamworks::f20a9c91-bc74-40d3-a6b9-b0836d0141f1",
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-spirit-squad-308547",
   "Intercollegiate::https://intercollegiate.co/job/assistant-cheer-coach-81520-308561",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-81676-308562",
@@ -27,6 +25,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-conditioning-coach-308546",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
   "Intercollegiate::https://intercollegiate.co/job/associate-manager-athletics-annual-giving-308551",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-academic-advisor-i-308567",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-special-advisor-to-uh-athletics-308550",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308559",
@@ -186,7 +185,6 @@
   "TeamWork Online (all sports, newest)::2195019",
   "TeamWork Online (all sports, newest)::2195020",
   "TeamWork Online (all sports, newest)::2195021",
-  "TeamWork Online (all sports, newest)::2195022",
   "TeamWork Online (all sports, newest)::2195023",
   "TeamWork Online (all sports, newest)::2195024",
   "TeamWork Online (all sports, newest)::2195025",
@@ -203,7 +201,6 @@
   "TeamWork Online (all sports, newest)::2195038",
   "TeamWork Online (all sports, newest)::2195039",
   "TeamWork Online (all sports, newest)::2195040",
-  "TeamWork Online (all sports, newest)::2195041",
   "TeamWork Online (all sports, newest)::2195042",
   "TeamWork Online (all sports, newest)::2195043",
   "TeamWork Online (all sports, newest)::2195044",
@@ -243,7 +240,9 @@
   "TeamWork Online (all sports, newest)::2195080",
   "TeamWork Online (all sports, newest)::2195081",
   "TeamWork Online (all sports, newest)::2195082",
-  "TeamWork Online (all sports, newest)::2195086"
+  "TeamWork Online (all sports, newest)::2195084",
+  "TeamWork Online (all sports, newest)::2195086",
+  "TeamWork Online (all sports, newest)::2195087"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -807,7 +806,8 @@
  ],
  "https://recruiting2.ultipro.com/COL1047COLBA/JobBoard/17b65dc7-8957-462f-bbe5-957d054a4367/?q=&o=postedDateDesc": [
   "Colorado Rockies::6c606bfa-edad-41e0-9440-f99670a626f3",
-  "Colorado Rockies::c02f334a-0394-44e4-8251-9949abc39918"
+  "Colorado Rockies::c02f334a-0394-44e4-8251-9949abc39918",
+  "Colorado Rockies::e8572e5e-117d-4aea-bbd0-7ed980512a3d"
  ],
  "https://recruiting2.ultipro.com/ANG1000ANGEL/JobBoard/c2c34b69-1480-428d-a3a9-c45e8297edb3/?q=&o=postedDateDesc": [
   "Los Angeles Angels::050591b5-14d8-4952-8c15-6010ce70ea24",
@@ -1132,7 +1132,8 @@
   "PrizePicks::8008655003",
   "PrizePicks::8013321003",
   "PrizePicks::8015092003",
-  "PrizePicks::8031331003"
+  "PrizePicks::8031331003",
+  "PrizePicks::8033668003"
  ],
  "greenhouse:underdog": [
   "Underdog::4715995005",
