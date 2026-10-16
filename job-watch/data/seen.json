@@ -23,13 +23,13 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-creative-services-308504",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-strategic-communications-308523",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-compliance-and-governance-308525",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletics-compliance-director-308500",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-personnel-and-recruiting-assistant-308520",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-quality-control-308521",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-football-recruiting-coordinator-308522",
   "Intercollegiate::https://intercollegiate.co/job/computer-support-analyst-2-308533",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "Intercollegiate::https://intercollegiate.co/job/director-women-s-basketball-operations-308494",
   "Intercollegiate::https://intercollegiate.co/job/executive-associate-athletics-director-for-sport-administration-308497",
   "Intercollegiate::https://intercollegiate.co/job/facilities-and-operations-coordinator-308498",
@@ -246,6 +246,8 @@
   "TeamWork Online (all sports, newest)::2195048"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
+  "TeamWork Online (NFL teams)::2116280",
+  "TeamWork Online (NFL teams)::2125879",
   "TeamWork Online (NFL teams)::2128896",
   "TeamWork Online (NFL teams)::2130243",
   "TeamWork Online (NFL teams)::2130541",
@@ -348,8 +350,6 @@
   "TeamWork Online (NFL teams)::2192529",
   "TeamWork Online (NFL teams)::2192530",
   "TeamWork Online (NFL teams)::2192586",
-  "TeamWork Online (NFL teams)::2192683",
-  "TeamWork Online (NFL teams)::2192687",
   "TeamWork Online (NFL teams)::2192693",
   "TeamWork Online (NFL teams)::2192738",
   "TeamWork Online (NFL teams)::2192739",
@@ -677,12 +677,7 @@
   "Washington Nationals::f70043a2-5880-4685-bb60-39a6cbb8e228"
  ],
  "https://www.teamworkonline.com/baseball-jobs/miamibaseball/miami-marlins": [
-  "Miami Marlins::2177546",
-  "Miami Marlins::2177549",
   "Miami Marlins::2184852",
-  "Miami Marlins::2185347",
-  "Miami Marlins::2185961",
-  "Miami Marlins::2185968",
   "Miami Marlins::2188659",
   "Miami Marlins::2189376",
   "Miami Marlins::2190754",
@@ -1332,8 +1327,7 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736"
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/espn-production-intern-charlotte-spring-2027/391/101868302256"
  ],
  "https://daiwa.us/pages/careers-page": [
   "Daiwa::change-dc0386af3a6f"
