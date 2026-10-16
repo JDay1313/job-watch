@@ -17,15 +17,15 @@
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-spirit-squad-308547",
   "Intercollegiate::https://intercollegiate.co/job/assistant-cheer-coach-81520-308561",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-cross-country-track-field-81676-308562",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-and-women-s-swimming-308568",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-conditioning-coach-308546",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
   "Intercollegiate::https://intercollegiate.co/job/associate-manager-athletics-annual-giving-308551",
   "Intercollegiate::https://intercollegiate.co/job/athletics-academic-advisor-i-308567",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-special-advisor-to-uh-athletics-308550",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308559",
   "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-services-308574",
@@ -44,16 +44,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2184578",
   "TeamWork Online (all sports, newest)::2194544",
-  "TeamWork Online (all sports, newest)::2194868",
-  "TeamWork Online (all sports, newest)::2194869",
-  "TeamWork Online (all sports, newest)::2194870",
-  "TeamWork Online (all sports, newest)::2194871",
-  "TeamWork Online (all sports, newest)::2194872",
-  "TeamWork Online (all sports, newest)::2194873",
-  "TeamWork Online (all sports, newest)::2194874",
-  "TeamWork Online (all sports, newest)::2194875",
-  "TeamWork Online (all sports, newest)::2194876",
-  "TeamWork Online (all sports, newest)::2194877",
   "TeamWork Online (all sports, newest)::2194879",
   "TeamWork Online (all sports, newest)::2194880",
   "TeamWork Online (all sports, newest)::2194881",
@@ -230,6 +220,7 @@
   "TeamWork Online (all sports, newest)::2195081",
   "TeamWork Online (all sports, newest)::2195082",
   "TeamWork Online (all sports, newest)::2195084",
+  "TeamWork Online (all sports, newest)::2195085",
   "TeamWork Online (all sports, newest)::2195086",
   "TeamWork Online (all sports, newest)::2195087",
   "TeamWork Online (all sports, newest)::2195088",
@@ -241,7 +232,16 @@
   "TeamWork Online (all sports, newest)::2195094",
   "TeamWork Online (all sports, newest)::2195095",
   "TeamWork Online (all sports, newest)::2195096",
-  "TeamWork Online (all sports, newest)::2195098"
+  "TeamWork Online (all sports, newest)::2195097",
+  "TeamWork Online (all sports, newest)::2195098",
+  "TeamWork Online (all sports, newest)::2195100",
+  "TeamWork Online (all sports, newest)::2195101",
+  "TeamWork Online (all sports, newest)::2195102",
+  "TeamWork Online (all sports, newest)::2195103",
+  "TeamWork Online (all sports, newest)::2195104",
+  "TeamWork Online (all sports, newest)::2195105",
+  "TeamWork Online (all sports, newest)::2195106",
+  "TeamWork Online (all sports, newest)::2195107"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2107214",
@@ -686,7 +686,9 @@
   "Miami Marlins::2193465",
   "Miami Marlins::2194146",
   "Miami Marlins::2194780",
-  "Miami Marlins::2194788"
+  "Miami Marlins::2194788",
+  "Miami Marlins::2195103",
+  "Miami Marlins::2195106"
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?source=TeamWork&client=nyyanks&ccId=19000101_000001&cid=5ebae4fe-1105-47a5-b26d-e74868af6e86&lang=en_US&selectedMenuKey=CareerCenter": [
   "New York Yankees::9201864727913_1",
@@ -738,6 +740,7 @@
   "Pittsburgh Pirates::5df61bf7-6829-4d1d-92a2-57786ea43a87",
   "Pittsburgh Pirates::7a4c07dc-1cad-4fdd-97fe-4d6807ef521e",
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d",
+  "Pittsburgh Pirates::82a8a552-5b02-4c75-8c07-40d7dd440903",
   "Pittsburgh Pirates::83fa5ef0-62c6-43e4-8f52-d8cf64d02285",
   "Pittsburgh Pirates::989c33e9-a098-4279-a074-0e9bdebed5fa",
   "Pittsburgh Pirates::c60de3d3-fddf-4a24-bab3-357250d36c0a",
@@ -1361,7 +1364,6 @@
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c662cbb4070162d48197a73653": [],
  "rss:None": [
-  "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-cleveland-guardians-data-scientist-2/",
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-cleveland-guardinas-2027-baseball-technology-fellowship/",
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-kansas-city-royals-multiple-openings-3/",
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-milwaukee-brewers-multiple-internships/",
@@ -1370,7 +1372,8 @@
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-new-york-mets-multiple-openings-4/",
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-new-york-mets-software-engineer-baseball-systems-2/",
   "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-pittsburgh-pirates-analyst-baseball-strategy/",
-  "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-st-louis-cardinals-multiple-openings-4/"
+  "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-st-louis-cardinals-multiple-openings-4/",
+  "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-tampa-bay-rays-amateur-data-technician/"
  ],
  "https://careers-brewers.icims.com/jobs/search#backup": [],
  "https://jobs.dayforcehcm.com/jonesentities/DALLASCOWBOYSFOOTBALLCLUB#backup": [
