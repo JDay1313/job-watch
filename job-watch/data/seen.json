@@ -42,11 +42,6 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2195046",
-  "TeamWork Online (all sports, newest)::2195047",
-  "TeamWork Online (all sports, newest)::2195048",
-  "TeamWork Online (all sports, newest)::2195051",
-  "TeamWork Online (all sports, newest)::2195052",
   "TeamWork Online (all sports, newest)::2195053",
   "TeamWork Online (all sports, newest)::2195054",
   "TeamWork Online (all sports, newest)::2195055",
@@ -241,7 +236,12 @@
   "TeamWork Online (all sports, newest)::2195257",
   "TeamWork Online (all sports, newest)::2195258",
   "TeamWork Online (all sports, newest)::2195259",
-  "TeamWork Online (all sports, newest)::2195260"
+  "TeamWork Online (all sports, newest)::2195260",
+  "TeamWork Online (all sports, newest)::2195261",
+  "TeamWork Online (all sports, newest)::2195262",
+  "TeamWork Online (all sports, newest)::2195263",
+  "TeamWork Online (all sports, newest)::2195264",
+  "TeamWork Online (all sports, newest)::2195265"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2107214",
@@ -1248,7 +1248,6 @@
   "FanDuel::7669199",
   "FanDuel::7669223",
   "FanDuel::7815507",
-  "FanDuel::7822631",
   "FanDuel::7826293",
   "FanDuel::7847466",
   "FanDuel::7918640",
