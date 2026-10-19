@@ -27,11 +27,11 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-wrestling-coach-308616",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-308610",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-financial-reporting-specialist-308618",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308609",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308611",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308620",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/director-for-athletic-communications-308615",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-wrestling-308619",
   "Intercollegiate::https://intercollegiate.co/job/event-management-coordinator-308617",
@@ -52,19 +52,6 @@
   "TeamWork Online (all sports, newest)::2195003",
   "TeamWork Online (all sports, newest)::2195141",
   "TeamWork Online (all sports, newest)::2195155",
-  "TeamWork Online (all sports, newest)::2195205",
-  "TeamWork Online (all sports, newest)::2195206",
-  "TeamWork Online (all sports, newest)::2195207",
-  "TeamWork Online (all sports, newest)::2195208",
-  "TeamWork Online (all sports, newest)::2195209",
-  "TeamWork Online (all sports, newest)::2195210",
-  "TeamWork Online (all sports, newest)::2195211",
-  "TeamWork Online (all sports, newest)::2195212",
-  "TeamWork Online (all sports, newest)::2195213",
-  "TeamWork Online (all sports, newest)::2195214",
-  "TeamWork Online (all sports, newest)::2195215",
-  "TeamWork Online (all sports, newest)::2195216",
-  "TeamWork Online (all sports, newest)::2195217",
   "TeamWork Online (all sports, newest)::2195218",
   "TeamWork Online (all sports, newest)::2195219",
   "TeamWork Online (all sports, newest)::2195220",
@@ -242,7 +229,20 @@
   "TeamWork Online (all sports, newest)::2195411",
   "TeamWork Online (all sports, newest)::2195412",
   "TeamWork Online (all sports, newest)::2195413",
-  "TeamWork Online (all sports, newest)::2195415"
+  "TeamWork Online (all sports, newest)::2195415",
+  "TeamWork Online (all sports, newest)::2195416",
+  "TeamWork Online (all sports, newest)::2195417",
+  "TeamWork Online (all sports, newest)::2195418",
+  "TeamWork Online (all sports, newest)::2195419",
+  "TeamWork Online (all sports, newest)::2195420",
+  "TeamWork Online (all sports, newest)::2195421",
+  "TeamWork Online (all sports, newest)::2195422",
+  "TeamWork Online (all sports, newest)::2195423",
+  "TeamWork Online (all sports, newest)::2195424",
+  "TeamWork Online (all sports, newest)::2195425",
+  "TeamWork Online (all sports, newest)::2195426",
+  "TeamWork Online (all sports, newest)::2195427",
+  "TeamWork Online (all sports, newest)::2195428"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -1002,7 +1002,9 @@
   "New England Patriots (Kraft Group)::572061",
   "New England Patriots (Kraft Group)::572944",
   "New England Patriots (Kraft Group)::573029",
-  "New England Patriots (Kraft Group)::573071"
+  "New England Patriots (Kraft Group)::573071",
+  "New England Patriots (Kraft Group)::573668",
+  "New England Patriots (Kraft Group)::573683"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1204,7 +1206,6 @@
   "DraftKings::/job/Remote---Canada/Manager--Integrated-Marketing_JR15083-2",
   "DraftKings::/job/Remote---Canada/Senior-Data-Engineer_JR14471-1",
   "DraftKings::/job/Remote---Canada/Senior-Software-Engineer_JR14944-1",
-  "DraftKings::/job/Remote---US/Associate--Regulation_JR14934-1",
   "DraftKings::/job/Remote---US/Associate-Corporate-Counsel--General-Litigation_JR14986-1",
   "DraftKings::/job/Remote---US/Community-Associate_JR13987",
   "DraftKings::/job/Remote---US/Corporate-Counsel--General-Litigation_JR15018-1",
@@ -1319,6 +1320,7 @@
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-video-producer-i/391/102036586960",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/espn-post-edit-intern-bristol-spring-2027/391/102174805392",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-espn-next/391/101946665136",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
@@ -1354,7 +1356,8 @@
   "Minnesota Twins::8a78879ea0f4259701a11cc72814017a",
   "Minnesota Twins::8a78879ea0f4259701a11cffeb68170b",
   "Minnesota Twins::8a7887a1a150293901a1549812003f6b",
-  "Minnesota Twins::8a7887a1a150293901a155060fd10073"
+  "Minnesota Twins::8a7887a1a150293901a155060fd10073",
+  "Minnesota Twins::8a7887a1a150293901a155bb199b66af"
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c662cbb4070162d48197a73653": [],
  "rss:None": [
