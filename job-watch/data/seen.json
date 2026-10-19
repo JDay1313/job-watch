@@ -26,11 +26,11 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-sports-dietitian-308605",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-wrestling-coach-308616",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-308610",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
   "Intercollegiate::https://intercollegiate.co/job/athletic-financial-reporting-specialist-308618",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308609",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308611",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308620",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/director-for-athletic-communications-308615",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-wrestling-308619",
   "Intercollegiate::https://intercollegiate.co/job/event-management-coordinator-308617",
@@ -1100,7 +1100,8 @@
   "Sportradar::744000155671259",
   "Sportradar::744000155746839",
   "Sportradar::744000155753385",
-  "Sportradar::744000155918309"
+  "Sportradar::744000155918309",
+  "Sportradar::744000156284529"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
