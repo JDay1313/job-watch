@@ -19,13 +19,13 @@
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/academic-tutor-308607",
   "Intercollegiate::https://intercollegiate.co/job/assistant-associate-director-for-student-success-football-athletics-308614",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-308622",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-applied-performance-data-science-sports-health-performance-308604",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-digital-media-308621",
   "Intercollegiate::https://intercollegiate.co/job/assistant-sports-dietitian-308605",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-wrestling-coach-308616",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-308610",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-financial-reporting-specialist-308618",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308609",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308611",
@@ -42,7 +42,6 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2195045",
   "TeamWork Online (all sports, newest)::2195046",
   "TeamWork Online (all sports, newest)::2195047",
   "TeamWork Online (all sports, newest)::2195048",
@@ -241,7 +240,8 @@
   "TeamWork Online (all sports, newest)::2195256",
   "TeamWork Online (all sports, newest)::2195257",
   "TeamWork Online (all sports, newest)::2195258",
-  "TeamWork Online (all sports, newest)::2195259"
+  "TeamWork Online (all sports, newest)::2195259",
+  "TeamWork Online (all sports, newest)::2195260"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2107214",
