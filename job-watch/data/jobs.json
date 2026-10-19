@@ -1,5 +1,165 @@
 [
  {
+  "key": "PrizePicks::7996240003",
+  "company": "PrizePicks",
+  "title": "Director, Government Affairs - Northeast",
+  "url": "http://prizepicks.com/position?gh_jid=7996240003",
+  "location": "Remote",
+  "description": "At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of…",
+  "posted": "2026-10-19T10:26:56-04:00",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "Washington Nationals::de582b5b-1203-4f9c-ad8c-44a50be1e7c9",
+  "company": "Washington Nationals",
+  "title": "Major League Lead Athletic Trainer",
+  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=de582b5b-1203-4f9c-ad8c-44a50be1e7c9",
+  "location": "Washington, DC",
+  "description": "The Washington Nationals are seeking a Major League Lead Athletic Trainer to lead daily medical care and athletic training operations for the Major League club. This role will oversee the Major League athletic training staff and work closely with team…",
+  "posted": "2026-10-19T14:23:15.763Z",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "Washington Nationals::e736c189-2920-4fe2-ac93-e2d2a95187cd",
+  "company": "Washington Nationals",
+  "title": "Major League Lead Strength & Conditioning Coach",
+  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=e736c189-2920-4fe2-ac93-e2d2a95187cd",
+  "location": "Washington, DC",
+  "description": "The Washington Nationals are seeking a Major League Lead Strength & Conditioning Coach to lead the design, execution, and progression of individualized physical development programs for Major League players. This role will work closely with Physical…",
+  "posted": "2026-10-19T14:22:46.302Z",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-st-louis-cardinals-major-league-strategy-fellow/",
+  "company": "FanGraphs Job Postings",
+  "title": "St. Louis Cardinals – Major League Strategy Fellow",
+  "url": "https://blogs.fangraphs.com/instagraphs/job-posting-st-louis-cardinals-major-league-strategy-fellow/",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "company": "Intercollegiate",
+  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
+  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195281",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Concierge",
+  "url": "https://www.teamworkonline.com/entertainment-jobs/hershey-entertainment-resorts/hershey-entertainment-and-resorts-jobs/concierge-2195281",
+  "location": "Hershey, PA",
+  "description": "Hershey Entertainment and Resorts · Entry Level",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195278",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Major League Lead Strength & Conditioning Coach",
+  "url": "https://www.teamworkonline.com/baseball-jobs/washington-nationals/washington-nationals/major-league-lead-strength-conditioning-coach-2195278",
+  "location": "Washington, DC",
+  "description": "Washington Nationals · Director",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195279",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Barista - The Cocoa Beanery",
+  "url": "https://www.teamworkonline.com/entertainment-jobs/hershey-entertainment-resorts/hershey-entertainment-and-resorts-jobs/barista-the-cocoa-beanery-2195279",
+  "location": "Hershey, PA",
+  "description": "Hershey Entertainment and Resorts · Part Time",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195280",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Massage Therapist (PT)",
+  "url": "https://www.teamworkonline.com/entertainment-jobs/hershey-entertainment-resorts/hershey-entertainment-and-resorts-jobs/massage-therapist-pt-2195280",
+  "location": "Hershey, PA",
+  "description": "Hershey Entertainment and Resorts · Part Time",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195277",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Major League Lead Athletic Trainer",
+  "url": "https://www.teamworkonline.com/baseball-jobs/washington-nationals/washington-nationals/major-league-lead-athletic-trainer-2195277",
+  "location": "Washington, DC",
+  "description": "Washington Nationals · Senior",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195274",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Area Supervisor – Southern California",
+  "url": "https://www.teamworkonline.com/baseball-jobs/kansas-city-royals-jobs/kansas-city-royals/area-supervisor-southern-california-2195274",
+  "location": "CA",
+  "description": "Kansas City Royals · Manager",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195275",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ice Crew Member",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/ice-crew-member-2195275",
+  "location": "Bemidji, MN",
+  "description": "Legends Global · Part Time",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195276",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ice & Maintenance Manager",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/ice-maintenance-manager-2195276",
+  "location": "Florence, SC",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195273",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Pro License Educator",
+  "url": "https://www.teamworkonline.com/soccer-jobs/us-soccer-jobs/u-s--soccer-federation/pro-license-educator-2195273",
+  "location": "Atlanta, GA",
+  "description": "U.S. Soccer Federation · Manager",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195272",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director Food & Beverage",
+  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/tpc-network-jobs/director-food-beverage-2195272",
+  "location": "Scottsdale, AZ",
+  "description": "TPC Network · Director",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195271",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "2027 Baseball Analytics Intern - Bristol Blues",
+  "url": "https://www.teamworkonline.com/baseball-jobs/necbl-jobs/necbl-jobs/2027-baseball-analytics-intern-bristol-blues-2195271",
+  "location": "Bristol, CT",
+  "description": "New England Collegiate Baseball League · Intern",
+  "posted": "",
+  "found": "2026-10-19T15:00:44+00:00"
+ },
+ {
   "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
   "company": "Intercollegiate",
   "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
@@ -9838,165 +9998,5 @@
   "description": "JR14422",
   "posted": "Posted Today",
   "found": "2026-10-14T20:54:02+00:00"
- },
- {
-  "key": "Miami Marlins::2194788",
-  "company": "Miami Marlins",
-  "title": "Player Development Solutions Analyst Fellowship",
-  "url": "https://www.teamworkonline.com/baseball-jobs/miamibaseball/miami-marlins/player-development-solutions-analyst-fellowship-2194788",
-  "location": "Jupiter, FL",
-  "description": "Miami Marlins",
-  "posted": "",
-  "found": "2026-10-14T20:54:02+00:00"
- },
- {
-  "key": "Miami Marlins::2194780",
-  "company": "Miami Marlins",
-  "title": "Assistant Director of Nutrition",
-  "url": "https://www.teamworkonline.com/baseball-jobs/miamibaseball/miami-marlins/assistant-director-of-nutrition-2194780",
-  "location": "Miami, FL",
-  "description": "Miami Marlins",
-  "posted": "",
-  "found": "2026-10-14T20:54:02+00:00"
- },
- {
-  "key": "New England Patriots (Kraft Group)::572061",
-  "company": "New England Patriots (Kraft Group)",
-  "title": "Salesforce Developer",
-  "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=572061",
-  "location": "Kraft Group - Foxborough, MA 02035",
-  "description": "SUMMARY The Salesforce Developer will play a key role in maximizing the efficacy of the enterprise-wide CRM for Kraft Sports + Entertainment, whose ...",
-  "posted": "",
-  "found": "2026-10-14T20:54:02+00:00"
- },
- {
-  "key": "DraftKings::/job/Remote---US/Financial-Crimes-Compliance-Specialist--Predictions_JR15143-1",
-  "company": "DraftKings",
-  "title": "Financial Crimes Compliance Specialist, Predictions",
-  "url": "https://draftkings.wd1.myworkdayjobs.com/DraftKings/job/Remote---US/Financial-Crimes-Compliance-Specialist--Predictions_JR15143-1",
-  "location": "Remote - US",
-  "description": "JR15143",
-  "posted": "Posted Today",
-  "found": "2026-10-14T20:54:02+00:00"
- },
- {
-  "key": "DraftKings::/job/Remote---US/Senior-Technical-Program-Manager--Data_JR14539-1",
-  "company": "DraftKings",
-  "title": "Senior Technical Program Manager, Data",
-  "url": "https://draftkings.wd1.myworkdayjobs.com/DraftKings/job/Remote---US/Senior-Technical-Program-Manager--Data_JR14539-1",
-  "location": "Remote - US",
-  "description": "JR14539",
-  "posted": "Posted Today",
-  "found": "2026-10-14T20:54:02+00:00"
- },
- {
-  "key": "FanGraphs Job Postings::https://blogs.fangraphs.com/instagraphs/job-posting-milwaukee-brewers-senior-software-engineer/",
-  "company": "FanGraphs Job Postings",
-  "title": "Milwaukee Brewers – Senior Software Engineer",
-  "url": "https://blogs.fangraphs.com/instagraphs/job-posting-milwaukee-brewers-senior-software-engineer/",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194779",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Summer Audio/Video Internship 2027",
-  "url": "https://www.teamworkonline.com/baseball-jobs/prospectleague/normal-cornbelters/summer-audio-video-internship-2027-2194779",
-  "location": "Normal, IL",
-  "description": "Normal CornBelters · Intern",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194762",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Play-by-Play Broadcaster",
-  "url": "https://www.teamworkonline.com/baseball-jobs/coastal-plain-league/florence-flamingos-jobs/play-by-play-broadcaster-2194762",
-  "location": "Florence, SC",
-  "description": "Florence Flamingos · Intern",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194778",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Premium Seating Manager | Full-Time | BOK Center",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/premium-seating-manager-full-time-bok-center-2194778",
-  "location": "Tulsa, OK",
-  "description": "Oak View Group · Manager",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194777",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Manager of Partnerships | Full-Time | Riverview Health Arena",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/manager-of-partnerships-full-time-riverview-health-arena-2194777",
-  "location": "Noblesville, IN",
-  "description": "Oak View Group",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194776",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Account Executive, Group Ticketing",
-  "url": "https://www.teamworkonline.com/soccer-jobs/fc-cincinnati/fc-cincinnati/account-executive-group-ticketing-2194776",
-  "location": "Cincinnati, OH",
-  "description": "FC Cincinnati · Entry Level",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194775",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Creative - Creative Project Manager",
-  "url": "https://www.teamworkonline.com/soccer-jobs/orlando-city-sc-pride/orlando-city-sc-pride/creative-creative-project-manager-2194775",
-  "location": "Orlando, FL",
-  "description": "Orlando City SC & Orlando Pride · Manager",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194773",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Merchandise and Gate Worker - Huntington Beach, CA",
-  "url": "https://www.teamworkonline.com/baseball-jobs/perfect-game/perfect-game-jobs/merchandise-and-gate-worker-huntington-beach-ca-2194773",
-  "location": "Huntington Beach, CA",
-  "description": "Perfect Game Incorporated · Part Time",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194761",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "On-Field Host",
-  "url": "https://www.teamworkonline.com/baseball-jobs/coastal-plain-league/florence-flamingos-jobs/on-field-host-2194761",
-  "location": "Florence, SC",
-  "description": "Florence Flamingos · Intern",
-  "posted": "",
-  "found": "2026-10-14T20:16:02+00:00"
  }
 ]
