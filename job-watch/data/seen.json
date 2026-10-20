@@ -16,15 +16,15 @@
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
+  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-for-business-operations-308664",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-softball-308662",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-donor-relations-308635",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-student-engagement-308634",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-director-of-operations-308663",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-performance-nutrition-olympic-sports-308637",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-equipment-keeper-i-308646",
+  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-media-coordinator-308653",
   "Intercollegiate::https://intercollegiate.co/job/broadcast-production-specialist-wildcat-productions-308633",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308652",
@@ -43,21 +43,8 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2194742",
   "TeamWork Online (all sports, newest)::2195003",
-  "TeamWork Online (all sports, newest)::2195277",
-  "TeamWork Online (all sports, newest)::2195278",
-  "TeamWork Online (all sports, newest)::2195279",
-  "TeamWork Online (all sports, newest)::2195280",
-  "TeamWork Online (all sports, newest)::2195281",
-  "TeamWork Online (all sports, newest)::2195283",
-  "TeamWork Online (all sports, newest)::2195285",
-  "TeamWork Online (all sports, newest)::2195286",
-  "TeamWork Online (all sports, newest)::2195287",
-  "TeamWork Online (all sports, newest)::2195289",
-  "TeamWork Online (all sports, newest)::2195290",
   "TeamWork Online (all sports, newest)::2195291",
-  "TeamWork Online (all sports, newest)::2195292",
   "TeamWork Online (all sports, newest)::2195293",
-  "TeamWork Online (all sports, newest)::2195294",
   "TeamWork Online (all sports, newest)::2195295",
   "TeamWork Online (all sports, newest)::2195296",
   "TeamWork Online (all sports, newest)::2195297",
@@ -240,7 +227,20 @@
   "TeamWork Online (all sports, newest)::2195485",
   "TeamWork Online (all sports, newest)::2195486",
   "TeamWork Online (all sports, newest)::2195487",
-  "TeamWork Online (all sports, newest)::2195488"
+  "TeamWork Online (all sports, newest)::2195488",
+  "TeamWork Online (all sports, newest)::2195489",
+  "TeamWork Online (all sports, newest)::2195490",
+  "TeamWork Online (all sports, newest)::2195491",
+  "TeamWork Online (all sports, newest)::2195492",
+  "TeamWork Online (all sports, newest)::2195493",
+  "TeamWork Online (all sports, newest)::2195494",
+  "TeamWork Online (all sports, newest)::2195495",
+  "TeamWork Online (all sports, newest)::2195496",
+  "TeamWork Online (all sports, newest)::2195497",
+  "TeamWork Online (all sports, newest)::2195498",
+  "TeamWork Online (all sports, newest)::2195499",
+  "TeamWork Online (all sports, newest)::2195500",
+  "TeamWork Online (all sports, newest)::2195501"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2116280",
@@ -641,7 +641,6 @@
  ],
  "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/?q=&o=postedDateDesc": [
   "Washington Nationals::03edc5aa-133e-4696-81a7-51a38d2ff235",
-  "Washington Nationals::0677b7d1-8445-4f49-98ef-03a9dfd0b251",
   "Washington Nationals::0a4104db-66ea-4f53-bd46-6f83a7da0f6a",
   "Washington Nationals::0c19a0e3-b0ad-499d-979e-3ac94645560b",
   "Washington Nationals::247eeb83-ffd8-4170-965c-82407881d551",
@@ -1003,8 +1002,8 @@
   "New England Patriots (Kraft Group)::573668",
   "New England Patriots (Kraft Group)::573683",
   "New England Patriots (Kraft Group)::573699",
-  "New England Patriots (Kraft Group)::573717",
-  "New England Patriots (Kraft Group)::573860"
+  "New England Patriots (Kraft Group)::573860",
+  "New England Patriots (Kraft Group)::573924"
  ],
  "https://www2.seahawks.com/employment/openings/": [
   "Seattle Seahawks::change-421e5da194a2"
@@ -1135,7 +1134,8 @@
   "PrizePicks::8008655003",
   "PrizePicks::8015092003",
   "PrizePicks::8031331003",
-  "PrizePicks::8033668003"
+  "PrizePicks::8033668003",
+  "PrizePicks::8038883003"
  ],
  "greenhouse:underdog": [
   "Underdog::4715995005",
