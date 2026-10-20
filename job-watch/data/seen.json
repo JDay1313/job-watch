@@ -22,8 +22,8 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-student-engagement-308634",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-director-of-operations-308663",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-performance-nutrition-olympic-sports-308637",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-equipment-keeper-i-308646",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-media-coordinator-308653",
   "Intercollegiate::https://intercollegiate.co/job/broadcast-production-specialist-wildcat-productions-308633",
   "Intercollegiate::https://intercollegiate.co/job/cheer-coach-308652",
@@ -40,18 +40,9 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2195375",
   "TeamWork Online (all sports, newest)::2195381",
   "TeamWork Online (all sports, newest)::2195404",
-  "TeamWork Online (all sports, newest)::2195407",
-  "TeamWork Online (all sports, newest)::2195408",
-  "TeamWork Online (all sports, newest)::2195409",
-  "TeamWork Online (all sports, newest)::2195410",
-  "TeamWork Online (all sports, newest)::2195411",
-  "TeamWork Online (all sports, newest)::2195412",
-  "TeamWork Online (all sports, newest)::2195413",
   "TeamWork Online (all sports, newest)::2195414",
-  "TeamWork Online (all sports, newest)::2195415",
   "TeamWork Online (all sports, newest)::2195416",
   "TeamWork Online (all sports, newest)::2195417",
   "TeamWork Online (all sports, newest)::2195418",
@@ -239,7 +230,16 @@
   "TeamWork Online (all sports, newest)::2195608",
   "TeamWork Online (all sports, newest)::2195609",
   "TeamWork Online (all sports, newest)::2195610",
-  "TeamWork Online (all sports, newest)::2195611"
+  "TeamWork Online (all sports, newest)::2195611",
+  "TeamWork Online (all sports, newest)::2195612",
+  "TeamWork Online (all sports, newest)::2195613",
+  "TeamWork Online (all sports, newest)::2195614",
+  "TeamWork Online (all sports, newest)::2195615",
+  "TeamWork Online (all sports, newest)::2195616",
+  "TeamWork Online (all sports, newest)::2195618",
+  "TeamWork Online (all sports, newest)::2195619",
+  "TeamWork Online (all sports, newest)::2195620",
+  "TeamWork Online (all sports, newest)::2195621"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -694,7 +694,8 @@
   "Miami Marlins::2194788",
   "Miami Marlins::2195103",
   "Miami Marlins::2195106",
-  "Miami Marlins::2195541"
+  "Miami Marlins::2195541",
+  "Miami Marlins::2195618"
  ],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?source=TeamWork&client=nyyanks&ccId=19000101_000001&cid=5ebae4fe-1105-47a5-b26d-e74868af6e86&lang=en_US&selectedMenuKey=CareerCenter": [
   "New York Yankees::9201864727913_1",
@@ -746,6 +747,7 @@
  ],
  "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/?q=&o=postedDateDesc": [
   "Pittsburgh Pirates::0708ad96-3e97-4ea1-99e1-1365ed993226",
+  "Pittsburgh Pirates::0a5c96c8-f72f-48e7-97a9-712dece8227b",
   "Pittsburgh Pirates::5df61bf7-6829-4d1d-92a2-57786ea43a87",
   "Pittsburgh Pirates::7a4c07dc-1cad-4fdd-97fe-4d6807ef521e",
   "Pittsburgh Pirates::7cc07a46-3928-430b-ab28-ea6d5ec7640d",
@@ -931,7 +933,6 @@
   "New England Patriots (Kraft Group)::461636",
   "New England Patriots (Kraft Group)::468993",
   "New England Patriots (Kraft Group)::482174",
-  "New England Patriots (Kraft Group)::484483",
   "New England Patriots (Kraft Group)::498755",
   "New England Patriots (Kraft Group)::508139",
   "New England Patriots (Kraft Group)::517246",
@@ -1063,6 +1064,7 @@
   "Sportradar::744000151590010",
   "Sportradar::744000151595989",
   "Sportradar::744000151631359",
+  "Sportradar::744000151688844",
   "Sportradar::744000151991629",
   "Sportradar::744000152029379",
   "Sportradar::744000152029639",
@@ -1105,7 +1107,8 @@
   "Sportradar::744000155746839",
   "Sportradar::744000155753385",
   "Sportradar::744000155918309",
-  "Sportradar::744000156284529"
+  "Sportradar::744000156284529",
+  "Sportradar::744000156559989"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1138,6 +1141,7 @@
   "PrizePicks::8031331003",
   "PrizePicks::8033668003",
   "PrizePicks::8036120003",
+  "PrizePicks::8036123003",
   "PrizePicks::8038883003"
  ],
  "greenhouse:underdog": [
