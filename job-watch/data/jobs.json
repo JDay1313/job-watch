@@ -1,5 +1,115 @@
 [
  {
+  "key": "FanDuel::8283232",
+  "company": "FanDuel",
+  "title": "Senior Data Product Manager",
+  "url": "https://www.fanduel.careers/open-positions?gh_jid=8283232",
+  "location": "New York City",
+  "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for a Senior Product Manager to own Core Data Infrastructure (CDI) within our centralized Data Products team. CDI is the foundational layer that powers every data product at…",
+  "posted": "2026-10-20T11:25:18-04:00",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "FanDuel::8267158",
+  "company": "FanDuel",
+  "title": "Data Engineer",
+  "url": "https://www.fanduel.careers/open-positions?gh_jid=8267158",
+  "location": "Atlanta, Georgia, United States",
+  "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for a Data Support Engineer to advance our data capabilities and ensure the reliability and performance of our critical data pipelines and infrastructure. FanDuel's competitive…",
+  "posted": "2026-10-20T11:22:16-04:00",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "company": "Intercollegiate",
+  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
+  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "company": "Intercollegiate",
+  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
+  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195507",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Senior Partnership Solutions Coordinator - University of Nevada, Las Vegas",
+  "url": "https://www.teamworkonline.com/college-jobs/learfield-ticketing/learfield-sports-properties-jobs/senior-partnership-solutions-coordinator-university-of-nevada-las-vegas-2195507",
+  "location": "Las Vegas, NV",
+  "description": "Learfield Sports Properties · Entry Level",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195508",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Vice President, Distribution and Strategy",
+  "url": "https://www.teamworkonline.com/college-jobs/learfield-ticketing/learfield-sports-properties-jobs/vice-president-distribution-and-strategy-2195508",
+  "location": "Dallas, TX",
+  "description": "Learfield Sports Properties · Senior",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195506",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "2027 First Tee Summer Internship Program",
+  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/the-first-tee/2027-first-tee-summer-internship-program-2195506",
+  "location": "Ponte Vedra Beach, FL",
+  "description": "First Tee · Intern",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195505",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Fall/Winter Graphic Design Intern",
+  "url": "https://www.teamworkonline.com/baseball-jobs/napbjobs/mississippi-mud-monsters-jobs/fall-winter-graphic-design-intern-2195505",
+  "location": "Pearl, MS",
+  "description": "Mississippi Mud Monsters · Intern",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195504",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ice Rink Operator | Part-Time | Tribute Communities Centre",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/ice-rink-operator-part-time-tribute-communities-centre-2195504",
+  "location": "Oshawa, ON, Canada",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195503",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Machine Learning Internship - Spring 2027",
+  "url": "https://www.teamworkonline.com/sports-technology-jobs/prize-picks/prizepicks-jobs/machine-learning-internship-spring-2027-2195503",
+  "location": "Atlanta, GA",
+  "description": "PrizePicks · Intern",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195502",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Field Sales Professional - Hawaii (Big Island)",
+  "url": "https://www.teamworkonline.com/sporting-goods-jobs/varsity-brand-jobs/bsn-sports-varsity-brands-jobs/field-sales-professional-hawaii-big-island-2195502",
+  "location": "HI · Remote",
+  "description": "Varsity Brands · Manager",
+  "posted": "",
+  "found": "2026-10-20T15:23:18+00:00"
+ },
+ {
   "key": "PrizePicks::8038883003",
   "company": "PrizePicks",
   "title": "Machine Learning Internship - Spring 2027",
@@ -9888,115 +9998,5 @@
   "description": "Utah Jazz · Part Time",
   "posted": "",
   "found": "2026-10-15T20:54:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194992",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Consultant, Ticket Sales and Development (University of Toledo)",
-  "url": "https://www.teamworkonline.com/multiple-properties/playfly-sports/playfly-sports-jobs/consultant-ticket-sales-and-development-university-of-toledo-2194992",
-  "location": "Toledo, OH",
-  "description": "Playfly Sports · Entry Level",
-  "posted": "",
-  "found": "2026-10-15T20:54:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194991",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Manager, Payments and Fraud Analytics - AEG",
-  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/axs-jobs/manager-payments-and-fraud-analytics-aeg-2194991",
-  "location": "Los Angeles, CA",
-  "description": "AXS · Director",
-  "posted": "",
-  "found": "2026-10-15T20:54:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194990",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Financial Settlements Specialist - AXS",
-  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/axs-jobs/financial-settlements-specialist-axs-2194990",
-  "location": "Los Angeles, CA",
-  "description": "AXS · Entry Level",
-  "posted": "",
-  "found": "2026-10-15T20:54:02+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194989",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Senior Infrastructure & Platform Engineer",
-  "url": "https://www.teamworkonline.com/multiple-properties/monumentalsports/monumental-sports/senior-infrastructure-platform-engineer-2194989",
-  "location": "Washington, DC",
-  "description": "Monumental Sports & Entertainment · Senior",
-  "posted": "",
-  "found": "2026-10-15T20:54:02+00:00"
- },
- {
-  "key": "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736",
-  "company": "ESPN (Disney Careers)",
-  "title": "Director I ESPN Los Angeles,  California Oct. 15, 2026",
-  "url": "https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-15T20:54:02+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-15T20:13:07+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194987",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Senior Graphic Designer",
-  "url": "https://www.teamworkonline.com/baseball-jobs/orioles-jobs/baltimore-orioles-jobs/senior-graphic-designer-2194987",
-  "location": "Baltimore, MD",
-  "description": "Baltimore Orioles · Manager",
-  "posted": "",
-  "found": "2026-10-15T20:13:07+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2184578",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Event Staff",
-  "url": "https://www.teamworkonline.com/agency-jobs/agency-jobs/sport-sponsorships-event-consulting/event-staff-2184578",
-  "location": "Philadelphia, PA",
-  "description": "Sport Sponsorships & Event Consulting · Part Time",
-  "posted": "",
-  "found": "2026-10-15T20:13:07+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194986",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Fan Engagement Manager",
-  "url": "https://www.teamworkonline.com/baseball-jobs/chicagobaseball/chicago-cubs/fan-engagement-manager-2194986",
-  "location": "Chicago, IL",
-  "description": "Chicago Cubs · Manager",
-  "posted": "",
-  "found": "2026-10-15T20:13:07+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2194979",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Senior Director, Social Media & Content",
-  "url": "https://www.teamworkonline.com/baseball-jobs/orioles-jobs/baltimore-orioles-jobs/senior-director-social-media-content-2194979",
-  "location": "Baltimore, MD",
-  "description": "Baltimore Orioles · Director",
-  "posted": "",
-  "found": "2026-10-15T20:13:07+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "company": "Intercollegiate",
-  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-15T19:51:29+00:00"
  }
 ]
