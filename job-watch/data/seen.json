@@ -15,13 +15,13 @@
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
+  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-for-business-operations-308664",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-softball-308662",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-donor-relations-308635",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-student-engagement-308634",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-director-of-operations-308663",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-performance-nutrition-olympic-sports-308637",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-equipment-keeper-i-308646",
   "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/athletics-media-coordinator-308653",
@@ -42,14 +42,7 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2195375",
   "TeamWork Online (all sports, newest)::2195381",
-  "TeamWork Online (all sports, newest)::2195399",
-  "TeamWork Online (all sports, newest)::2195400",
-  "TeamWork Online (all sports, newest)::2195401",
-  "TeamWork Online (all sports, newest)::2195402",
-  "TeamWork Online (all sports, newest)::2195403",
   "TeamWork Online (all sports, newest)::2195404",
-  "TeamWork Online (all sports, newest)::2195405",
-  "TeamWork Online (all sports, newest)::2195406",
   "TeamWork Online (all sports, newest)::2195407",
   "TeamWork Online (all sports, newest)::2195408",
   "TeamWork Online (all sports, newest)::2195409",
@@ -239,10 +232,16 @@
   "TeamWork Online (all sports, newest)::2195601",
   "TeamWork Online (all sports, newest)::2195602",
   "TeamWork Online (all sports, newest)::2195603",
-  "TeamWork Online (all sports, newest)::2195604"
+  "TeamWork Online (all sports, newest)::2195604",
+  "TeamWork Online (all sports, newest)::2195605",
+  "TeamWork Online (all sports, newest)::2195606",
+  "TeamWork Online (all sports, newest)::2195607",
+  "TeamWork Online (all sports, newest)::2195608",
+  "TeamWork Online (all sports, newest)::2195609",
+  "TeamWork Online (all sports, newest)::2195610",
+  "TeamWork Online (all sports, newest)::2195611"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2125879",
   "TeamWork Online (NFL teams)::2128896",
   "TeamWork Online (NFL teams)::2130243",
   "TeamWork Online (NFL teams)::2130541",
@@ -385,7 +384,8 @@
   "TeamWork Online (NFL teams)::2195267",
   "TeamWork Online (NFL teams)::2195376",
   "TeamWork Online (NFL teams)::2195447",
-  "TeamWork Online (NFL teams)::2195462"
+  "TeamWork Online (NFL teams)::2195462",
+  "TeamWork Online (NFL teams)::2195610"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -1126,7 +1126,6 @@
   "PrizePicks::7984304003",
   "PrizePicks::7984325003",
   "PrizePicks::7984822003",
-  "PrizePicks::7989314003",
   "PrizePicks::7992819003",
   "PrizePicks::7994778003",
   "PrizePicks::7996240003",
@@ -1464,7 +1463,8 @@
   "Green Bay Packers::2193175",
   "Green Bay Packers::2193176",
   "Green Bay Packers::2193907",
-  "Green Bay Packers::2193908"
+  "Green Bay Packers::2193908",
+  "Green Bay Packers::2195610"
  ],
  "https://jobs.dayforcehcm.com/bensonenterprises/SAINTSPELSCAREERS#backup": []
 }
