@@ -24,12 +24,12 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-sports-dietitian-308605",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-wrestling-coach-308616",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-for-communications-308610",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-financial-reporting-specialist-308618",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308609",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308611",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308620",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
   "Intercollegiate::https://intercollegiate.co/job/director-for-athletic-communications-308615",
   "Intercollegiate::https://intercollegiate.co/job/director-of-operations-wrestling-308619",
   "Intercollegiate::https://intercollegiate.co/job/event-management-coordinator-308617",
@@ -49,10 +49,6 @@
   "TeamWork Online (all sports, newest)::2194972",
   "TeamWork Online (all sports, newest)::2195003",
   "TeamWork Online (all sports, newest)::2195155",
-  "TeamWork Online (all sports, newest)::2195262",
-  "TeamWork Online (all sports, newest)::2195263",
-  "TeamWork Online (all sports, newest)::2195264",
-  "TeamWork Online (all sports, newest)::2195265",
   "TeamWork Online (all sports, newest)::2195266",
   "TeamWork Online (all sports, newest)::2195267",
   "TeamWork Online (all sports, newest)::2195268",
@@ -240,7 +236,11 @@
   "TeamWork Online (all sports, newest)::2195465",
   "TeamWork Online (all sports, newest)::2195466",
   "TeamWork Online (all sports, newest)::2195467",
-  "TeamWork Online (all sports, newest)::2195468"
+  "TeamWork Online (all sports, newest)::2195468",
+  "TeamWork Online (all sports, newest)::2195469",
+  "TeamWork Online (all sports, newest)::2195470",
+  "TeamWork Online (all sports, newest)::2195471",
+  "TeamWork Online (all sports, newest)::2195472"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2128896",
@@ -426,7 +426,6 @@
  ],
  "greenhouse:nflcareers": [
   "NFL League Office::5127328008",
-  "NFL League Office::5143255008",
   "NFL League Office::5176307008",
   "NFL League Office::5176408008",
   "NFL League Office::5279619008",
@@ -1322,7 +1321,6 @@
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-video-producer-i/391/102036586960",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/espn-post-edit-intern-bristol-spring-2027/391/102174805392",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-espn-next/391/101946665136",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-global-sports-espn-next/391/101950485696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
