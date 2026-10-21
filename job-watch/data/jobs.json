@@ -1,5 +1,235 @@
 [
  {
+  "key": "FanDuel::8300932",
+  "company": "FanDuel",
+  "title": "Staff AI Solutions Engineer",
+  "url": "https://www.fanduel.careers/open-positions?gh_jid=8300932",
+  "location": "Atlanta, Georgia, United States",
+  "description": "THE POSITION Our roster has an opening with your name on it As a Staff AI Solutions Engineer at FanDuel, you will help us own the AI technical vision across the portfolio. Additionally, hold and evolve the technical vision across our governed agent layer, our…",
+  "posted": "2026-10-21T17:12:50-04:00",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "company": "Intercollegiate",
+  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
+  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195912",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Dishwasher | Part-Time | WFCU Centre",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/dishwasher-part-time-wfcu-centre-2195912",
+  "location": "Windsor, ON, Canada",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195909",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Guest Services Premium Concierge | Part-Time | Moody Center",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/guest-services-premium-concierge-part-time-moody-center-2195909",
+  "location": "Austin, TX",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195910",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Housekeeper | Part-Time | Hilliard Center",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/housekeeper-part-time-hilliard-center-2195910",
+  "location": "Corpus Christi, TX",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195911",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Changeover Crew | Part-Time | Hilliard Center",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/changeover-crew-part-time-hilliard-center-2195911",
+  "location": "Corpus Christi, TX",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195908",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Guest Services Supervisor | Part-Time | Moody Center",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/guest-services-supervisor-part-time-moody-center-2195908",
+  "location": "Austin, TX",
+  "description": "Oak View Group · Manager",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195907",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Warehouse Supervisor | Part-Time | PeoplesBank Arena",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/warehouse-supervisor-part-time-peoplesbank-arena-2195907",
+  "location": "Hartford, CT",
+  "description": "Oak View Group · Entry Level",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195905",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Security Guard | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/security-guard-part-time-the-paramount-baltimore-2195905",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195906",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Warehouse Driver | Part-Time | McCormick Place Convention Center",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/warehouse-driver-part-time-mccormick-place-convention-center-2195906",
+  "location": "Chicago, IL",
+  "description": "Oak View Group · Entry Level",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195902",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ticket Seller | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/ticket-seller-part-time-the-paramount-baltimore-2195902",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195903",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ticket Taker | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/ticket-taker-part-time-the-paramount-baltimore-2195903",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195904",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Usher | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/usher-part-time-the-paramount-baltimore-2195904",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195899",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Lighting Technician | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/lighting-technician-part-time-the-paramount-baltimore-2195899",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Entry Level",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195900",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Sound Engineer | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/sound-engineer-part-time-the-paramount-baltimore-2195900",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195901",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Maintenance Technician | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/maintenance-technician-part-time-the-paramount-baltimore-2195901",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195896",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Video Technician | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/video-technician-part-time-the-paramount-baltimore-2195896",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195897",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Video Operator | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/video-operator-part-time-the-paramount-baltimore-2195897",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195898",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Audio Visual Technician | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/audio-visual-technician-part-time-the-paramount-baltimore-2195898",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Entry Level",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195894",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Conversions Crew | Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/conversions-crew-part-time-the-paramount-baltimore-2195894",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195895",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Operations Technician| Part-Time | The Paramount Baltimore",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/operations-technician-part-time-the-paramount-baltimore-2195895",
+  "location": "Baltimore, MD",
+  "description": "Oak View Group · Part Time",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2195742",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Event Operations Specialist",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/event-operations-specialist-2195742",
+  "location": "Detroit, MI",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
+  "key": "Atlanta Falcons (AMB Sports + Entertainment)::/job/Mercedes-Benz-Stadium/Senior-Director--Corporate-Partnership-Activation---Atlanta-Falcons_R0029320",
+  "company": "Atlanta Falcons (AMB Sports + Entertainment)",
+  "title": "Senior Director, Corporate Partnership Activation - Atlanta Falcons",
+  "url": "https://ambgroup.wd1.myworkdayjobs.com/AMBSE/job/Mercedes-Benz-Stadium/Senior-Director--Corporate-Partnership-Activation---Atlanta-Falcons_R0029320",
+  "location": "Mercedes-Benz Stadium",
+  "description": "R0029320 · Atlanta Falcons Football Club, LLC",
+  "posted": "Posted Today",
+  "found": "2026-10-21T21:16:20+00:00"
+ },
+ {
   "key": "NFL League Office::5423469008",
   "company": "NFL League Office",
   "title": "Coordinator, Quality Control",
@@ -9768,235 +9998,5 @@
   "description": "",
   "posted": "",
   "found": "2026-10-18T12:08:08+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "company": "Intercollegiate",
-  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T11:45:37+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T11:45:37+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
-  "company": "Intercollegiate",
-  "title": "Assistant Athletic Director Equipment and Apparel",
-  "url": "https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T11:09:31+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "company": "Intercollegiate",
-  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
-  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T11:09:31+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "company": "Intercollegiate",
-  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T10:48:36+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T10:48:36+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T09:11:25+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
-  "company": "Intercollegiate",
-  "title": "Assistant Athletic Director Equipment and Apparel",
-  "url": "https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T09:11:25+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:49:48+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "company": "Intercollegiate",
-  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
-  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/head-coach-women-s-cross-country-track-field-308624",
-  "company": "Intercollegiate",
-  "title": "Head Coach - Women's Cross Country, Track & Field ($104,130-$156,240/yr)",
-  "url": "https://intercollegiate.co/job/head-coach-women-s-cross-country-track-field-308624",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-308622",
-  "company": "Intercollegiate",
-  "title": "Assistant Athletic Trainer",
-  "url": "https://intercollegiate.co/job/assistant-athletic-trainer-308622",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-digital-media-308621",
-  "company": "Intercollegiate",
-  "title": "Assistant Director, Digital Media",
-  "url": "https://intercollegiate.co/job/assistant-director-digital-media-308621",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-operations-wrestling-308619",
-  "company": "Intercollegiate",
-  "title": "Director of Operations, Wrestling ($7.25-$23/hr)",
-  "url": "https://intercollegiate.co/job/director-of-operations-wrestling-308619",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-financial-reporting-specialist-308618",
-  "company": "Intercollegiate",
-  "title": "Athletic Financial Reporting Specialist ($50,000-$54,000/yr)",
-  "url": "https://intercollegiate.co/job/athletic-financial-reporting-specialist-308618",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/event-management-coordinator-308617",
-  "company": "Intercollegiate",
-  "title": "Event Management Coordinator",
-  "url": "https://intercollegiate.co/job/event-management-coordinator-308617",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/pa-basketball-announcer-308623",
-  "company": "Intercollegiate",
-  "title": "PA Basketball Announcer ($18/hr)",
-  "url": "https://intercollegiate.co/job/pa-basketball-announcer-308623",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-308620",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer ($49,750-$79,615/yr)",
-  "url": "https://intercollegiate.co/job/athletic-trainer-308620",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T07:02:30+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "company": "Intercollegiate",
-  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T06:10:18+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-for-athletic-communications-308615",
-  "company": "Intercollegiate",
-  "title": "Director for Athletic Communications",
-  "url": "https://intercollegiate.co/job/director-for-athletic-communications-308615",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T06:10:18+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-wrestling-coach-308616",
-  "company": "Intercollegiate",
-  "title": "Assistant Women's Wrestling Coach ($30,000/yr)",
-  "url": "https://intercollegiate.co/job/assistant-women-s-wrestling-coach-308616",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T06:10:18+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T05:49:40+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "company": "Intercollegiate",
-  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
-  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T05:49:40+00:00"
  }
 ]
