@@ -20,7 +20,7 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-baseball-coach-full-time-permanent-308698",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-events-and-operations-cs27-101-308699",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-communications-digital-media-308706",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-assistant-director-sports-medicine-308708",
   "Intercollegiate::https://intercollegiate.co/job/director-athletic-video-productions-006977-308713",
   "Intercollegiate::https://intercollegiate.co/job/director-club-sports-308707",
@@ -40,11 +40,6 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2195529",
-  "TeamWork Online (all sports, newest)::2195531",
-  "TeamWork Online (all sports, newest)::2195532",
-  "TeamWork Online (all sports, newest)::2195533",
-  "TeamWork Online (all sports, newest)::2195534",
   "TeamWork Online (all sports, newest)::2195535",
   "TeamWork Online (all sports, newest)::2195536",
   "TeamWork Online (all sports, newest)::2195537",
@@ -232,11 +227,21 @@
   "TeamWork Online (all sports, newest)::2195735",
   "TeamWork Online (all sports, newest)::2195736",
   "TeamWork Online (all sports, newest)::2195737",
-  "TeamWork Online (all sports, newest)::2195738"
+  "TeamWork Online (all sports, newest)::2195738",
+  "TeamWork Online (all sports, newest)::2195739",
+  "TeamWork Online (all sports, newest)::2195740",
+  "TeamWork Online (all sports, newest)::2195741",
+  "TeamWork Online (all sports, newest)::2195742",
+  "TeamWork Online (all sports, newest)::2195743",
+  "TeamWork Online (all sports, newest)::2195744",
+  "TeamWork Online (all sports, newest)::2195745",
+  "TeamWork Online (all sports, newest)::2195746",
+  "TeamWork Online (all sports, newest)::2195747",
+  "TeamWork Online (all sports, newest)::2195748",
+  "TeamWork Online (all sports, newest)::2195749",
+  "TeamWork Online (all sports, newest)::2195750"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2130545",
-  "TeamWork Online (NFL teams)::2134867",
   "TeamWork Online (NFL teams)::2147716",
   "TeamWork Online (NFL teams)::2147717",
   "TeamWork Online (NFL teams)::2151141",
@@ -378,7 +383,9 @@
   "TeamWork Online (NFL teams)::2195610",
   "TeamWork Online (NFL teams)::2195652",
   "TeamWork Online (NFL teams)::2195653",
-  "TeamWork Online (NFL teams)::2195655"
+  "TeamWork Online (NFL teams)::2195655",
+  "TeamWork Online (NFL teams)::2195746",
+  "TeamWork Online (NFL teams)::2195748"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -414,7 +421,6 @@
   "MLB League Office::8249002",
   "MLB League Office::8250132",
   "MLB League Office::8256556",
-  "MLB League Office::8274841",
   "MLB League Office::8285278"
  ],
  "greenhouse:nflcareers": [
@@ -849,6 +855,7 @@
   "Texas Rangers::/job/Arlington-TX/Parking-Security_R2099",
   "Texas Rangers::/job/Arlington-TX/Representative-I--Complex-Maintenance_R2008",
   "Texas Rangers::/job/Arlington-TX/Seasonal-Ballpark-Entertainment-Control-Room_R2005",
+  "Texas Rangers::/job/Arlington-TX/Security-Officer_R2425",
   "Texas Rangers::/job/Arlington-TX/Six-Shooter_R2396-1",
   "Texas Rangers::/job/Arlington-TX/Toll-Attendant_R2100",
   "Texas Rangers::/job/Dallas-TX/Part-Time-Youth-Academy-Coach_R2387",
@@ -941,7 +948,6 @@
   "New England Patriots (Kraft Group)::533978",
   "New England Patriots (Kraft Group)::534013",
   "New England Patriots (Kraft Group)::535959",
-  "New England Patriots (Kraft Group)::543183",
   "New England Patriots (Kraft Group)::543221",
   "New England Patriots (Kraft Group)::543359",
   "New England Patriots (Kraft Group)::548336",
@@ -1308,6 +1314,7 @@
   "FanDuel::8249241",
   "FanDuel::8258210",
   "FanDuel::8258621",
+  "FanDuel::8258623",
   "FanDuel::8267158",
   "FanDuel::8282377",
   "FanDuel::8283232",
