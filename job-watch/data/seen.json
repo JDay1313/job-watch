@@ -16,12 +16,12 @@
  ],
  "https://intercollegiate.co/": [
   "Intercollegiate::https://intercollegiate.co/job/academic-mentor-308675",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-principal-giving-308692",
   "Intercollegiate::https://intercollegiate.co/job/assistant-baseball-coach-full-time-permanent-308698",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-events-and-operations-cs27-101-308699",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-communications-digital-media-308706",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-assistant-director-sports-medicine-308708",
   "Intercollegiate::https://intercollegiate.co/job/director-athletic-video-productions-006977-308713",
   "Intercollegiate::https://intercollegiate.co/job/director-club-sports-308707",
@@ -41,7 +41,6 @@
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2195599",
-  "TeamWork Online (all sports, newest)::2195600",
   "TeamWork Online (all sports, newest)::2195601",
   "TeamWork Online (all sports, newest)::2195602",
   "TeamWork Online (all sports, newest)::2195603",
@@ -239,7 +238,8 @@
   "TeamWork Online (all sports, newest)::2195850",
   "TeamWork Online (all sports, newest)::2195851",
   "TeamWork Online (all sports, newest)::2195852",
-  "TeamWork Online (all sports, newest)::2195853"
+  "TeamWork Online (all sports, newest)::2195853",
+  "TeamWork Online (all sports, newest)::2195855"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2130541",
@@ -1333,6 +1333,7 @@
   "FanDuel::8302415"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/designer-ii/391/99536766112",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-video-producer-i/391/102036586960",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/espn-post-edit-intern-bristol-spring-2027/391/102174805392",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-assistant-espn-next/391/101946665136",
@@ -1341,7 +1342,6 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-director-programming-business-affairs/391/98094297616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/99395252000",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervisor-remi-operations/391/102041250656",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/connecticut/associate-editor-seo-part-time/391/102248244448",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736"
  ],
  "https://daiwa.us/pages/careers-page": [
