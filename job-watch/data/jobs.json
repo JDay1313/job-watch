@@ -1,5 +1,225 @@
 [
  {
+  "key": "Sportradar::744000157038629",
+  "company": "Sportradar",
+  "title": "Staff Software Engineer",
+  "url": "https://jobs.smartrecruiters.com/Sportradar/744000157038629",
+  "location": "Wroclaw, pl",
+  "description": "Full-time",
+  "posted": "2026-10-22T05:34:54.556Z",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Sportradar::744000157038419",
+  "company": "Sportradar",
+  "title": "Software Engineer",
+  "url": "https://jobs.smartrecruiters.com/Sportradar/744000157038419",
+  "location": "Wroclaw, pl",
+  "description": "Full-time",
+  "posted": "2026-10-22T05:32:22.869Z",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "company": "Intercollegiate",
+  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
+  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "company": "Intercollegiate",
+  "title": "Associate/Senior Associate Athletics Director of Development",
+  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-associate-director-of-learning-support-308759",
+  "company": "Intercollegiate",
+  "title": "Assistant/Associate Director of Learning Support",
+  "url": "https://intercollegiate.co/job/assistant-associate-director-of-learning-support-308759",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/men-s-women-s-cross-country-and-track-field-assistant-coach-308756",
+  "company": "Intercollegiate",
+  "title": "Men's/Women's Cross Country and Track & Field Assistant Coach",
+  "url": "https://intercollegiate.co/job/men-s-women-s-cross-country-and-track-field-assistant-coach-308756",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/fan-engagement-and-ticketing-coordinator-308753",
+  "company": "Intercollegiate",
+  "title": "Fan Engagement and Ticketing Coordinator ($18/hr)",
+  "url": "https://intercollegiate.co/job/fan-engagement-and-ticketing-coordinator-308753",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-operations-per-diem-308751",
+  "company": "Intercollegiate",
+  "title": "Athletics Operations Per Diem",
+  "url": "https://intercollegiate.co/job/athletics-operations-per-diem-308751",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-athletic-communications-broadcasting-308747",
+  "company": "Intercollegiate",
+  "title": "Director of Athletic Communications & Broadcasting",
+  "url": "https://intercollegiate.co/job/director-of-athletic-communications-broadcasting-308747",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-communications-308748",
+  "company": "Intercollegiate",
+  "title": "Assistant Director, Athletic Communications",
+  "url": "https://intercollegiate.co/job/assistant-director-athletic-communications-308748",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-academic-support-308741",
+  "company": "Intercollegiate",
+  "title": "Assistant Director of Academic Support ($25.96-$28.84/hr)",
+  "url": "https://intercollegiate.co/job/assistant-director-of-academic-support-308741",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/behavioral-health-counselor-iii-athletics-308734",
+  "company": "Intercollegiate",
+  "title": "Behavioral Health Counselor III (Athletics)",
+  "url": "https://intercollegiate.co/job/behavioral-health-counselor-iii-athletics-308734",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-ticket-operations-308732",
+  "company": "Intercollegiate",
+  "title": "Assistant Director, Athletic Ticket Operations ($48,000/yr)",
+  "url": "https://intercollegiate.co/job/assistant-director-athletic-ticket-operations-308732",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/academic-advisor-308731",
+  "company": "Intercollegiate",
+  "title": "Academic Advisor",
+  "url": "https://intercollegiate.co/job/academic-advisor-308731",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/ops-college-prep-tutor-the-hawkins-center-308729",
+  "company": "Intercollegiate",
+  "title": "OPS College Prep Tutor - The Hawkins Center",
+  "url": "https://intercollegiate.co/job/ops-college-prep-tutor-the-hawkins-center-308729",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-compliance-308726",
+  "company": "Intercollegiate",
+  "title": "Assistant Athletic Director - Compliance",
+  "url": "https://intercollegiate.co/job/assistant-athletic-director-compliance-308726",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/video-coach-308725",
+  "company": "Intercollegiate",
+  "title": "Video Coach",
+  "url": "https://intercollegiate.co/job/video-coach-308725",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/3rd-assistant-coach-men-s-ice-hockey-308722",
+  "company": "Intercollegiate",
+  "title": "3rd Assistant Coach, Men’s Ice Hockey ($42,000/yr)",
+  "url": "https://intercollegiate.co/job/3rd-assistant-coach-men-s-ice-hockey-308722",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/duck-athletic-fund-communications-director-308721",
+  "company": "Intercollegiate",
+  "title": "Duck Athletic Fund Communications Director",
+  "url": "https://intercollegiate.co/job/duck-athletic-fund-communications-director-308721",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-special-events-hospitality-tennessee-athletics-utk-308719",
+  "company": "Intercollegiate",
+  "title": "Assistant Director of Special Events & Hospitality - Tennessee Athletics - UTK",
+  "url": "https://intercollegiate.co/job/assistant-director-of-special-events-hospitality-tennessee-athletics-utk-308719",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/student-athlete-development-coordinator-308717",
+  "company": "Intercollegiate",
+  "title": "Student-Athlete Development Coordinator ($45,000-$50,000/yr)",
+  "url": "https://intercollegiate.co/job/student-athlete-development-coordinator-308717",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/head-coach-men-s-women-s-bowling-308760",
+  "company": "Intercollegiate",
+  "title": "Head Coach, Men's & Women's Bowling",
+  "url": "https://intercollegiate.co/job/head-coach-men-s-women-s-bowling-308760",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-10-22T10:20:20+00:00"
+ },
+ {
   "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
   "company": "Intercollegiate",
   "title": "Athletic Trainer",
@@ -9778,225 +9998,5 @@
   "description": "Delaware North · Entry Level",
   "posted": "",
   "found": "2026-10-18T18:52:20+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
-  "company": "Intercollegiate",
-  "title": "Assistant Athletic Director Equipment and Apparel",
-  "url": "https://intercollegiate.co/job/assistant-athletic-director-equipment-and-apparel-308184",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T18:06:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "company": "Intercollegiate",
-  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T18:06:54+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T17:45:13+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T17:11:00+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T16:50:26+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "company": "Intercollegiate",
-  "title": "Director of Ticket Sales ($55,000-$65,000/yr)",
-  "url": "https://intercollegiate.co/job/director-of-ticket-sales-304909",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T16:10:25+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "company": "Intercollegiate",
-  "title": "ASSOCIATE DIRECTOR SPORTS MEDICINE – SOFTBALL",
-  "url": "https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T16:10:25+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T15:47:35+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "company": "Intercollegiate",
-  "title": "Associate Director of Compliance - Athletics ($70,000-$80,000/yr)",
-  "url": "https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T15:47:35+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2195251",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Providence - Custodial Team Member [Early Mornings]",
-  "url": "https://www.teamworkonline.com/multiple-properties/miller-sports-entertainment/megaplex-jobs/providence-custodial-team-member-early-mornings-2195251",
-  "location": "Providence, UT",
-  "description": "Megaplex · Part Time",
-  "posted": "",
-  "found": "2026-10-18T15:47:35+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T15:10:10+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "company": "Intercollegiate",
-  "title": "Associate/Senior Associate Athletics Director of Development",
-  "url": "https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T14:48:14+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-305064",
-  "company": "Intercollegiate",
-  "title": "Athletic Trainer",
-  "url": "https://intercollegiate.co/job/athletic-trainer-305064",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T14:09:41+00:00"
- },
- {
-  "key": "Intercollegiate::https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "company": "Intercollegiate",
-  "title": "Athletics Business Coordinator II ($44,000-$55,551/yr)",
-  "url": "https://intercollegiate.co/job/athletics-business-coordinator-ii-307348",
-  "location": "",
-  "description": "",
-  "posted": "",
-  "found": "2026-10-18T14:09:41+00:00"
- },
- {
-  "key": "Pittsburgh Pirates::82a8a552-5b02-4c75-8c07-40d7dd440903",
-  "company": "Pittsburgh Pirates",
-  "title": "Applied Biomechanist",
-  "url": "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/OpportunityDetail?opportunityId=82a8a552-5b02-4c75-8c07-40d7dd440903",
-  "location": "Bradenton, FL",
-  "description": "The Applied Biomechanist will operate the biomechanics lab and support player analysis within Coaching and Player Development (CPD) and Player Analysis Departments. This role will ensure reliable data collection, process and organize movement and performance…",
-  "posted": "2026-10-16T17:27:28.079Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Pittsburgh Pirates::c60de3d3-fddf-4a24-bab3-357250d36c0a",
-  "company": "Pittsburgh Pirates",
-  "title": "Analyst - Coaching and Player Development",
-  "url": "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/OpportunityDetail?opportunityId=c60de3d3-fddf-4a24-bab3-357250d36c0a",
-  "location": "Bradenton, FL",
-  "description": "The Analyst role will support Coaching and Player Development (CPD) by turning performance data, research, and video into clear player evaluations and actionable development insights. A successful candidate will combine strong analytical skills, baseball…",
-  "posted": "2026-10-16T16:05:45.01Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Pittsburgh Pirates::83fa5ef0-62c6-43e4-8f52-d8cf64d02285",
-  "company": "Pittsburgh Pirates",
-  "title": "Product Manager - Research and Development",
-  "url": "https://pirates.rec.pro.ukg.net/PIT1500PITA/JobBoard/1571bce9-cb30-4961-98da-07b26506146a/OpportunityDetail?opportunityId=83fa5ef0-62c6-43e4-8f52-d8cf64d02285",
-  "location": "Pittsburgh, PA",
-  "description": "The Pittsburgh Pirates are looking for a Product Manager to join Baseball R&D and help our teams identify and solve the most important problems for baseball decision-makers.",
-  "posted": "2026-10-16T14:24:57.593Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Washington Nationals::7e62aa25-9dd2-4d59-a4a3-37ab33f79dad",
-  "company": "Washington Nationals",
-  "title": "Area Scout, Amateur Acquisitions",
-  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=7e62aa25-9dd2-4d59-a4a3-37ab33f79dad",
-  "location": "Washington, DC",
-  "description": "The Area Scout will heavily contribute to the department's efforts to identify and evaluate amateur talent in the country.",
-  "posted": "2026-10-16T13:56:17.005Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Washington Nationals::ade027dc-1575-40d6-8019-f7d404a8dc1e",
-  "company": "Washington Nationals",
-  "title": "Assistant, Security & Operations",
-  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=ade027dc-1575-40d6-8019-f7d404a8dc1e",
-  "location": "Washington, DC",
-  "description": "Reporting to the Manager, Facility Operations, the Security & Operations Assistant will help with preparation for programming with baseball and softball events at the Youth Baseball Academy. Events include Base programming, Hustle baseball and softball games…",
-  "posted": "2026-10-15T16:49:49.754Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Washington Nationals::0677b7d1-8445-4f49-98ef-03a9dfd0b251",
-  "company": "Washington Nationals",
-  "title": "Associate, Baseball Communications (Limited Term)",
-  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=0677b7d1-8445-4f49-98ef-03a9dfd0b251",
-  "location": "Washington, DC / West Palm Beach, FL",
-  "description": "This part-time Associate will be a member of the Communications department starting in January 2027 through November 2027. They will assist in all facets of the communications operations at both Spring Training in West Palm Beach, Fla. and during the regular…",
-  "posted": "2026-10-14T15:06:56.303Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Washington Nationals::d96d4776-1e2a-40ee-97ea-1dfc4436cd64",
-  "company": "Washington Nationals",
-  "title": "Loading Dock, Coordinator",
-  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=d96d4776-1e2a-40ee-97ea-1dfc4436cd64",
-  "location": "Washington, DC",
-  "description": "Reporting to the Sr. Director, Ballpark Operations, the Coordinator, Loading Dock facilitates all shipments and deliveries to be received inside of Nationals Park. The incumbent suggests improvements to distribution procedures, and acts to improve timeliness…",
-  "posted": "2026-10-14T15:06:14.446Z",
-  "found": "2026-10-18T13:48:49+00:00"
- },
- {
-  "key": "Washington Nationals::42a09977-531a-413c-a092-003eaaee4ed9",
-  "company": "Washington Nationals",
-  "title": "Assistant Minor League Strength & Conditioning Coach",
-  "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=42a09977-531a-413c-a092-003eaaee4ed9",
-  "location": "Rochester, NY / Wilmington, DE / Harrisburg, PA / Fredericksburg, VA",
-  "description": "The Washington Nationals are seeking Assistant Affiliate Strength & Conditioning Coaches to support the implementation, execution, and progression of individualized strength and conditioning programs for players at their respective affiliate.",
-  "posted": "2026-10-14T15:06:13.209Z",
-  "found": "2026-10-18T13:48:49+00:00"
  }
 ]
