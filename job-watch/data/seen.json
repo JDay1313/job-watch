@@ -26,11 +26,11 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-development-athletics-309001",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-vertical-jumps-multi-s-coach-ast-3-308986",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-athletics-communications-309012",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308987",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308988",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletics-director-chief-revenue-officer-cro-309030",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
   "Intercollegiate::https://intercollegiate.co/job/director-of-the-adams-wyche-center-for-academic-excellence-309029",
   "Intercollegiate::https://intercollegiate.co/job/facilities-and-operations-coordinator-309027",
   "Intercollegiate::https://intercollegiate.co/job/ops-strength-conditioning-coach-309028",
@@ -44,8 +44,6 @@
   "TeamWork Online (all sports, newest)::2195284",
   "TeamWork Online (all sports, newest)::2196112",
   "TeamWork Online (all sports, newest)::2196114",
-  "TeamWork Online (all sports, newest)::2196187",
-  "TeamWork Online (all sports, newest)::2196189",
   "TeamWork Online (all sports, newest)::2196192",
   "TeamWork Online (all sports, newest)::2196193",
   "TeamWork Online (all sports, newest)::2196194",
@@ -239,7 +237,9 @@
   "TeamWork Online (all sports, newest)::2196514",
   "TeamWork Online (all sports, newest)::2196515",
   "TeamWork Online (all sports, newest)::2196516",
-  "TeamWork Online (all sports, newest)::2196517"
+  "TeamWork Online (all sports, newest)::2196517",
+  "TeamWork Online (all sports, newest)::2196518",
+  "TeamWork Online (all sports, newest)::2196519"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -764,7 +764,6 @@
   "Pittsburgh Pirates::d79ebd2f-2288-480f-8b95-6254df81b763"
  ],
  "https://my1060wd.wd5.myworkdayjobs.com/Chicago_Cubs_FO": [
-  "Chicago Cubs::/job/Chicago-Illinois/Fan-Engagement-Manager_R001451",
   "Chicago Cubs::/job/Dominican-Academy/Minor-League-Athletic-Trainer---Dominican-Republic_R001452-1",
   "Chicago Cubs::/job/Mesa-Arizona/Associate--Baseball-Technology_R001447"
  ],
