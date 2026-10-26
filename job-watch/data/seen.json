@@ -26,11 +26,11 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-development-athletics-309001",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-vertical-jumps-multi-s-coach-ast-3-308986",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-athletics-communications-309012",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308987",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308988",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletics-director-chief-revenue-officer-cro-309030",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
   "Intercollegiate::https://intercollegiate.co/job/director-of-the-adams-wyche-center-for-academic-excellence-309029",
   "Intercollegiate::https://intercollegiate.co/job/facilities-and-operations-coordinator-309027",
   "Intercollegiate::https://intercollegiate.co/job/ops-strength-conditioning-coach-309028",
@@ -42,7 +42,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2195131",
   "TeamWork Online (all sports, newest)::2195284",
-  "TeamWork Online (all sports, newest)::2196194",
   "TeamWork Online (all sports, newest)::2196195",
   "TeamWork Online (all sports, newest)::2196196",
   "TeamWork Online (all sports, newest)::2196197",
@@ -239,9 +238,11 @@
   "TeamWork Online (all sports, newest)::2196520",
   "TeamWork Online (all sports, newest)::2196521",
   "TeamWork Online (all sports, newest)::2196522",
-  "TeamWork Online (all sports, newest)::2196523"
+  "TeamWork Online (all sports, newest)::2196523",
+  "TeamWork Online (all sports, newest)::2196524"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
+  "TeamWork Online (NFL teams)::2067455",
   "TeamWork Online (NFL teams)::2068238",
   "TeamWork Online (NFL teams)::2076019",
   "TeamWork Online (NFL teams)::2084217",
@@ -266,7 +267,6 @@
   "TeamWork Online (NFL teams)::2170961",
   "TeamWork Online (NFL teams)::2171429",
   "TeamWork Online (NFL teams)::2175377",
-  "TeamWork Online (NFL teams)::2178142",
   "TeamWork Online (NFL teams)::2178412",
   "TeamWork Online (NFL teams)::2181224",
   "TeamWork Online (NFL teams)::2181436",
@@ -823,8 +823,7 @@
   "Colorado Rockies::6c606bfa-edad-41e0-9440-f99670a626f3",
   "Colorado Rockies::c02f334a-0394-44e4-8251-9949abc39918",
   "Colorado Rockies::d75f84a8-2f30-4769-99be-85290ba888f0",
-  "Colorado Rockies::e8572e5e-117d-4aea-bbd0-7ed980512a3d",
-  "Colorado Rockies::f3b2705a-2502-4e49-9386-05b387556cab"
+  "Colorado Rockies::e8572e5e-117d-4aea-bbd0-7ed980512a3d"
  ],
  "https://recruiting2.ultipro.com/ANG1000ANGEL/JobBoard/c2c34b69-1480-428d-a3a9-c45e8297edb3/?q=&o=postedDateDesc": [
   "Los Angeles Angels::050591b5-14d8-4952-8c15-6010ce70ea24",
@@ -1116,7 +1115,6 @@
   "Sportradar::744000155746839",
   "Sportradar::744000155753385",
   "Sportradar::744000155918309",
-  "Sportradar::744000156284529",
   "Sportradar::744000156559989",
   "Sportradar::744000156753854",
   "Sportradar::744000156764839",
