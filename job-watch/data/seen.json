@@ -18,23 +18,23 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletics-director-for-leadership-mental-performance-309025",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-rowing-309004",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-sailing-309026",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-coach-swimming-309032",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-women-s-rowing-309006",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-wrestling-309024",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-facilities-and-operations-309002",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-equipment-services-308994",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-development-athletics-309001",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-vertical-jumps-multi-s-coach-ast-3-308986",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-athletics-communications-309012",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-sports-medicine-softball-307980",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-309038",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308987",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-outreach-ukhc-308988",
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletics-director-chief-revenue-officer-cro-309030",
   "Intercollegiate::https://intercollegiate.co/job/director-of-the-adams-wyche-center-for-academic-excellence-309029",
   "Intercollegiate::https://intercollegiate.co/job/facilities-and-operations-coordinator-309027",
   "Intercollegiate::https://intercollegiate.co/job/ops-strength-conditioning-coach-309028",
-  "Intercollegiate::https://intercollegiate.co/job/part-time-sports-information-public-address-announcer-309031"
+  "Intercollegiate::https://intercollegiate.co/job/part-time-sports-information-public-address-announcer-309031",
+  "Intercollegiate::https://intercollegiate.co/job/work-study-academics-study-hall-compliance-assistant-fall-2026-spring-2027-309037"
  ],
  "https://ncaamarket.ncaa.org/jobs?keywords=&place=": [
   "NCAA Market::change-8df923f12ca8"
@@ -871,7 +871,6 @@
  ],
  "https://mariners.wd5.myworkdayjobs.com/en-US/Mariners": [
   "Seattle Mariners::/job/Peoria-Arizona/Intern--Minor-League-Development_REQ2026-000031",
-  "Seattle Mariners::/job/Peoria-Arizona/Mental-Skills-Coach_REQ2026-000041",
   "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Rehab-Strength---Conditioning-Coach_REQ2026-000039",
   "Seattle Mariners::/job/Peoria-Arizona/Minor-League-Strength---Conditioning-Coordinator_REQ2026-000038"
  ],
@@ -1077,8 +1076,6 @@
   "Sportradar::744000151631359",
   "Sportradar::744000151991629",
   "Sportradar::744000152029379",
-  "Sportradar::744000152029639",
-  "Sportradar::744000152360379",
   "Sportradar::744000152396509",
   "Sportradar::744000152425773",
   "Sportradar::744000152623358",
@@ -1121,7 +1118,10 @@
   "Sportradar::744000156770149",
   "Sportradar::744000157038629",
   "Sportradar::744000157114899",
-  "Sportradar::744000157442809"
+  "Sportradar::744000157442809",
+  "Sportradar::744000157756584",
+  "Sportradar::744000157759229",
+  "Sportradar::744000157759576"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1365,7 +1365,6 @@
   "Cincinnati Reds::8a78839fa064212401a090a88d745494",
   "Cincinnati Reds::8a78839fa0f425e701a0f93864655403",
   "Cincinnati Reds::8a7883a8a0abfc6b01a0f391b0ed1aa4",
-  "Cincinnati Reds::8a7885a8a13c11b801a141fdbb215f7a",
   "Cincinnati Reds::8a78879ea0f4259701a10d0f5fa10efe",
   "Cincinnati Reds::8a78879ea0f4259701a10d23907a19ef",
   "Cincinnati Reds::8a78879ea128829701a1318ef0d841b0",
