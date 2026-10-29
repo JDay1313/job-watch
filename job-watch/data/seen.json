@@ -27,10 +27,10 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-coach-309167",
   "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-rowing-coach-309130",
   "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-equipment-olympic-sports-309125",
   "Intercollegiate::https://intercollegiate.co/job/casual-hire-business-office-and-uh-foundation-fiscal-assistant-309137",
   "Intercollegiate::https://intercollegiate.co/job/coordinator-of-nil-operations-tennessee-athletics-utk-309126",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
   "Intercollegiate::https://intercollegiate.co/job/graduate-fellowship-309165",
   "Intercollegiate::https://intercollegiate.co/job/head-men-s-and-women-s-tennis-coach-309139",
   "Intercollegiate::https://intercollegiate.co/job/head-men-s-tennis-coach-309141",
@@ -44,18 +44,8 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2192843",
   "TeamWork Online (all sports, newest)::2195861",
-  "TeamWork Online (all sports, newest)::2197061",
-  "TeamWork Online (all sports, newest)::2197074",
-  "TeamWork Online (all sports, newest)::2197075",
-  "TeamWork Online (all sports, newest)::2197076",
-  "TeamWork Online (all sports, newest)::2197077",
-  "TeamWork Online (all sports, newest)::2197078",
-  "TeamWork Online (all sports, newest)::2197079",
-  "TeamWork Online (all sports, newest)::2197080",
-  "TeamWork Online (all sports, newest)::2197081",
   "TeamWork Online (all sports, newest)::2197082",
   "TeamWork Online (all sports, newest)::2197083",
-  "TeamWork Online (all sports, newest)::2197084",
   "TeamWork Online (all sports, newest)::2197085",
   "TeamWork Online (all sports, newest)::2197086",
   "TeamWork Online (all sports, newest)::2197087",
@@ -241,10 +231,19 @@
   "TeamWork Online (all sports, newest)::2197284",
   "TeamWork Online (all sports, newest)::2197285",
   "TeamWork Online (all sports, newest)::2197286",
-  "TeamWork Online (all sports, newest)::2197287"
+  "TeamWork Online (all sports, newest)::2197287",
+  "TeamWork Online (all sports, newest)::2197288",
+  "TeamWork Online (all sports, newest)::2197289",
+  "TeamWork Online (all sports, newest)::2197290",
+  "TeamWork Online (all sports, newest)::2197291",
+  "TeamWork Online (all sports, newest)::2197292",
+  "TeamWork Online (all sports, newest)::2197293",
+  "TeamWork Online (all sports, newest)::2197294",
+  "TeamWork Online (all sports, newest)::2197295",
+  "TeamWork Online (all sports, newest)::2197296",
+  "TeamWork Online (all sports, newest)::2197300"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
-  "TeamWork Online (NFL teams)::2067455",
   "TeamWork Online (NFL teams)::2068238",
   "TeamWork Online (NFL teams)::2076019",
   "TeamWork Online (NFL teams)::2084217",
@@ -387,7 +386,8 @@
   "TeamWork Online (NFL teams)::2197165",
   "TeamWork Online (NFL teams)::2197178",
   "TeamWork Online (NFL teams)::2197226",
-  "TeamWork Online (NFL teams)::2197234"
+  "TeamWork Online (NFL teams)::2197234",
+  "TeamWork Online (NFL teams)::2197294"
  ],
  "greenhouse:majorleaguebaseball": [
   "MLB League Office::4211246",
@@ -614,8 +614,7 @@
   "Philadelphia Phillies (Baseball Ops)::7751458003",
   "Philadelphia Phillies (Baseball Ops)::8002979003",
   "Philadelphia Phillies (Baseball Ops)::8005783003",
-  "Philadelphia Phillies (Baseball Ops)::8009947003",
-  "Philadelphia Phillies (Baseball Ops)::8013373003"
+  "Philadelphia Phillies (Baseball Ops)::8009947003"
  ],
  "https://atlantabravesmlb.wd5.myworkdayjobs.com/AtlantaBraves": [
   "Atlanta Braves::/job/Atlanta-GA/Event-Captain_R2107",
@@ -1149,7 +1148,8 @@
   "Sportradar::744000158306371",
   "Sportradar::744000158309760",
   "Sportradar::744000158323034",
-  "Sportradar::744000158324789"
+  "Sportradar::744000158324789",
+  "Sportradar::744000158429049"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1368,6 +1368,7 @@
   "FanDuel::8314961",
   "FanDuel::8318950",
   "FanDuel::8318952",
+  "FanDuel::8319213",
   "FanDuel::8319216",
   "FanDuel::8319289",
   "FanDuel::8324415",
@@ -1378,11 +1379,11 @@
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-video-producer-i/391/102036586960",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/social-media-specialist-ii-college-networks/391/102181173632",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervisor-remi-operations/391/102041250656",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/technical-director-i-studio-ops/391/102299253600",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/lead-real-time-graphics-developer/391/102295070672",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/supervising-real-time-graphics-developer/391/102295078192",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/connecticut/associate-editor-seo-part-time/391/102248244448",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/director-i/391/102002678736",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/production-assistant/391/102567146368",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/new-york/sports-marketing-coordinator/391/102510660032"
  ],
  "https://daiwa.us/pages/careers-page": [
