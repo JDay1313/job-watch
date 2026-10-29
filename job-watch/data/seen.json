@@ -17,26 +17,26 @@
   "Teamworks::ff8d3963-9fcc-4793-bc74-622c45ae9a56"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/academic-tutor-309129",
-  "Intercollegiate::https://intercollegiate.co/job/annual-giving-officer-athletics-309128",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-track-field-309136",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-coach-of-men-s-basketball-i-309124",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-athletic-communications-post-campus-309145",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-for-football-academics-department-of-athletics-309123",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-athletics-hawkvision-309135",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-track-coach-309167",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-women-s-rowing-coach-309130",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-compliance-athletics-308489",
-  "Intercollegiate::https://intercollegiate.co/job/athletics-assistant-equipment-olympic-sports-309125",
-  "Intercollegiate::https://intercollegiate.co/job/casual-hire-business-office-and-uh-foundation-fiscal-assistant-309137",
-  "Intercollegiate::https://intercollegiate.co/job/coordinator-of-nil-operations-tennessee-athletics-utk-309126",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-a-d-accounting-finance-309234",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-athletic-performance-for-football-309238",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-broadcast-and-video-services-309236",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-equipment-operations-head-of-football-309221",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-sports-medicine-309239",
+  "Intercollegiate::https://intercollegiate.co/job/associate-ad-marketing-fan-experience-engagement-marketing-branding-309246",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-a-club-alumni-association-531021-309233",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-of-sports-medicine-309237",
+  "Intercollegiate::https://intercollegiate.co/job/associate-rdn-registered-dietitian-nutritionist-309242",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-309220",
+  "Intercollegiate::https://intercollegiate.co/job/digital-communications-specialist-309191",
   "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
-  "Intercollegiate::https://intercollegiate.co/job/graduate-fellowship-309165",
-  "Intercollegiate::https://intercollegiate.co/job/head-men-s-and-women-s-tennis-coach-309139",
-  "Intercollegiate::https://intercollegiate.co/job/head-men-s-tennis-coach-309141",
-  "Intercollegiate::https://intercollegiate.co/job/indoor-track-monitor-309147",
-  "Intercollegiate::https://intercollegiate.co/job/intercollegiate-athletics-equipment-specialist-309133",
-  "Intercollegiate::https://intercollegiate.co/job/student-emp-sports-athletic-marketing-assistant-309164"
+  "Intercollegiate::https://intercollegiate.co/job/director-of-team-services-for-basketball-and-olympic-sports-309240",
+  "Intercollegiate::https://intercollegiate.co/job/executive-director-strategic-communications-309243",
+  "Intercollegiate::https://intercollegiate.co/job/major-gift-officer-athletics-309232",
+  "Intercollegiate::https://intercollegiate.co/job/student-emergency-medical-technician-309247",
+  "Intercollegiate::https://intercollegiate.co/job/student-team-willy-marketing-associate-309248",
+  "Intercollegiate::https://intercollegiate.co/job/ticket-office-associate-hourly-309249",
+  "Intercollegiate::https://intercollegiate.co/job/unit-business-officer-athletics-309224"
  ],
  "https://ncaamarket.ncaa.org/jobs?keywords=&place=": [
   "NCAA Market::change-8df923f12ca8"
@@ -46,8 +46,6 @@
   "TeamWork Online (all sports, newest)::2195861",
   "TeamWork Online (all sports, newest)::2197082",
   "TeamWork Online (all sports, newest)::2197083",
-  "TeamWork Online (all sports, newest)::2197085",
-  "TeamWork Online (all sports, newest)::2197086",
   "TeamWork Online (all sports, newest)::2197087",
   "TeamWork Online (all sports, newest)::2197088",
   "TeamWork Online (all sports, newest)::2197089",
@@ -241,7 +239,9 @@
   "TeamWork Online (all sports, newest)::2197294",
   "TeamWork Online (all sports, newest)::2197295",
   "TeamWork Online (all sports, newest)::2197296",
-  "TeamWork Online (all sports, newest)::2197300"
+  "TeamWork Online (all sports, newest)::2197300",
+  "TeamWork Online (all sports, newest)::2197301",
+  "TeamWork Online (all sports, newest)::2197302"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2068238",
@@ -1117,7 +1117,6 @@
   "Sportradar::744000155424015",
   "Sportradar::744000155458989",
   "Sportradar::744000155539399",
-  "Sportradar::744000155671259",
   "Sportradar::744000155746839",
   "Sportradar::744000155753385",
   "Sportradar::744000155918309",
@@ -1149,7 +1148,7 @@
   "Sportradar::744000158309760",
   "Sportradar::744000158323034",
   "Sportradar::744000158324789",
-  "Sportradar::744000158429049"
+  "Sportradar::744000158444959"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
