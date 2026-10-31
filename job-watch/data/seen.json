@@ -30,7 +30,7 @@
   "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-chief-financial-officer-309343",
   "Intercollegiate::https://intercollegiate.co/job/director-event-management-309358",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-309365",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
   "Intercollegiate::https://intercollegiate.co/job/executive-associate-athletics-director-for-sports-administration-309367",
   "Intercollegiate::https://intercollegiate.co/job/senior-athletic-trainer-309371",
   "Intercollegiate::https://intercollegiate.co/job/temporary-strength-and-conditioning-football-309372",
@@ -43,8 +43,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2196580",
   "TeamWork Online (all sports, newest)::2197379",
-  "TeamWork Online (all sports, newest)::2197493",
-  "TeamWork Online (all sports, newest)::2197494",
   "TeamWork Online (all sports, newest)::2197495",
   "TeamWork Online (all sports, newest)::2197496",
   "TeamWork Online (all sports, newest)::2197497",
@@ -240,7 +238,9 @@
   "TeamWork Online (all sports, newest)::2197697",
   "TeamWork Online (all sports, newest)::2197698",
   "TeamWork Online (all sports, newest)::2197699",
-  "TeamWork Online (all sports, newest)::2197700"
+  "TeamWork Online (all sports, newest)::2197700",
+  "TeamWork Online (all sports, newest)::2197701",
+  "TeamWork Online (all sports, newest)::2197702"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2076019",
@@ -1379,9 +1379,9 @@
   "FanDuel::8337243"
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/associate-editor-apps-part-time/391/102253026944",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-video-producer-i/391/102036586960",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/social-media-specialist-ii-college-networks/391/102181173632",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-support-associate-i/391/102653611520",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-support-associate-ii/391/102653609632",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/social-media-specialist-ll/391/102653608368",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/technical-operations-manager-remi-ops/391/102635837552",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-operations-coordinator-i/391/102640033616",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/sr-technical-operations-manager/391/102635835328",
