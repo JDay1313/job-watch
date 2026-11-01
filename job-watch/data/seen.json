@@ -17,22 +17,22 @@
   "Teamworks::ebd874bf-521c-4059-9563-af919281a037"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/assistant-associate-director-of-athletics-for-communications-309345",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-annual-giving-and-premium-seating-309364",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-performance-coach-309370",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletics-game-operations-coordinator-309353",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-coach-baseball-recreation-equipment-coordinator-309380",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-annual-giving-309357",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-recruiting-operations-309368",
   "Intercollegiate::https://intercollegiate.co/job/assistant-mens-tennis-coach-309363",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-and-conditioning-coach-309360",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-football-administration-309369",
-  "Intercollegiate::https://intercollegiate.co/job/counselor-athletics-mental-health-specialist-309342",
-  "Intercollegiate::https://intercollegiate.co/job/deputy-athletic-director-chief-financial-officer-309343",
   "Intercollegiate::https://intercollegiate.co/job/director-event-management-309358",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-309365",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-business-intelligence-309378",
   "Intercollegiate::https://intercollegiate.co/job/executive-associate-athletics-director-for-sports-administration-309367",
+  "Intercollegiate::https://intercollegiate.co/job/head-coach-football-309377",
   "Intercollegiate::https://intercollegiate.co/job/senior-athletic-trainer-309371",
+  "Intercollegiate::https://intercollegiate.co/job/temporary-athletic-staff-hourly-temp-hire-309379",
   "Intercollegiate::https://intercollegiate.co/job/temporary-strength-and-conditioning-football-309372",
   "Intercollegiate::https://intercollegiate.co/job/ticketing-services-coordinator-athletics-309366",
   "Intercollegiate::https://intercollegiate.co/job/women-s-tennis-coaching-assistant-309362"
@@ -124,7 +124,6 @@
   "TeamWork Online (all sports, newest)::2197591",
   "TeamWork Online (all sports, newest)::2197592",
   "TeamWork Online (all sports, newest)::2197593",
-  "TeamWork Online (all sports, newest)::2197594",
   "TeamWork Online (all sports, newest)::2197595",
   "TeamWork Online (all sports, newest)::2197596",
   "TeamWork Online (all sports, newest)::2197597",
@@ -240,9 +239,12 @@
   "TeamWork Online (all sports, newest)::2197711",
   "TeamWork Online (all sports, newest)::2197712",
   "TeamWork Online (all sports, newest)::2197713",
-  "TeamWork Online (all sports, newest)::2197714"
+  "TeamWork Online (all sports, newest)::2197714",
+  "TeamWork Online (all sports, newest)::2197715"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
+  "TeamWork Online (NFL teams)::2067455",
+  "TeamWork Online (NFL teams)::2068238",
   "TeamWork Online (NFL teams)::2076019",
   "TeamWork Online (NFL teams)::2084217",
   "TeamWork Online (NFL teams)::2116280",
@@ -269,8 +271,6 @@
   "TeamWork Online (NFL teams)::2178412",
   "TeamWork Online (NFL teams)::2181224",
   "TeamWork Online (NFL teams)::2181488",
-  "TeamWork Online (NFL teams)::2181797",
-  "TeamWork Online (NFL teams)::2181799",
   "TeamWork Online (NFL teams)::2182124",
   "TeamWork Online (NFL teams)::2182284",
   "TeamWork Online (NFL teams)::2182535",
@@ -278,7 +278,6 @@
   "TeamWork Online (NFL teams)::2182883",
   "TeamWork Online (NFL teams)::2182988",
   "TeamWork Online (NFL teams)::2183512",
-  "TeamWork Online (NFL teams)::2184103",
   "TeamWork Online (NFL teams)::2184261",
   "TeamWork Online (NFL teams)::2184317",
   "TeamWork Online (NFL teams)::2184979",
@@ -696,7 +695,6 @@
   "Washington Nationals::f70043a2-5880-4685-bb60-39a6cbb8e228"
  ],
  "https://www.teamworkonline.com/baseball-jobs/miamibaseball/miami-marlins": [
-  "Miami Marlins::2184852",
   "Miami Marlins::2193465",
   "Miami Marlins::2194146",
   "Miami Marlins::2194780",
@@ -928,9 +926,9 @@
  "https://recruiting.ultipro.com/HOC10001BFLO/JobBoard/fe63f75a-e850-45d2-8772-63a210927fdc/?q=&o=postedDateDesc": [],
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0103272e-a631-4293-97b2-7da68f74bc1f&ccId=19000101_000001&type=MP&lang=en_US": [],
  "https://clevelandbrowns.isolvedhire.com/jobs/": [
-  "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1742952",
   "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1890198",
-  "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1890213"
+  "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1890213",
+  "Cleveland Browns::https://clevelandbrowns.isolvedhire.com/jobs/1895397"
  ],
  "greenhouse:denverbroncosteamllc": [
   "Denver Broncos::5462805008"
@@ -1402,10 +1400,7 @@
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07c5da337017c9998a2cb1623": [
   "Cincinnati Reds::8a78839ea0f4259801a0fea1758e1acb",
-  "Cincinnati Reds::8a78839fa064212401a090a88d745494",
   "Cincinnati Reds::8a78839fa0f425e701a0f93864655403",
-  "Cincinnati Reds::8a78879ea0f4259701a10d0f5fa10efe",
-  "Cincinnati Reds::8a78879ea0f4259701a10d23907a19ef",
   "Cincinnati Reds::8a78879ea128829701a1318ef0d841b0",
   "Cincinnati Reds::8a7887a1a150293901a1656032220aa0"
  ],
