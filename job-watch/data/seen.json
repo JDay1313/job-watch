@@ -25,10 +25,11 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-mens-tennis-coach-309363",
   "Intercollegiate::https://intercollegiate.co/job/assistant-strength-and-conditioning-coach-309360",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-football-administration-309369",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/director-event-management-309358",
   "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-309365",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
   "Intercollegiate::https://intercollegiate.co/job/director-of-business-intelligence-309378",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
   "Intercollegiate::https://intercollegiate.co/job/executive-associate-athletics-director-for-sports-administration-309367",
   "Intercollegiate::https://intercollegiate.co/job/head-coach-football-309377",
   "Intercollegiate::https://intercollegiate.co/job/senior-athletic-trainer-309371",
@@ -41,7 +42,6 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2196580",
   "TeamWork Online (all sports, newest)::2196995",
   "TeamWork Online (all sports, newest)::2196997",
   "TeamWork Online (all sports, newest)::2196998",
@@ -51,10 +51,7 @@
   "TeamWork Online (all sports, newest)::2197002",
   "TeamWork Online (all sports, newest)::2197003",
   "TeamWork Online (all sports, newest)::2197516",
-  "TeamWork Online (all sports, newest)::2197517",
-  "TeamWork Online (all sports, newest)::2197518",
   "TeamWork Online (all sports, newest)::2197519",
-  "TeamWork Online (all sports, newest)::2197521",
   "TeamWork Online (all sports, newest)::2197522",
   "TeamWork Online (all sports, newest)::2197523",
   "TeamWork Online (all sports, newest)::2197524",
@@ -240,7 +237,11 @@
   "TeamWork Online (all sports, newest)::2197712",
   "TeamWork Online (all sports, newest)::2197713",
   "TeamWork Online (all sports, newest)::2197714",
-  "TeamWork Online (all sports, newest)::2197715"
+  "TeamWork Online (all sports, newest)::2197715",
+  "TeamWork Online (all sports, newest)::2197716",
+  "TeamWork Online (all sports, newest)::2197717",
+  "TeamWork Online (all sports, newest)::2197718",
+  "TeamWork Online (all sports, newest)::2197719"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -819,7 +820,6 @@
   "San Diego Padres::2699852",
   "San Diego Padres::2706790",
   "San Diego Padres::2813576",
-  "San Diego Padres::2889880",
   "San Diego Padres::2909582",
   "San Diego Padres::2919258"
  ],
@@ -1143,7 +1143,6 @@
   "Sportradar::744000158309760",
   "Sportradar::744000158323034",
   "Sportradar::744000158324789",
-  "Sportradar::744000158444959",
   "Sportradar::744000158455300",
   "Sportradar::744000158545980",
   "Sportradar::744000158680489",
