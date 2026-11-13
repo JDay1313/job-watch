@@ -14,26 +14,26 @@
   "Teamworks::e07cdd09-6ad9-47c2-9322-3766405c3473"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/academic-mentor-310503",
-  "Intercollegiate::https://intercollegiate.co/job/academic-services-intern-310501",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-for-sports-administration-310514",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-annual-giving-309357",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-ticket-manager-310521",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-academic-mentor-non-student-310502",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-subject-tutor-non-student-310507",
-  "Intercollegiate::https://intercollegiate.co/job/athletic-subject-tutor-student-assistant-310508",
-  "Intercollegiate::https://intercollegiate.co/job/class-checker-non-student-assistant-310500",
-  "Intercollegiate::https://intercollegiate.co/job/culinary-server-for-georgia-football-student-assistant-310499",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-broadcast-operations-athletics-310510",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-digital-media-310519",
+  "Intercollegiate::https://intercollegiate.co/job/academic-advisor-learning-specialist-310611",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-for-advancement-000470-310608",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-coach-sports-performance-310556",
+  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
+  "Intercollegiate::https://intercollegiate.co/job/associate-vp-chief-business-operations-strategy-officer-310585",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-study-hall-monitor-310577",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-310563",
+  "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-310583",
   "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-recruiting-player-development-baseball-310515",
-  "Intercollegiate::https://intercollegiate.co/job/lead-broadcast-engineer-310509",
-  "Intercollegiate::https://intercollegiate.co/job/manager-athletic-ticket-sales-and-operations-310517",
-  "Intercollegiate::https://intercollegiate.co/job/math-tutor-310505",
-  "Intercollegiate::https://intercollegiate.co/job/math-tutor-student-assistant-310506",
-  "Intercollegiate::https://intercollegiate.co/job/olympic-sports-nutrition-non-student-worker-310504",
-  "Intercollegiate::https://intercollegiate.co/job/sales-coordinator-310520"
+  "Intercollegiate::https://intercollegiate.co/job/head-men-s-soccer-coach-310555",
+  "Intercollegiate::https://intercollegiate.co/job/head-men-s-soccer-coach-310610",
+  "Intercollegiate::https://intercollegiate.co/job/head-softball-coach-310603",
+  "Intercollegiate::https://intercollegiate.co/job/head-women-s-volleyball-coach-310604",
+  "Intercollegiate::https://intercollegiate.co/job/leadership-giving-officer-athletics-310609",
+  "Intercollegiate::https://intercollegiate.co/job/senior-director-of-major-gifts-310607",
+  "Intercollegiate::https://intercollegiate.co/job/sr-associate-athletic-director-for-external-affairs-ex9850-310597",
+  "Intercollegiate::https://intercollegiate.co/job/student-assistant-office-assistant-work-study-athletics-administration-310596",
+  "Intercollegiate::https://intercollegiate.co/job/student-assistant-university-athletics-athletic-equipment-assistant-fall-2026-310564",
+  "Intercollegiate::https://intercollegiate.co/job/temporary-assistant-strength-performance-specialist-kueber-weight-room-part-time-310605",
+  "Intercollegiate::https://intercollegiate.co/job/temporary-sport-science-fellow-part-time-310606"
  ],
  "https://ncaamarket.ncaa.org/jobs?keywords=&place=": [
   "NCAA Market::change-8df923f12ca8"
@@ -41,8 +41,6 @@
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2198980",
   "TeamWork Online (all sports, newest)::2199272",
-  "TeamWork Online (all sports, newest)::2199275",
-  "TeamWork Online (all sports, newest)::2199277",
   "TeamWork Online (all sports, newest)::2199278",
   "TeamWork Online (all sports, newest)::2199279",
   "TeamWork Online (all sports, newest)::2199280",
@@ -238,7 +236,9 @@
   "TeamWork Online (all sports, newest)::2199486",
   "TeamWork Online (all sports, newest)::2199487",
   "TeamWork Online (all sports, newest)::2199488",
-  "TeamWork Online (all sports, newest)::2199489"
+  "TeamWork Online (all sports, newest)::2199489",
+  "TeamWork Online (all sports, newest)::2199490",
+  "TeamWork Online (all sports, newest)::2199491"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -300,7 +300,6 @@
   "TeamWork Online (NFL teams)::2190494",
   "TeamWork Online (NFL teams)::2190953",
   "TeamWork Online (NFL teams)::2192048",
-  "TeamWork Online (NFL teams)::2192166",
   "TeamWork Online (NFL teams)::2192414",
   "TeamWork Online (NFL teams)::2192738",
   "TeamWork Online (NFL teams)::2192739",
@@ -1166,7 +1165,8 @@
   "Sportradar::744000161224459",
   "Sportradar::744000161316371",
   "Sportradar::744000161326489",
-  "Sportradar::744000161346302"
+  "Sportradar::744000161346302",
+  "Sportradar::744000161434619"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1395,14 +1395,14 @@
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/associate-editor-apps-part-time/391/102253026944",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-video-producer-i/391/102036586960",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-coordinator/391/103132324224",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/production-support-associate-i/391/102653611520",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/social-media-specialist-ii-college-networks/391/102181173632",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/sr-studio-operator-studio-ops/391/102807173136",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/technical-director-i-studio-ops/391/102299253600",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/technical-operations-manager-remi-ops/391/102635837552",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/video-editor/391/102819835248",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/supervising-real-time-graphics-developer/391/102295078192",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/connecticut/associate-editor-seo-part-time/391/102248244448",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/part-time-sports-content-researcher/391/103243191696",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/video-editor/391/102819842944"
  ],
  "https://daiwa.us/pages/careers-page": [
@@ -1417,7 +1417,6 @@
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07c5da337017c9998a2cb1623": [
   "Cincinnati Reds::8a78839fa064212401a090a88d745494",
   "Cincinnati Reds::8a78839fa0f425e701a0f93864655403",
-  "Cincinnati Reds::8a7883a8a0abfc6b01a0f391b0ed1aa4",
   "Cincinnati Reds::8a7883a8a184746e01a19e15164a6ccb",
   "Cincinnati Reds::8a7885aca18473fa01a1cbbac02a3991"
  ],
