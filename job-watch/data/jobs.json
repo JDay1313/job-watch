@@ -1,5 +1,515 @@
 [
  {
+  "key": "Arizona Cardinals::e5814799-28d9-46fb-8614-761dbe66fb98",
+  "company": "Arizona Cardinals",
+  "title": "Director, Cybersecurity Engineering",
+  "url": "https://recruiting2.ultipro.com/ARI1001CARD/JobBoard/bfe37693-2c0a-46b6-af4e-f984b08a8e7f/OpportunityDetail?opportunityId=e5814799-28d9-46fb-8614-761dbe66fb98",
+  "location": "Tempe, AZ",
+  "description": "The Director will manage and execute an enterprise cybersecurity engineering strategy aligned with business requirements, evolving cyber threats, NFL cybersecurity expectations, and the organization’s growing adoption of artificial intelligence. This role…",
+  "posted": "2026-11-17T23:42:15.19Z",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "Colorado Rockies::9f81b3d9-4916-4fd7-a8be-27c0c4ca1ef6",
+  "company": "Colorado Rockies",
+  "title": "Business Strategy Analyst",
+  "url": "https://recruiting2.ultipro.com/COL1047COLBA/JobBoard/17b65dc7-8957-462f-bbe5-957d054a4367/OpportunityDetail?opportunityId=9f81b3d9-4916-4fd7-a8be-27c0c4ca1ef6",
+  "location": "Denver, CO",
+  "description": "The Strategy Analyst will report to the Strategy Lead, who will set priorities and provide coaching and development. In day-to-day work, the Strategy Generalist will work directly with marketing and sales leaders. Success in the role requires business…",
+  "posted": "2026-11-17T23:00:07.572Z",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "FanDuel::8356784",
+  "company": "FanDuel",
+  "title": "Customer Growth Senior Associate",
+  "url": "https://www.fanduel.careers/open-positions?gh_jid=8356784",
+  "location": "Toronto, Ontario, Canada",
+  "description": "THE POSITION Our roster has an opening with your name on it. We’re searching for a Customer Growth, Senior Associate to play a pivotal role in bringing FanDuel’s loyalty and lifecycle strategy to life. In this role, you’ll shape how customers experience…",
+  "posted": "2026-11-17T17:54:13-05:00",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "Boston Red Sox::e4ff9fb2-9bfc-4ceb-9f6d-f7f69868ff00",
+  "company": "Boston Red Sox",
+  "title": "Senior Coordinator, Youth Baseball and Softball",
+  "url": "https://jobs.lever.co/redsox/e4ff9fb2-9bfc-4ceb-9f6d-f7f69868ff00",
+  "location": "Boston, MA, United States",
+  "description": "",
+  "posted": "2026-11-17T22:30:35.840000+00:00",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-athletic-video-productions-310671",
+  "company": "Intercollegiate",
+  "title": "Director of Athletic Video Productions ($47,000-$56,000/yr)",
+  "url": "https://intercollegiate.co/job/director-of-athletic-video-productions-310671",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
+  "company": "Intercollegiate",
+  "title": "Director of Athletics, Compliance",
+  "url": "https://intercollegiate.co/job/director-of-athletics-compliance-308670",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200119",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Kitchen Assistant - Part-Time",
+  "url": "https://www.teamworkonline.com/basketball-jobs/blazers/portland-trail-blazers/kitchen-assistant-part-time-2200119",
+  "location": "Tualatin, OR",
+  "description": "Portland Trail Blazers · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200118",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Groundskeeper",
+  "url": "https://www.teamworkonline.com/soccer-jobs/los-angeles-football-club/los-angeles-football-club/groundskeeper-2200118",
+  "location": "Los Angeles, CA",
+  "description": "Los Angeles Football Club · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200117",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Volo Sports Host - North Charleston (Part-Time)",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/volo-sports-jobs/volo-charleston-jobs/volo-sports-host-north-charleston-part-time-2200117",
+  "location": "North Charleston, SC",
+  "description": "Volo Charleston · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200115",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ice Rink Closing Manager / Manager On Duty",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asec-llc/pineville-ice-house-jobs/ice-rink-closing-manager-manager-on-duty-2200115",
+  "location": "Pineville, NC",
+  "description": "Pineville Ice House · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200116",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Luxury Suites Supervisor, TD Garden",
+  "url": "https://www.teamworkonline.com/hockey-jobs/boston-bruins-jobs/delaware-north-jobs/luxury-suites-supervisor-td-garden-2200116",
+  "location": "Boston, MA",
+  "description": "Delaware North · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200114",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ice Rink Pro Shop Associate - Part Time to Full Time Hourly",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asec-llc/pineville-ice-house-jobs/ice-rink-pro-shop-associate-part-time-to-full-time-hourly-2200114",
+  "location": "Pineville, NC",
+  "description": "Pineville Ice House · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200113",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Volo Sports Weekend Host",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/volo-sports-jobs/volo-charleston-jobs/volo-sports-weekend-host-2200113",
+  "location": "Charleston, SC",
+  "description": "Volo Charleston · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200111",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Trade-in Event Buyer/Account executive - DMV",
+  "url": "https://www.teamworkonline.com/live-event-jobs/liveeventjobs/sidelineswap-jobs/trade-in-event-buyer-account-executive-dmv-2200111",
+  "location": "Fairfax, VA · Hybrid",
+  "description": "SidelineSwap · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200112",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Director, Cybersecurity Engineering",
+  "url": "https://www.teamworkonline.com/football-jobs/arizona-cardinals-jobs/arizona-cardinals/director-cybersecurity-engineering-2200112",
+  "location": "Tempe, AZ",
+  "description": "Arizona Cardinals · Director",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200110",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Sporting Goods Resale - Account Executive Plano (DFW)",
+  "url": "https://www.teamworkonline.com/live-event-jobs/liveeventjobs/sidelineswap-jobs/sporting-goods-resale-account-executive-plano-dfw-2200110",
+  "location": "Plano, TX · Hybrid",
+  "description": "SidelineSwap · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200109",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Gameday Stage Manager (Seasonal)",
+  "url": "https://www.teamworkonline.com/soccer-jobs/nwslsoccer/angel-city-fc/gameday-stage-manager-seasonal-2200109",
+  "location": "Los Angeles, CA",
+  "description": "Angel City FC · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200107",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Production Manager - The Fonda (Goldenvoice)",
+  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/aeg-presents/production-manager-the-fonda-goldenvoice-2200107",
+  "location": "Los Angeles, CA",
+  "description": "AEG Presents · Manager",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200108",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Site Reliability Engineer II  - AXS",
+  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/axs-jobs/site-reliability-engineer-ii-axs-2200108",
+  "location": "Los Angeles, CA",
+  "description": "AXS · Director",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200106",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Business Strategy Analyst",
+  "url": "https://www.teamworkonline.com/baseball-jobs/colorado-rockies/colorado-rockies-jobs/business-strategy-analyst-2200106",
+  "location": "Denver, CO",
+  "description": "Colorado Rockies · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200105",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Grounds Crew",
+  "url": "https://www.teamworkonline.com/baseball-jobs/internationalleague/jacksonville-jumbo-shrimp/grounds-crew-2200105",
+  "location": "Jacksonville, FL",
+  "description": "Jacksonville Jumbo Shrimp · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200104",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Seasonal Assistant Groundskeeper",
+  "url": "https://www.teamworkonline.com/baseball-jobs/internationalleague/jacksonville-jumbo-shrimp/seasonal-assistant-groundskeeper-2200104",
+  "location": "Jacksonville, FL",
+  "description": "Jacksonville Jumbo Shrimp · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200103",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Lead Guest Experience Associate",
+  "url": "https://www.teamworkonline.com/soccer-jobs/toca-football-jobs/toca-football-jobs/lead-guest-experience-associate-2200103",
+  "location": "Denver, CO",
+  "description": "TOCA Football · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200102",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Account Manager, Partnership Strategy & Service",
+  "url": "https://www.teamworkonline.com/basketball-jobs/phoenix-suns/phoenix-suns/account-manager-partnership-strategy-service-2200102",
+  "location": "Phoenix, AZ",
+  "description": "Phoenix Suns · Manager",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200100",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Manager, Ticket Sales",
+  "url": "https://www.teamworkonline.com/baseball-jobs/diamond-baseball-holdings/fayetteville-woodpeckers-jobs/manager-ticket-sales-2200100",
+  "location": "Fayetteville, NC",
+  "description": "Fayetteville Woodpeckers · Manager",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200096",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Volo Referee - Soccer (Part Time)",
+  "url": "https://www.teamworkonline.com/youth-sports-jobs/volo-sports-jobs/volo-charleston-jobs/volo-referee-soccer-part-time-2200096",
+  "location": "Charleston, SC",
+  "description": "Volo Sports · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200099",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Usher",
+  "url": "https://www.teamworkonline.com/baseball-jobs/milwaukeebaseball/milwaukee-brewers/usher-2200099",
+  "location": "Milwaukee, WI",
+  "description": "Milwaukee Brewers · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200098",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Facility Services Technician (HQ)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/phoenix-suns/phoenix-suns/facility-services-technician-hq-2200098",
+  "location": "Phoenix, AZ",
+  "description": "Phoenix Suns · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200097",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Associate, Player Development",
+  "url": "https://www.teamworkonline.com/baseball-jobs/arizona-diamondbacks-jobs/arizona-diamondbacks/associate-player-development-2200097",
+  "location": "Phoenix, AZ",
+  "description": "Arizona Diamondbacks · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2198318",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Jaguars Onsite Shadowship as part of HBCU Virtual Careers in Sports Combine",
+  "url": "https://www.teamworkonline.com/football-jobs/footballjobs/jacksonville-jaguars/jaguars-onsite-shadowship-as-part-of-hbcu-virtual-careers-in-sports-combine-2198318",
+  "location": "Jacksonville, FL",
+  "description": "Jacksonville Jaguars · Intern",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200095",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Sportmaster Global Sport Business Academy: Milan, Italy | Executive Immersion Week | Spring 2027",
+  "url": "https://www.teamworkonline.com/college-jobs/collegesportsjobs/sportsmaster-global-sport-business-academy/sportmaster-global-sport-business-academy-milan-italy-executive-immersion-week-spring-2027-2200095",
+  "location": "United States · Italy · Remote",
+  "description": "Sportmaster Global Sport Business Academy · Intern",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200094",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Personal Trainer | Small Group Coach",
+  "url": "https://www.teamworkonline.com/live-event-jobs/liveeventjobs/evolution-physical-therapy-jobs/personal-trainer-small-group-coach-2200094",
+  "location": "Los Angeles, CA",
+  "description": "Evolution Physical Therapy · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200091",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Assistant General Manager - Ice Sports",
+  "url": "https://www.teamworkonline.com/hockey-jobs/dallas-stars-jobs/dallas-stars/assistant-general-manager-ice-sports-2200091",
+  "location": "Northlake, TX",
+  "description": "Dallas Stars · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200093",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Personal Trainer | Small Group Coach",
+  "url": "https://www.teamworkonline.com/live-event-jobs/liveeventjobs/evolution-physical-therapy-jobs/personal-trainer-small-group-coach-2200093",
+  "location": "Beverly Hills, CA",
+  "description": "Evolution Physical Therapy · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200092",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Assistant Controller",
+  "url": "https://www.teamworkonline.com/multiple-properties/three-step-sports/three-step-sports-jobs/assistant-controller-2200092",
+  "location": "Glenview, IL · Hybrid",
+  "description": "3STEP Sports · Director",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200089",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Associate Data Analyst (Soccer)",
+  "url": "https://www.teamworkonline.com/soccer-jobs/mls/portland-timbers/associate-data-analyst-soccer-2200089",
+  "location": "Beaverton , OR",
+  "description": "Portland Timbers · Manager",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200090",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Photo Retail Sales Associate (Seasonal)",
+  "url": "https://www.teamworkonline.com/motorsports-jobs/penske-entertainment/indianapolis-motor-speedway-jobs/photo-retail-sales-associate-seasonal-2200090",
+  "location": "Indianapolis, IN",
+  "description": "Indianapolis Motor Speedway · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200087",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Sales & Service Assistant | A's Las Vegas Ballpark",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/sales-service-assistant-a-s-las-vegas-ballpark-2200087",
+  "location": "Las Vegas, NV",
+  "description": "Legends Global · Intern",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200086",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Account Executive, Ticket Sales | A’s Las Vegas Ballpark",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/account-executive-ticket-sales-a-s-las-vegas-ballpark-2200086",
+  "location": "Las Vegas, NV",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200085",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Guest Experience Specialist",
+  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/guest-experience-specialist-2200085",
+  "location": "Detroit, MI",
+  "description": "Legends Global · Entry Level",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200081",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Merchandise Assistant",
+  "url": "https://www.teamworkonline.com/baseball-jobs/texasleague/frisco-roughriders-29334/merchandise-assistant-2200081",
+  "location": "Frisco, TX",
+  "description": "Frisco RoughRiders · Intern",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200084",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Associate Dietitian (Toledo, AAA)",
+  "url": "https://www.teamworkonline.com/multiple-properties/ilitch-sports/detroit-tigers/associate-dietitian-toledo-aaa-2200084",
+  "location": "Toledo, OH",
+  "description": "Detroit Tigers · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200083",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Vice President, Marketing",
+  "url": "https://www.teamworkonline.com/sports-technology-jobs/fastbreak-ai/fastbreak-ai-jobs/vice-president-marketing-2200083",
+  "location": "Charlotte, NC",
+  "description": "Fastbreak AI · Senior",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200082",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "QA Engineer",
+  "url": "https://www.teamworkonline.com/sports-technology-jobs/fastbreak-ai/fastbreak-ai-jobs/qa-engineer-2200082",
+  "location": "Charlotte, NC",
+  "description": "Fastbreak AI · Manager",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200080",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Grounds Crew",
+  "url": "https://www.teamworkonline.com/baseball-jobs/milwaukeebaseball/milwaukee-brewers/grounds-crew-2200080",
+  "location": "Milwaukee, WI",
+  "description": "Milwaukee Brewers · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (all sports, newest)::2200079",
+  "company": "TeamWork Online (all sports, newest)",
+  "title": "Ticket Service Representative (Part-Time)",
+  "url": "https://www.teamworkonline.com/basketball-jobs/phoenix-suns/phoenix-suns/ticket-service-representative-part-time-2200079",
+  "location": "Phoenix, AZ",
+  "description": "Phoenix Suns · Part Time",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (NFL teams)::2200112",
+  "company": "TeamWork Online (NFL teams)",
+  "title": "Director, Cybersecurity Engineering",
+  "url": "https://www.teamworkonline.com/football-jobs/arizona-cardinals-jobs/arizona-cardinals/director-cybersecurity-engineering-2200112",
+  "location": "Tempe, AZ",
+  "description": "Arizona Cardinals",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "TeamWork Online (NFL teams)::2198318",
+  "company": "TeamWork Online (NFL teams)",
+  "title": "Jaguars Onsite Shadowship as part of HBCU Virtual Careers in Sports Combine",
+  "url": "https://www.teamworkonline.com/football-jobs/footballjobs/jacksonville-jaguars/jaguars-onsite-shadowship-as-part-of-hbcu-virtual-careers-in-sports-combine-2198318",
+  "location": "Jacksonville, FL",
+  "description": "Jacksonville Jaguars",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/mexico-city/estilista-produccion-espn-temporal-6-meses/391/103447902704",
+  "company": "ESPN (Disney Careers)",
+  "title": "Estilista, Producción ESPN (Temporal 6 meses) ESPN Mexico City,  Mexico Nov. 18, 2026",
+  "url": "https://www.disneycareers.com/en/job/mexico-city/estilista-produccion-espn-temporal-6-meses/391/103447902704",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/southington/security-specialist/391/102920267152",
+  "company": "ESPN (Disney Careers)",
+  "title": "Security Specialist ESPN Southington,  Connecticut Nov. 17, 2026",
+  "url": "https://www.disneycareers.com/en/job/southington/security-specialist/391/102920267152",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
+  "key": "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/lead-real-time-graphics-developer/391/102295070672",
+  "company": "ESPN (Disney Careers)",
+  "title": "Lead Real Time Graphics Developer ESPN Charlotte,  North Carolina / Bristol,  Connecticut Oct. 22, 2026",
+  "url": "https://www.disneycareers.com/en/job/charlotte/lead-real-time-graphics-developer/391/102295070672",
+  "location": "",
+  "description": "",
+  "posted": "",
+  "found": "2026-11-18T03:12:24+00:00"
+ },
+ {
   "key": "IndyCar::d460f34c-b698-4301-8144-d98661d2d5f1",
   "company": "IndyCar",
   "title": "Photo Retail Sales Associate (Seasonal)",
@@ -9487,516 +9997,6 @@
   "location": "Phoenix, AZ",
   "description": "Phoenix Suns · Manager",
   "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199317",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Executive Sous Chef - Tennessee Titans Stadium",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/sodexo-live-careers-jobs/sodexo-live-careers-jobs/executive-sous-chef-tennessee-titans-stadium-2199317",
-  "location": "Nashville, TN",
-  "description": "Sodexo Live! · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199316",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Club Attendant | Highmark Stadium",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/club-attendant-highmark-stadium-2199316",
-  "location": "Orchard Park, NY",
-  "description": "Legends Global · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199315",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Contract Chef | Highmark Stadium",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/contract-chef-highmark-stadium-2199315",
-  "location": "Orchard Park, NY",
-  "description": "Legends Global · Director",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199314",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Restaurant Supervisor | Full-Time | WinStar World Casino's Gran Via Buffet",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/restaurant-supervisor-full-time-winstar-world-casino-s-gran-via-buffet-2199314",
-  "location": "Thackerville, OK",
-  "description": "Oak View Group · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199312",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Line Cook | Full-Time | Kansas Athletics Performance Dining",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/line-cook-full-time-kansas-athletics-performance-dining-2199312",
-  "location": "Lawrence, KS",
-  "description": "Oak View Group · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199311",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Event Manager | Full-Time | Macon Centreplex",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/event-manager-full-time-macon-centreplex-2199311",
-  "location": "Macon, GA",
-  "description": "Oak View Group · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199310",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Culinary Director | Full-Time | Lucas Museum of Narrative Art",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/culinary-director-full-time-lucas-museum-of-narrative-art-2199310",
-  "location": "Los Angeles, CA",
-  "description": "Oak View Group · Director",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199309",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Restaurant Executive Chef | Full-Time | Lucas Museum of Narrative Art",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/restaurant-executive-chef-full-time-lucas-museum-of-narrative-art-2199309",
-  "location": "Los Angeles, CA",
-  "description": "Oak View Group · Director",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199308",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Cafe Manager | Full-Time | Lucas Museum of Narrative Art",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/cafe-manager-full-time-lucas-museum-of-narrative-art-2199308",
-  "location": "Los Angeles, CA",
-  "description": "Oak View Group · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199307",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Maitre D | Full-Time | Lucas Museum of Narrative Art",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/maitre-d-full-time-lucas-museum-of-narrative-art-2199307",
-  "location": "Los Angeles, CA",
-  "description": "Oak View Group · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199306",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Ticket Service Rep",
-  "url": "https://www.teamworkonline.com/basketball-jobs/phoenix-suns/phoenix-suns/ticket-service-rep-2199306",
-  "location": "Phoenix, AZ",
-  "description": "Phoenix Suns · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199304",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Talent Acquisition Specialist",
-  "url": "https://www.teamworkonline.com/football-jobs/texans/houston-texans/talent-acquisition-specialist-2199304",
-  "location": "Houston, TX",
-  "description": "Houston Texans · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199305",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Account Executive - Southern Illinois University Athletics",
-  "url": "https://www.teamworkonline.com/college-jobs/taymar-sales-jobs/taymar-salesu-jobs/account-executive-southern-illinois-university-athletics-2199305",
-  "location": "Carbondale, IL",
-  "description": "Taymar Sales U · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199303",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Spring Internship - Front Office & Grassroots Marketing",
-  "url": "https://www.teamworkonline.com/soccer-jobs/usl-soccer-jobs/charleston-battery/spring-internship-front-office-grassroots-marketing-2199303",
-  "location": "Charleston, SC",
-  "description": "Charleston Battery · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199301",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Food & Beverage Stocker (AT&T Discovery District)",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/food-beverage-stocker-at-t-discovery-district-2199301",
-  "location": "Frisco, TX",
-  "description": "Legends Global · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199302",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Event Security",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/event-security-2199302",
-  "location": "Oklahoma City, OK",
-  "description": "Legends Global · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199300",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Guest Relations Representative",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/guest-relations-representative-2199300",
-  "location": "Oklahoma City, OK",
-  "description": "Legends Global · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199289",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Part-Time IT Service Desk",
-  "url": "https://www.teamworkonline.com/hockey-jobs/pittsburgh-penguins/pittsburgh-penguins/part-time-it-service-desk-2199289",
-  "location": "Pittsburgh, PA",
-  "description": "Pittsburgh Penguins · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199299",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Colorado Avalanche Ticket Sales Intern",
-  "url": "https://www.teamworkonline.com/multiple-properties/kroenkesportsjobs/kroenke-sports---entertainment/colorado-avalanche-ticket-sales-intern-2199299",
-  "location": "United States",
-  "description": "Kroenke Sports & Entertainment · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199298",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Public Safety Officer | Full-Time | Palm Beach County Convention Center",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/public-safety-officer-full-time-palm-beach-county-convention-center-2199298",
-  "location": "West Palm Beach, FL",
-  "description": "Oak View Group · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199297",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Security Manager | Full-Time | Regions Arena",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/oakview-group-/ovg-corporate/security-manager-full-time-regions-arena-2199297",
-  "location": "Mobile, AL",
-  "description": "Oak View Group · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199295",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Intern, Corporate Partnerships",
-  "url": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/st--louis-blues/intern-corporate-partnerships-2199295",
-  "location": "St. Louis, MO",
-  "description": "St. Louis Blues, Enterprise Center, Stifel Theatre · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199296",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "LA Galaxy, Youth Class Coach (Part-Time)",
-  "url": "https://www.teamworkonline.com/multiple-properties/aeg-sports/mls-los-angeles-galaxy/la-galaxy-youth-class-coach-part-time-2199296",
-  "location": "Carson, CA",
-  "description": "Los Angeles Galaxy · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199293",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Guest Services Associate (GSA)",
-  "url": "https://www.teamworkonline.com/soccer-jobs/nwslsoccer/chicago-stars-fc-29563/guest-services-associate-gsa-2199293",
-  "location": "Chicago, IL",
-  "description": "Chicago Stars FC · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199294",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Food & Beverage Sales Associate",
-  "url": "https://www.teamworkonline.com/baseball-jobs/capacity-sports-group-baseball-jobs/lakepoint-sports-jobs/food-beverage-sales-associate-2199294",
-  "location": "Emerson, GA",
-  "description": "LakePoint Sports · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199290",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Community Relations Manager",
-  "url": "https://www.teamworkonline.com/baseball-jobs/midwestleague/west-michigan-whitecaps-jobs/community-relations-manager-2199290",
-  "location": "comstock park, MI",
-  "description": "West Michigan Whitecaps · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199292",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Part-Time Referees (Soccer, Flag Football,  Dodgeball, Volleyball, Kickball, Softball)",
-  "url": "https://www.teamworkonline.com/youth-sports-jobs/volo-sports-jobs/volo-sports-boston/part-time-referees-soccer-flag-football-dodgeball-volleyball-kickball-softball-2199292",
-  "location": "BOSTON, MA",
-  "description": "Volo Boston · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199291",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Food & Beverage Cook",
-  "url": "https://www.teamworkonline.com/baseball-jobs/capacity-sports-group-baseball-jobs/lakepoint-sports-jobs/food-beverage-cook-2199291",
-  "location": "Emerson, GA",
-  "description": "LakePoint Sports · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199285",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Painter",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/painter-2199285",
-  "location": "Brooklyn, NY",
-  "description": "Legends Global · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199287",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Guest Services Ambassador",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/guest-services-ambassador-2199287",
-  "location": "Cleveland, OH",
-  "description": "Legends Global · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199286",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Assistant Marketing Manager",
-  "url": "https://www.teamworkonline.com/arenas-facilities-jobs/asm-global-jobs/asm-global-jobs/assistant-marketing-manager-2199286",
-  "location": "Fort Worth, TX",
-  "description": "Legends Global · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199282",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Assistant Director of Production",
-  "url": "https://www.teamworkonline.com/live-event-jobs/liveeventjobs/walton-arts-center-and-walmart-amp-jobs/assistant-director-of-production-2199282",
-  "location": "Rogers , AR",
-  "description": "Walton Arts Center & Walmart Amp · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199283",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Staff Accountant – Iceplex & Treasury Services",
-  "url": "https://www.teamworkonline.com/hockey-jobs/seattle-kraken-/nhl-seattle-jobs/staff-accountant-iceplex-treasury-services-2199283",
-  "location": "Seattle, WA",
-  "description": "Seattle Kraken · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199272",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Graphic Designer",
-  "url": "https://www.teamworkonline.com/sports-technology-jobs/sports-technology-careers/breakaway-sports-jobs/graphic-designer-2199272",
-  "location": "South Hackensack, NJ",
-  "description": "Breakaway Sports · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199280",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Female Game Day Operations - Facilities Attendant",
-  "url": "https://www.teamworkonline.com/baseball-jobs/easternleague/somerset-patriots/female-game-day-operations-facilities-attendant-2199280",
-  "location": "Bridgewater, NJ",
-  "description": "Somerset Patriots Baseball Team · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199279",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Golf Shop Coordinator (Part-Time)",
-  "url": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/tpc-network-jobs/golf-shop-coordinator-part-time-2199279",
-  "location": "San Antonio, TX",
-  "description": "TPC Network · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199278",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Retail Cashier, TD Garden",
-  "url": "https://www.teamworkonline.com/hockey-jobs/boston-bruins-jobs/delaware-north-jobs/retail-cashier-td-garden-2199278",
-  "location": "Boston, MA",
-  "description": "Delaware North · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199277",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Legal Intern (Spring)",
-  "url": "https://www.teamworkonline.com/multiple-properties/playfly-sports/playfly-sports-jobs/legal-intern-spring-2199277",
-  "location": "New York, NY",
-  "description": "Playfly Sports · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199275",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Manager Sales",
-  "url": "https://www.teamworkonline.com/multiple-properties/spurs-jobs/san-antonio-spurs/manager-sales-2199275",
-  "location": "Austin, TX",
-  "description": "San Antonio Spurs · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199274",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Faculty, World Language (Spanish)",
-  "url": "https://www.teamworkonline.com/youth-sports-jobs/img-academy-jobs/img-academy/faculty-world-language-spanish-2199274",
-  "location": "Bradenton, FL",
-  "description": "IMG Academy · Entry Level",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199273",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Ticket Operations/Box Office Intern",
-  "url": "https://www.teamworkonline.com/baseball-jobs/aapb/gary-southshore-railcats-jobs/ticket-operations-box-office-intern-2199273",
-  "location": "Gary , IN",
-  "description": "Gary SouthShore RailCats · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199271",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "HSG Business Fellowship",
-  "url": "https://www.teamworkonline.com/multiple-properties/haslam-sports-group-jobs/columbus-nwsl-2028-jobs-careers/hsg-business-fellowship-2199271",
-  "location": "Columbus, OH",
-  "description": "Columbus NWSL 2028 · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199270",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "HSG Business Fellowship",
-  "url": "https://www.teamworkonline.com/soccer-jobs/columbus-crew-jobs/columbus-crew/hsg-business-fellowship-2199270",
-  "location": "Columbus, OH",
-  "description": "Columbus Crew · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199269",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "HSG Business Fellowship",
-  "url": "https://www.teamworkonline.com/football-jobs/browns/cleveland-browns-28698/hsg-business-fellowship-2199269",
-  "location": "Berea, OH",
-  "description": "Cleveland Browns · Intern",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199268",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "Game Operations Game Night Assistant",
-  "url": "https://www.teamworkonline.com/basketball-jobs/blazers/portland-trail-blazers/game-operations-game-night-assistant-2199268",
-  "location": "Portland, OR",
-  "description": "Portland Trail Blazers · Part Time",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (all sports, newest)::2199267",
-  "company": "TeamWork Online (all sports, newest)",
-  "title": "The Newberry - Concert & Event Venue - General Manager",
-  "url": "https://www.teamworkonline.com/baseball-jobs/pioneer-league-jobs/great-falls-voyagers-jobs/the-newberry-concert-event-venue-general-manager-2199267",
-  "location": "Great Falls, MT",
-  "description": "The Newberry · Manager",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (NFL teams)::2199304",
-  "company": "TeamWork Online (NFL teams)",
-  "title": "Talent Acquisition Specialist",
-  "url": "https://www.teamworkonline.com/football-jobs/texans/houston-texans/talent-acquisition-specialist-2199304",
-  "location": "Houston, TX",
-  "description": "Houston Texans",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "TeamWork Online (NFL teams)::2199269",
-  "company": "TeamWork Online (NFL teams)",
-  "title": "HSG Business Fellowship",
-  "url": "https://www.teamworkonline.com/football-jobs/browns/cleveland-browns-28698/hsg-business-fellowship-2199269",
-  "location": "Berea, OH",
-  "description": "Cleveland Browns",
-  "posted": "",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "Texas Rangers::/job/Arlington-TX/Ball-Girls_R2438",
-  "company": "Texas Rangers",
-  "title": "Ball Girls",
-  "url": "https://rangersmlb.wd5.myworkdayjobs.com/Rangers/job/Arlington-TX/Ball-Girls_R2438",
-  "location": "Arlington, TX",
-  "description": "R2438",
-  "posted": "Posted Today",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "Texas Rangers::/job/Arlington-TX/Part-Time-Authentics-Associate_R2439",
-  "company": "Texas Rangers",
-  "title": "Part-Time Authentics Associate",
-  "url": "https://rangersmlb.wd5.myworkdayjobs.com/Rangers/job/Arlington-TX/Part-Time-Authentics-Associate_R2439",
-  "location": "Arlington, TX",
-  "description": "R2439",
-  "posted": "Posted Today",
-  "found": "2026-11-12T01:05:29+00:00"
- },
- {
-  "key": "DraftKings::/job/Remote---US/VIP-Host--New-York_JR15168-1",
-  "company": "DraftKings",
-  "title": "VIP Host, New York",
-  "url": "https://draftkings.wd1.myworkdayjobs.com/DraftKings/job/Remote---US/VIP-Host--New-York_JR15168-1",
-  "location": "Remote - US",
-  "description": "JR15168",
-  "posted": "Posted Today",
   "found": "2026-11-12T01:05:29+00:00"
  }
 ]
