@@ -13,26 +13,26 @@
   "Teamworks::e07cdd09-6ad9-47c2-9322-3766405c3473"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/academic-advisor-311004",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-associate-sr-associate-director-of-athletics-for-communication-and-brand-311121",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-business-operations-r0154356-311018",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-director-compliance-and-eligibility-309202",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-cheer-coach-311332",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-coach-strength-and-conditioning-311259",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-business-and-finance-311023",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-annual-giving-athletics-311012",
-  "Intercollegiate::https://intercollegiate.co/job/associate-director-premium-sales-and-service-311243",
-  "Intercollegiate::https://intercollegiate.co/job/chief-commercial-officer-311008",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-annual-giving-311359",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
-  "Intercollegiate::https://intercollegiate.co/job/head-coach-men-s-soccer-311324",
-  "Intercollegiate::https://intercollegiate.co/job/head-coach-womens-s-soccer-311149",
-  "Intercollegiate::https://intercollegiate.co/job/head-football-coach-311052",
-  "Intercollegiate::https://intercollegiate.co/job/head-football-coach-311123",
-  "Intercollegiate::https://intercollegiate.co/job/human-resources-specialist-iii-athletics-311019",
-  "Intercollegiate::https://intercollegiate.co/job/nutritionist-sargent-administration-311333",
-  "Intercollegiate::https://intercollegiate.co/job/resident-athletic-trainer-311007",
-  "Intercollegiate::https://intercollegiate.co/job/tennis-center-assistant-department-of-athletics-311006"
+  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-sports-medicine-309239",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-football-coach-311466",
+  "Intercollegiate::https://intercollegiate.co/job/associate-director-digital-sales-311470",
+  "Intercollegiate::https://intercollegiate.co/job/business-intelligence-intern-35276-311463",
+  "Intercollegiate::https://intercollegiate.co/job/championships-and-sport-administration-coordinator-311453",
+  "Intercollegiate::https://intercollegiate.co/job/controller-311475",
+  "Intercollegiate::https://intercollegiate.co/job/creative-content-manager-311477",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-operations-track-field-and-cross-country-311473",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-performance-nutrition-308666",
+  "Intercollegiate::https://intercollegiate.co/job/grad-assistant-flames-force-intercollegiate-athletics-311474",
+  "Intercollegiate::https://intercollegiate.co/job/head-men-s-soccer-coach-specialist-3a-311468",
+  "Intercollegiate::https://intercollegiate.co/job/human-resources-coordinator-311479",
+  "Intercollegiate::https://intercollegiate.co/job/senior-technical-support-analyst-311456",
+  "Intercollegiate::https://intercollegiate.co/job/sport-psychology-fellow-311462",
+  "Intercollegiate::https://intercollegiate.co/job/student-tutor-athletics-mathematics-311485",
+  "Intercollegiate::https://intercollegiate.co/job/ticket-office-coordinator-5173u-intercollegiate-athletics-90002-311471",
+  "Intercollegiate::https://intercollegiate.co/job/uam-spirit-coach-311465",
+  "Intercollegiate::https://intercollegiate.co/job/und-insider-intern-311478",
+  "Intercollegiate::https://intercollegiate.co/job/video-producer-content-311469",
+  "Intercollegiate::https://intercollegiate.co/job/visiting-big-ten-fellow-311472"
  ],
  "https://ncaamarket.ncaa.org/jobs?keywords=&place=": [
   "NCAA Market::change-8df923f12ca8"
@@ -240,6 +240,8 @@
   "TeamWork Online (all sports, newest)::2200328"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
+  "TeamWork Online (NFL teams)::2068238",
+  "TeamWork Online (NFL teams)::2076019",
   "TeamWork Online (NFL teams)::2084217",
   "TeamWork Online (NFL teams)::2116280",
   "TeamWork Online (NFL teams)::2125879",
@@ -324,7 +326,6 @@
   "TeamWork Online (NFL teams)::2195462",
   "TeamWork Online (NFL teams)::2195652",
   "TeamWork Online (NFL teams)::2195653",
-  "TeamWork Online (NFL teams)::2195655",
   "TeamWork Online (NFL teams)::2195746",
   "TeamWork Online (NFL teams)::2195748",
   "TeamWork Online (NFL teams)::2196141",
@@ -379,7 +380,6 @@
   "TeamWork Online (NFL teams)::2199560",
   "TeamWork Online (NFL teams)::2199621",
   "TeamWork Online (NFL teams)::2199805",
-  "TeamWork Online (NFL teams)::2199903",
   "TeamWork Online (NFL teams)::2200055",
   "TeamWork Online (NFL teams)::2200112",
   "TeamWork Online (NFL teams)::2200255",
@@ -971,8 +971,7 @@
   "Las Vegas Raiders::9201299362341_1",
   "Las Vegas Raiders::9201299458966_1",
   "Las Vegas Raiders::9201313018182_1",
-  "Las Vegas Raiders::9201322177679_1",
-  "Las Vegas Raiders::9201325606682_25"
+  "Las Vegas Raiders::9201322177679_1"
  ],
  "https://www.paycomonline.net/v4/ats/web.php/portal/715F4103F5E4D572C92AFE85684343DC/career-page?jobSearchSettingsId=9272": [
   "New England Patriots (Kraft Group)::461636",
