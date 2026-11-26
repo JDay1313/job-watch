@@ -19,10 +19,10 @@
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletics-director-for-ticket-operations-311761",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-men-s-lacrosse-311759",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-women-s-soccer-1st-assistant-311736",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-sports-medicine-309239",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-player-personnel-311757",
   "Intercollegiate::https://intercollegiate.co/job/assistant-football-coach-311754",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletics-director-for-ticket-operations-311762",
-  "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/asst-coach-women-s-soccer-311749",
   "Intercollegiate::https://intercollegiate.co/job/athletic-trainer-collegiate-sports-311733",
   "Intercollegiate::https://intercollegiate.co/job/athletics-compliance-coordinator-311764",
@@ -682,7 +682,6 @@
   "Miami Marlins::2195633",
   "Miami Marlins::2195638",
   "Miami Marlins::2195681",
-  "Miami Marlins::2196860",
   "Miami Marlins::2198933",
   "Miami Marlins::2198959",
   "Miami Marlins::2199706",
@@ -960,10 +959,8 @@
  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=58d2d945-3a8e-4bea-81f1-e18a4a93c137&ccId=19000101_000001&type=MP&lang=en_US": [
   "Las Vegas Raiders::9201243039244_1",
   "Las Vegas Raiders::9201269001314_1",
-  "Las Vegas Raiders::9201294025396_1",
   "Las Vegas Raiders::9201299362341_1",
-  "Las Vegas Raiders::9201299458966_1",
-  "Las Vegas Raiders::9201322177679_1"
+  "Las Vegas Raiders::9201299458966_1"
  ],
  "https://www.paycomonline.net/v4/ats/web.php/portal/715F4103F5E4D572C92AFE85684343DC/career-page?jobSearchSettingsId=9272": [
   "New England Patriots (Kraft Group)::461636",
@@ -1152,7 +1149,9 @@
   "Sportradar::744000163687489",
   "Sportradar::744000163687649",
   "Sportradar::744000163687809",
-  "Sportradar::744000163714980"
+  "Sportradar::744000163714980",
+  "Sportradar::744000163798207",
+  "Sportradar::744000163799369"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1389,10 +1388,10 @@
  ],
  "https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22ESPN%22%7D]": [
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/digital-and-social-monetization-specialist/391/103685434144",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/director-i/391/103800091760",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/music-assistant/391/103489079344",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/radio-producer-i/391/103689386544",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/supervising-director/391/103469702304",
-  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/bristol/technical-operations-manager-remi-ops/391/102635837552",
+  "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/california/recurring-remote-security/391/103794204720",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/production-coordinator/391/103772521648",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/charlotte/supervising-real-time-graphics-developer/391/102295078192",
   "ESPN (Disney Careers)::https://www.disneycareers.com/en/job/los-angeles/associate-director-i/391/103790057440",
@@ -1412,8 +1411,7 @@
   "Cincinnati Reds::8a78839fa064212401a090a88d745494",
   "Cincinnati Reds::8a78839fa0f425e701a0f93864655403",
   "Cincinnati Reds::8a7883a8a184746e01a19e15164a6ccb",
-  "Cincinnati Reds::8a78859ea1ccde1401a1e5821d5a48dd",
-  "Cincinnati Reds::8a78859fa1ccddd201a1f0acb9ba49d7"
+  "Cincinnati Reds::8a78859ea1ccde1401a1e5821d5a48dd"
  ],
  "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08b729b3e018b72dc67f6007f": [
   "Minnesota Twins::8a7885aca0abfc6901a0cf18303c0159",
