@@ -14,17 +14,17 @@
   "Teamworks::f01ceb13-c03e-42a3-a2b5-6519b6b1f476"
  ],
  "https://intercollegiate.co/": [
-  "Intercollegiate::https://intercollegiate.co/job/assistant-ad-for-major-gifts-307163",
+  "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-307557",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletic-trainer-311800",
   "Intercollegiate::https://intercollegiate.co/job/assistant-athletics-director-for-championship-resources-ap27-039-311788",
   "Intercollegiate::https://intercollegiate.co/job/assistant-coach-311778",
   "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-athletic-communications-311781",
-  "Intercollegiate::https://intercollegiate.co/job/assistant-director-of-sports-medicine-309239",
   "Intercollegiate::https://intercollegiate.co/job/assistant-football-coach-311803",
   "Intercollegiate::https://intercollegiate.co/job/assistant-track-field-coach-311785",
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-compliance-integrity-311804",
   "Intercollegiate::https://intercollegiate.co/job/associate-head-football-coach-defensive-coordinator-311805",
   "Intercollegiate::https://intercollegiate.co/job/athletic-performance-dietitian-311786",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
   "Intercollegiate::https://intercollegiate.co/job/executive-assistant-to-the-athletic-director-311777",
   "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-equipment-operations-311801",
   "Intercollegiate::https://intercollegiate.co/job/head-men-s-soccer-coach-311799",
@@ -39,15 +39,8 @@
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
-  "TeamWork Online (all sports, newest)::2200682",
   "TeamWork Online (all sports, newest)::2200924",
-  "TeamWork Online (all sports, newest)::2200969",
-  "TeamWork Online (all sports, newest)::2200974",
-  "TeamWork Online (all sports, newest)::2200979",
-  "TeamWork Online (all sports, newest)::2200980",
   "TeamWork Online (all sports, newest)::2200981",
-  "TeamWork Online (all sports, newest)::2200983",
-  "TeamWork Online (all sports, newest)::2200984",
   "TeamWork Online (all sports, newest)::2200985",
   "TeamWork Online (all sports, newest)::2200986",
   "TeamWork Online (all sports, newest)::2200987",
@@ -238,7 +231,14 @@
   "TeamWork Online (all sports, newest)::2201183",
   "TeamWork Online (all sports, newest)::2201184",
   "TeamWork Online (all sports, newest)::2201185",
-  "TeamWork Online (all sports, newest)::2201186"
+  "TeamWork Online (all sports, newest)::2201186",
+  "TeamWork Online (all sports, newest)::2201187",
+  "TeamWork Online (all sports, newest)::2201188",
+  "TeamWork Online (all sports, newest)::2201189",
+  "TeamWork Online (all sports, newest)::2201190",
+  "TeamWork Online (all sports, newest)::2201191",
+  "TeamWork Online (all sports, newest)::2201192",
+  "TeamWork Online (all sports, newest)::2201193"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -1150,7 +1150,8 @@
   "Sportradar::744000163687809",
   "Sportradar::744000163798207",
   "Sportradar::744000163799369",
-  "Sportradar::744000163815771"
+  "Sportradar::744000163815771",
+  "Sportradar::744000163909689"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
