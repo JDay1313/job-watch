@@ -24,28 +24,23 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-athletic-director-compliance-integrity-311804",
   "Intercollegiate::https://intercollegiate.co/job/associate-head-football-coach-defensive-coordinator-311805",
   "Intercollegiate::https://intercollegiate.co/job/athletic-performance-dietitian-311786",
-  "Intercollegiate::https://intercollegiate.co/job/director-of-athletic-video-productions-310671",
+  "Intercollegiate::https://intercollegiate.co/job/business-office-manager-309697",
   "Intercollegiate::https://intercollegiate.co/job/executive-assistant-to-the-athletic-director-311777",
-  "Intercollegiate::https://intercollegiate.co/job/graduate-assistant-equipment-operations-311801",
-  "Intercollegiate::https://intercollegiate.co/job/head-men-s-soccer-coach-311799",
   "Intercollegiate::https://intercollegiate.co/job/head-volleyball-coach-311795",
   "Intercollegiate::https://intercollegiate.co/job/head-women-s-volleyball-coach-ap27-040-311789",
   "Intercollegiate::https://intercollegiate.co/job/hourly-pooled-video-production-game-day-workers-311774",
   "Intercollegiate::https://intercollegiate.co/job/manager-of-kansas-city-athletics-communications-umkc-311782",
   "Intercollegiate::https://intercollegiate.co/job/performance-dietitian-football-311775",
-  "Intercollegiate::https://intercollegiate.co/job/secondary-asst-softball-coach-311802"
+  "Intercollegiate::https://intercollegiate.co/job/secondary-asst-softball-coach-311802",
+  "Intercollegiate::https://intercollegiate.co/job/technical-production-coordinator-iv-311807",
+  "Intercollegiate::https://intercollegiate.co/job/ticket-sales-representative-i-311808"
  ],
  "https://ncaamarket.ncaa.org/jobs?keywords=&place=": [
   "NCAA Market::change-8df923f12ca8"
  ],
  "https://www.teamworkonline.com/jobs-in-sports?employment_opportunity_search%5Bsort_by%5D=most_recent": [
   "TeamWork Online (all sports, newest)::2200924",
-  "TeamWork Online (all sports, newest)::2200981",
-  "TeamWork Online (all sports, newest)::2200985",
-  "TeamWork Online (all sports, newest)::2200986",
-  "TeamWork Online (all sports, newest)::2200987",
   "TeamWork Online (all sports, newest)::2200988",
-  "TeamWork Online (all sports, newest)::2200989",
   "TeamWork Online (all sports, newest)::2200990",
   "TeamWork Online (all sports, newest)::2200992",
   "TeamWork Online (all sports, newest)::2200993",
@@ -238,7 +233,12 @@
   "TeamWork Online (all sports, newest)::2201190",
   "TeamWork Online (all sports, newest)::2201191",
   "TeamWork Online (all sports, newest)::2201192",
-  "TeamWork Online (all sports, newest)::2201193"
+  "TeamWork Online (all sports, newest)::2201193",
+  "TeamWork Online (all sports, newest)::2201194",
+  "TeamWork Online (all sports, newest)::2201197",
+  "TeamWork Online (all sports, newest)::2201198",
+  "TeamWork Online (all sports, newest)::2201199",
+  "TeamWork Online (all sports, newest)::2201201"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -344,7 +344,6 @@
   "TeamWork Online (NFL teams)::2198533",
   "TeamWork Online (NFL teams)::2198534",
   "TeamWork Online (NFL teams)::2198568",
-  "TeamWork Online (NFL teams)::2198671",
   "TeamWork Online (NFL teams)::2198688",
   "TeamWork Online (NFL teams)::2198751",
   "TeamWork Online (NFL teams)::2198873",
@@ -1059,14 +1058,12 @@
   "Sportradar::744000151586927",
   "Sportradar::744000151590010",
   "Sportradar::744000152029379",
-  "Sportradar::744000152681389",
   "Sportradar::744000152749419",
   "Sportradar::744000153210159",
   "Sportradar::744000153212009",
   "Sportradar::744000153670469",
   "Sportradar::744000153725884",
   "Sportradar::744000154364539",
-  "Sportradar::744000154429189",
   "Sportradar::744000154621760",
   "Sportradar::744000155211004",
   "Sportradar::744000155214249",
@@ -1076,9 +1073,6 @@
   "Sportradar::744000155753385",
   "Sportradar::744000156764839",
   "Sportradar::744000156770149",
-  "Sportradar::744000157759229",
-  "Sportradar::744000157759576",
-  "Sportradar::744000157810059",
   "Sportradar::744000157830220",
   "Sportradar::744000157887996",
   "Sportradar::744000157889352",
@@ -1136,7 +1130,6 @@
   "Sportradar::744000163159250",
   "Sportradar::744000163280384",
   "Sportradar::744000163280419",
-  "Sportradar::744000163425929",
   "Sportradar::744000163427873",
   "Sportradar::744000163444094",
   "Sportradar::744000163494229",
@@ -1148,7 +1141,9 @@
   "Sportradar::744000163798207",
   "Sportradar::744000163799369",
   "Sportradar::744000163815771",
-  "Sportradar::744000163909689"
+  "Sportradar::744000163909689",
+  "Sportradar::744000163988379",
+  "Sportradar::744000164006799"
  ],
  "greenhouse:prizepicks": [
   "PrizePicks::7618741003",
@@ -1519,7 +1514,6 @@
   "Green Bay Packers::2197752",
   "Green Bay Packers::2198438",
   "Green Bay Packers::2198568",
-  "Green Bay Packers::2198671",
   "Green Bay Packers::2199528"
  ],
  "https://jobs.dayforcehcm.com/bensonenterprises/SAINTSPELSCAREERS#backup": []
