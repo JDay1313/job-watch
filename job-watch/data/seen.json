@@ -24,7 +24,7 @@
   "Intercollegiate::https://intercollegiate.co/job/associate-head-football-coach-defensive-coordinator-311805",
   "Intercollegiate::https://intercollegiate.co/job/associate-senior-associate-athletics-director-of-development-303539",
   "Intercollegiate::https://intercollegiate.co/job/athletic-performance-dietitian-311786",
-  "Intercollegiate::https://intercollegiate.co/job/business-office-manager-309697",
+  "Intercollegiate::https://intercollegiate.co/job/director-of-athletics-compliance-308670",
   "Intercollegiate::https://intercollegiate.co/job/executive-assistant-to-the-athletic-director-311777",
   "Intercollegiate::https://intercollegiate.co/job/head-volleyball-coach-311795",
   "Intercollegiate::https://intercollegiate.co/job/head-women-s-volleyball-coach-ap27-040-311789",
@@ -43,8 +43,6 @@
   "TeamWork Online (all sports, newest)::2200992",
   "TeamWork Online (all sports, newest)::2200993",
   "TeamWork Online (all sports, newest)::2200994",
-  "TeamWork Online (all sports, newest)::2200998",
-  "TeamWork Online (all sports, newest)::2200999",
   "TeamWork Online (all sports, newest)::2201000",
   "TeamWork Online (all sports, newest)::2201001",
   "TeamWork Online (all sports, newest)::2201002",
@@ -238,7 +236,9 @@
   "TeamWork Online (all sports, newest)::2201204",
   "TeamWork Online (all sports, newest)::2201205",
   "TeamWork Online (all sports, newest)::2201206",
-  "TeamWork Online (all sports, newest)::2201207"
+  "TeamWork Online (all sports, newest)::2201207",
+  "TeamWork Online (all sports, newest)::2201208",
+  "TeamWork Online (all sports, newest)::2201209"
  ],
  "https://www.teamworkonline.com/football-jobs/footballjobs/nfl-football-jobs": [
   "TeamWork Online (NFL teams)::2067455",
@@ -355,7 +355,6 @@
   "TeamWork Online (NFL teams)::2199251",
   "TeamWork Online (NFL teams)::2199269",
   "TeamWork Online (NFL teams)::2199304",
-  "TeamWork Online (NFL teams)::2199528",
   "TeamWork Online (NFL teams)::2199531",
   "TeamWork Online (NFL teams)::2199534",
   "TeamWork Online (NFL teams)::2199540",
@@ -1510,8 +1509,7 @@
   "Green Bay Packers::2197751",
   "Green Bay Packers::2197752",
   "Green Bay Packers::2198438",
-  "Green Bay Packers::2198568",
-  "Green Bay Packers::2199528"
+  "Green Bay Packers::2198568"
  ],
  "https://jobs.dayforcehcm.com/bensonenterprises/SAINTSPELSCAREERS#backup": []
 }
